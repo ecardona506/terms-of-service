@@ -1,0 +1,266 @@
+Política de privacidad
+
+Entrada en vigor: 14 de septiembre de 2020
+
+Snap Inc. es una empresa de cámaras. Nuestros servicios (entre los que se encuentran Snapchat, Bitmoji y otros que se vinculan con esta política de privacidad) ofrecen formas rápidas y divertidas de expresarse, vivir el momento, aprender acerca del mundo y pasar buenos momentos compartidos.
+
+Al utilizar estos servicios, comparte cierta información con nosotros. Por eso, queremos ser claros con respecto a la información que recopilamos, la manera en que la usamos, con quién la compartimos y las opciones que brindamos para acceder, actualizar y eliminar dicha información.
+
+Esa es la razón por la que escribimos esta Política de privacidad. Y por la que hemos intentado redactarla de manera que no contenga jerga legal, que a menudo hace más difícil entender estos documentos. Por supuesto, si aún tiene preguntas sobre algún aspecto de nuestra Política de privacidad, simplemente comuníquese con nosotros.
+
+Recomendamos leer nuestra Política de privacidad completa, pero si solo tiene unos pocos minutos o quiere recordar algo más tarde, siempre puede consultar este resumen para repasar algunos de los aspectos básicos en solo unos minutos.
+
+Algunas notas finales antes de entrar en materia: nos satisface informar que participamos en el acuerdo Privacy Shield entre la UE y EE. UU. y Suiza y EE. UU.; puede consultar más información aquí. Además, si se encuentra en la UE, hay información adicional aquí que nos gustaría recomendarle.
+Información que recabamos
+
+Recabamos tres categorías básicas de información:
+
+    Información que decide compartir con nosotros.
+
+    Información que recopilamos cuando usa nuestros servicios.
+
+    Información que recopilamos de terceros.
+
+A continuación encontrará más detalles sobre cada categoría.
+Información que decide compartir con nosotros
+
+Cuando interactúa con nuestros servicios, recabamos los datos que usted decide compartir con nosotros. Por ejemplo, la mayor parte de nuestros servicios exige la creación de una cuenta básica de Snapchat, para lo que necesitamos tener algunos detalles importantes sobre usted, como un nombre de usuario único que quiera utilizar, una contraseña, una dirección de correo electrónico, un número de teléfono y su fecha de nacimiento. Para que sea más sencillo que otras personas lo encuentren, también podremos pedirle que nos facilite información adicional que se mostrará públicamente en nuestros servicios, como imágenes de perfil, un nombre u otros datos útiles de identificación. Para otros servicios, como los productos comerciales, también le solicitaremos que nos proporcione el número de una tarjeta de débito o de crédito, y la información de la cuenta correspondiente.
+
+Por supuesto, también nos facilitará cualquier información que envíe a tus amigos a través de nuestros servicios, como Snaps y Chats. Tenga en cuenta que los usuarios a los que envía Snaps, Chats y cualquier otro contenido en todo momento pueden guardar dicho contenido o copiarlo fuera de la app. Por lo tanto, el mismo sentido común que se aplica a Internet en general se aplica también a Snapchat. No envíe mensajes ni comparta contenido que no desee que alguien pueda guardar o compartir.
+
+Es probable que sea algo evidente, pero tenga en cuenta que cuando se comunica con nosotros a través de Ayuda al cliente u otras vías, recabamos cualquier información que nos facilite de forma voluntaria.
+Información que recabamos cuando usa nuestros servicios
+
+Cuando utiliza nuestros servicios, recabamos información sobre qué servicios emplea y de qué manera. Podríamos saber, por ejemplo, que ha visto una Historia en concreto, un anuncio específico durante un determinado período de tiempo o que ha enviado algunos Snaps a amigos. A continuación, encontrará una explicación más completa del tipo de información que recabamos cuando utiliza nuestros servicios:
+
+    Información de uso. Recabamos información sobre su actividad a través de nuestros servicios. Por ejemplo, podemos recopilar datos sobre lo siguiente:
+
+        La manera en que interactúa con nuestros servicios, como qué filtros ve o aplica a los Snaps, qué Historias ve en Descubre, si utiliza los Spectacles o qué búsquedas realiza.
+
+        La manera en que se comunica con otros Snapchatters, como sus nombres, la hora y fecha de las comunicaciones, el número de mensajes que intercambia con tus amigos, con qué amigos intercambia una mayor cantidad de mensajes y sus interacciones con los mensajes (por ejemplo, cuando abre un mensaje o toma un screenshot).
+
+    Información sobre el contenido. Recopilamos contenido que crea en nuestros servicios, como stickers personalizados, e información sobre el contenido que crea o proporciona, por ejemplo, si el destinatario vio el contenido y sus metadatos.
+
+    Información sobre el dispositivo. Recopilamos información sobre los dispositivos que utiliza. Por ejemplo, recopilamos lo siguiente:
+
+        Información sobre su hardware y software, como el modelo de hardware, la versión de sistema operativo, la memoria del dispositivo, identificadores publicitarios, identificadores únicos de aplicaciones, apps instaladas, identificadores únicos de dispositivos, tipo de navegador, idioma, nivel de batería y zona horaria.
+
+        Información de los sensores del dispositivo, como acelerómetros, giroscopios, brújulas, micrófonos y si sus auriculares están conectados.
+
+        Información acerca de sus conexiones de red inalámbrica y móvil, como número de teléfono móvil, proveedor de servicios y potencia de señal.
+
+    Agenda de contactos del dispositivo. Dado que el objetivo de Snapchat está relacionado fundamentalmente con comunicarse con los amigos, podemos recopilar, con su consentimiento, información de la agenda de contactos de su dispositivo.
+
+    Cámara y fotos. Para muchos de nuestros servicios nos vemos obligados a recolectar imágenes y otros datos de la cámara y las fotos de tu dispositivo. Por ejemplo, no podrá enviar Snaps ni subir fotos desde su dispositivo, a menos que podamos acceder a la cámara o las fotos.
+
+    Información de ubicación. Cuando utiliza nuestros servicios, podemos recabar información sobre su ubicación. Con su consentimiento, también podemos recopilar información sobre su ubicación exacta a través de métodos como GPS, redes inalámbricas, torres de telefonía móvil, puntos de acceso Wi-Fi y otros sensores, como giroscopios, acelerómetros y brújulas.
+
+    Información recopilada mediante cookies y otras tecnologías. Al igual que la mayoría de los servicios en línea y aplicaciones móviles, es posible que usemos cookies y otras tecnologías, como balizas web, almacenamiento web e identificadores publicitarios únicos, a fin de recabar información sobre su actividad, navegador y dispositivo. También podemos usar estas tecnologías para recopilar información cuando interactúa con servicios que ofrecemos a través de alguno de nuestros socios, como anuncios y funciones comerciales. La mayoría de los navegadores web están configurados de manera predeterminada para aceptar cookies. Si lo prefiere, puede eliminar o rechazar la instalación de cookies por medio de los ajustes del navegador o del dispositivo. Pero tenga en cuenta que eliminar o rechazar la instalación de cookies puede afectar la disponibilidad y funcionalidad de nuestros servicios. Para saber más sobre cómo usamos las cookies y cuáles son sus opciones, consulte nuestra Política de cookies. Para saber más sobre la manera en que terceros utilizan estas tecnologías en nuestros servicios, lea la sección Servicios de Analítica y Publicidad de terceros de nuestra Política de Privacidad.
+
+    Información de registro. También recabamos información de registro cuando utiliza nuestro sitio web. Esa información incluye, entre otras cosas, lo siguiente:
+
+        detalles sobre la manera en que ha utilizado nuestros servicios;
+
+        información del dispositivo, como el tipo de navegador web y el idioma;
+
+        las horas de acceso;
+
+        las páginas visitadas;
+
+        la dirección IP;
+
+        identificadores asociados con cookies u otras tecnologías que podrían identificar de manera única su dispositivo o navegador;
+
+        páginas que visitó antes o después de navegar en nuestro sitio web.
+
+Información que recabamos de terceros
+
+Podemos recopilar información sobre usted procedente de otros usuarios, de nuestros afiliados y de terceros. Estos son algunos ejemplos:
+
+    Si vincula su cuenta de Snapchat a otro servicio (como Bitmoji o apps de terceros), es posible que recibamos información del otro servicio, por ejemplo, sobre el uso que hace de ese servicio.
+
+    Los anunciantes pueden indicarnos que ha instalado una nueva app o juego para que podamos saber si le mostramos un anuncio relacionado.
+
+    Si interactúa con uno de nuestros anunciantes, este puede compartir información con nosotros para ayudarnos a orientar o medir el rendimiento de los anuncios. Puede obtener más información sobre este tipo de anuncios en nuestro Centro de soporte técnico.
+
+    Si otro usuario actualiza su lista de contactos, puede que combinemos la información de esa lista de contactos con otros datos que hayamos recabado sobre usted.
+
+Cómo usamos la información
+
+¿Qué hacemos con la información que recabamos? Para obtener una respuesta detallada, consulte aquí. En pocas palabras, la intención es proporcionarle un increíble conjunto de productos y servicios que mejoramos constantemente. Estas son las formas en que lo hacemos:
+
+    Desarrollar, operar, mejorar, proporcionar, mantener y proteger nuestros productos y servicios.
+
+    Comunicarnos con usted, incluso por correo electrónico. Por ejemplo, podemos usar el correo electrónico para responder a solicitudes de soporte o para enviarle información sobre productos, servicios y ofertas promocionales que creemos podrían interesarle.
+
+    Supervisar y analizar las tendencias y usos.
+
+    Personalizar nuestros servicios.
+
+    Contextualizar su experiencia al etiquetar el contenido de sus Recuerdos con la información exacta de su ubicación (por supuesto, si nos ha autorizado para recopilar estos datos) y con otras etiquetas basadas en el contenido, entre otras cosas.
+
+    Proporcionar y mejorar la orientación y medición de anuncios mediante el uso de información precisa sobre su ubicación (también en este caso, si nos ha dado permiso para recopilar esa información), tanto dentro como fuera de nuestros servicios. Consulte la sección Control sobre su información que aparece más adelante para obtener más información sobre las prácticas de Snap Inc. en cuanto a publicidad y sobre las opciones a su disposición.
+
+    Mejorar la seguridad y protección de nuestros productos y servicios.
+
+    Verificar su identidad y evitar fraudes u otras actividades no autorizadas o ilegales.
+
+    Utilizar la información que recabamos a través de cookies y otras tecnologías para mejorar nuestro servicio y su experiencia con ellos.
+
+    Aplicar nuestras Condiciones de servicio y otras políticas de uso.
+
+También podemos usar información de la cámara TrueDepth de Apple para mejorar la calidad de Lentes. La información de la cámara TrueDepth se utiliza en tiempo real. No almacenamos esta información en nuestros servidores ni la compartimos con terceros.
+Cómo compartimos la información
+
+Es posible que compartamos información sobre usted de las siguientes formas:
+
+    Con otros Snapchatters. Es posibles que compartamos la siguiente información con otros Snapchatters:
+
+        Información personal, como su nombre de usuario, nombre y Bitmoji.
+
+        Información sobre la manera en que ha interactuado con nuestros servicios, como su “puntuación” de Snapchat, los nombres de sus amigos Snapchatters y otros datos que ayudarán a los Snapchatters a entender sus conexiones con otros usuarios de nuestros servicios. Por ejemplo, dado que no está claro si una solicitud de nueva amistad proviene de una persona que realmente conoce, podemos compartir si el solicitante y usted tienen contactos de Snapchat en común.
+
+        Cualquier información adicional que nos haya indicado que compartamos.
+
+        Contenido que publica o envía. La medida en que se comparte su contenido depende de su configuración personal y del tipo de servicio que utiliza. Por ejemplo, podrá enviar un Snap a solo un amigo que haya seleccionado, pero cualquier Snapchatter podrá ver lo que publica en Mi Historia si usted le ha permitido acceder a dicho contenido.
+
+    Con todos los Snapchatters, nuestros socios comerciales y el público en general. Podremos compartir la siguiente información con todos los Snapchatters, nuestros socios comerciales y el público en general:
+
+        Información pública, como su nombre, nombre de usuario, Snapcódigo e imágenes de perfil.
+
+        Historias que haya enviado y configurado para que todos puedan visualizarlas, y cualquier contenido que envíe a un servicio inherentemente público, como Nuestra historia y otros servicios de fuentes múltiples. A este contenido lo puede visualizar y compartir el público en general tanto en nuestros servicios como en otros servicios, incluso mediante resultados de búsqueda, en sitios web, en apps y en emisiones online y fuera de línea.
+
+    Con nuestros afiliados. Podemos compartir información con entidades pertenecientes a la familia de empresas Snap Inc.
+
+    Con terceros. Podemos compartir su información con los siguientes terceros:
+
+        Con proveedores de servicios. Podemos compartir información sobre usted con proveedores de servicios que realizan prestaciones en nuestro nombre. Obtenga más información aquí.
+
+        Con socios comerciales. Podemos compartir información sobre usted con socios comerciales que ofrecen servicios y funcionalidades. Para obtener más detalles sobre la información recopilada por terceros sobre nuestros servicios, visite nuestro Sitio de apoyo.
+
+        Con terceros por motivos legales. Podemos compartir información sobre usted si tenemos razones suficientes para creer que se debe divulgar dicha información para lo siguiente:
+
+            Cumplir con un procedimiento legal, solicitud del gobierno o con la ley, reglas o normas aplicables.
+
+            Investigar, solucionar o sancionar posibles infracciones de las Condiciones de servicio.
+
+            Proteger nuestros derechos, propiedad y seguridad, así como los de los usuarios y otras personas.
+
+            Detectar y resolver cualquier cuestión relativa a seguridad o relacionada con el fraude.
+
+        Con terceros, como parte de una fusión o adquisición. Si Snap Inc. se ve inmerso en un proceso de fusión, venta de activos, financiación, liquidación o concursal, o adquisición total o parcial de nuestro negocio por parte de otra compañía, podremos compartir su información con dicha compañía antes y después de cerrar la transacción.
+
+Asimismo, podemos compartir con terceros (por ejemplo, los anunciantes) datos agregados, que no permitan conocer su identidad personal o en los que se haya eliminado toda marca de identidad.
+Contenido de terceros e integraciones
+
+Nuestros servicios también pueden contener enlaces de terceros y resultados de búsquedas, incluidas integraciones de terceros, o bien ofrecer un servicio de marca compartida o de un tercero. A través de estos enlaces, las integraciones de terceros y los servicios de marca compartida o de un tercero, podría proporcionar información (incluso de carácter personal) directamente al tercero, a nosotros o a ambos. Reconoce y acepta que no somos responsables de cómo esos terceros recaban o utilizan su información. Como siempre, le recomendamos revisar las políticas de privacidad de todos los servicios de terceros que visite o use, incluidos aquellos terceros con los que interactúa a través de nuestros servicios. Para obtener más información sobre servicios de terceros en Snapchat, visita nuestro Sitio de apoyo.
+Servicios de analítica y publicidad
+
+De terceros
+
+Es posible que permitamos que otras empresas utilicen cookies, balizas web y tecnologías similares de seguimiento en nuestros servicios. Estas empresas pueden recopilar información sobre cómo utiliza nuestros servicios a lo largo del tiempo y combinarla con información similar de otros servicios y empresas. Esta información se puede utilizar para analizar y rastrear datos, determinar la popularidad de ciertos contenidos y comprender mejor su actividad en línea, entre otras cosas.
+
+Además, algunas empresas, incluidas nuestras afiliadas, pueden usar información recopilada sobre nuestros servicios para medir el rendimiento de los anuncios y, así, publicar los que sean más relevantes, en nuestro nombre o en el de otras empresas, incluidos sitios web y apps de terceros. Para obtener más información sobre la publicidad basada en sus intereses y las opciones a su disposición, acceda aquí.
+Nuestros
+
+Podemos recopilar información sobre su actividad en servicios de terceros que utilizan cookies y otras tecnologías proporcionadas por nosotros. Utilizamos esta información para mejorar nuestros servicios publicitarios, incluida la medición del rendimiento de los anuncios y mostrarle los que sean más relevantes. Visite nuestra página de Preferencias de publicidad para obtener más información sobre la publicidad en Snapchat y cómo puede controlar la información utilizada para seleccionar los anuncios que ve.
+Durante cuánto tiempo conservamos tu información
+
+Snapchat le permite capturar lo que es vivir el momento. Desde nuestro lado, eso significa que la mayoría de los mensajes, como Snaps y chats, enviados en Snapchat se eliminarán automáticamente de nuestros servidores de forma predeterminada después de detectar que todos los destinatarios los abrieron o que han caducado. Otros contenidos, como las publicaciones de Historia, se almacenan durante más tiempo. Para obtener información detallada sobre cuánto tiempo almacenamos diferentes tipos de contenido, consulte nuestro Sitio de apoyo.
+
+Guardamos otro tipo de información durante más tiempo. Por ejemplo:
+
+    Guardamos la información básica de su cuenta (como el nombre, número de teléfono y dirección de correo electrónico) así como la lista de amigos, hasta que nos pida que la eliminemos.
+
+    Almacenamos información de ubicación de acuerdo con diferentes períodos de tiempo en función de su precisión y de los servicios que utiliza. Por ejemplo, si usa el Mapa, almacenamos información sobre sus lugares favoritos hasta 40 días para poder mostrarle Actionmoji y mejorar su experiencia. Si la información de ubicación se asocia con un Snap, como los guardados en Memorias o los publicados en Nuestra Historia, conservaremos esa ubicación durante el tiempo que almacenemos el Snap.
+
+    Recopilamos y actualizamos constantemente información sobre lo que podría o no gustarle, a fin de poder ofrecerle un contenido y una publicidad más relevantes. Consulte aquí para obtener más información.
+
+Si alguna vez decide dejar de usar Snapchat, puede simplemente pedirnos que eliminemos su cuenta. También eliminaremos la mayor parte de la información sobre usted que hayamos recopilado transcurrido un tiempo sin actividad por su parte; pero no se preocupe, antes intentaremos comunicarnos con usted.
+
+Tenga en cuenta que, aunque nuestros sistemas están diseñados para ejecutar nuestras prácticas de eliminación de manera automática, no podemos garantizar que dicha eliminación se lleve a cabo en un período de tiempo determinado. Puede que existan requisitos legales para que almacenemos sus datos y tal vez tengamos que suspender estas prácticas de eliminación si recibimos un requerimiento legal válido por el que se nos exija que conservemos contenido o si recibimos informes de abuso u otras violaciones de las Condiciones de servicio. Por último, también podremos conservar ciertos datos como copia de respaldo o seguridad durante un período limitado o según lo exija la ley.
+Control sobre tu información
+
+Queremos que tenga el control de su información, por eso le proporcionamos las siguientes herramientas.
+
+    Descargar mis datos. Puedes acceder y editar la mayor parte de la información básica de su cuenta directamente en nuestras apps. También puede usar Descargar mis datos para obtener una copia de la información que no esté disponible en nuestras apps en un formato portátil para que pueda moverla o almacenarla donde quiera. Dado que su privacidad es importante para nosotros, podremos pedirle que verifique su identidad o nos proporcione información adicional antes de permitir el acceso o la actualización de su información personal. También podemos rechazar su solicitud de acceso o actualización de información personal por diferentes razones, por ejemplo, si la solicitud pone en riesgo la privacidad de otros usuarios o es ilegal.
+
+    Revocación del consentimiento. Si nos permite usar su información, en cualquier momento puede cambiar de opinión y simplemente revocar su consentimiento con tan solo cambiar la configuración de su dispositivo, si ofrece esas opciones. Por supuesto, si lo hace, algunos servicios podrían perder su funcionalidad completa.
+
+    Eliminación. Aunque esperamos que siga siendo un Snapchatter durante toda su vida, si alguna vez desea eliminar su cuenta por cualquier razón, simplemente hágalo desde aquí. También puede eliminar información en la app, como fotos que haya guardado en Memorias, envíos a Nuestra Historia y el historial de búsqueda.
+
+    Preferencias de publicidad. Tratamos de mostrarle anuncios que creemos que son de su interés. Si desea modificar la información que nosotros y nuestros socios publicitarios utilizamos para seleccionar estos anuncios, puede hacerlo en la app. Consulte aquí para obtener más información.
+
+    Comunicación con otros Snapchatters. También es importante para nosotros que tenga control sobre con qué personas se comunica. Para eso creamos una serie de herramientas en ajustes, que le permiten indicar, entre otras cosas, quién quiere que vea sus Historias, si le gustaría recibir Snaps solo de sus amigos o de todos los Snapchatters y si quiere bloquear a otro Snapchatter para que no pueda comunicarse con usted de nuevo. Consulte aquí para obtener más información.
+
+Usuarios de la Unión Europea
+
+Si es usuario en la Unión Europea, debe saber que Snap Inc. es el titular del tratamiento de su información personal. Aquí tiene información adicional que le recomendamos leer:
+
+Derechos de acceso, supresión, rectificación y portabilidad
+
+Puede ejercer sus derechos de acceso, eliminación, corrección y portabilidad como se describe en la sección Control sobre su información anterior.
+Fundamentos para utilizar su información
+
+Su país solo permite usar su información personal cuando se aplican ciertas condiciones. Estas condiciones se denominan “bases legales” y, en Snap, normalmente nos basamos en una de estas cuatro:
+
+    Contrato. Una razón por la que podemos usar su información es porque ha suscrito un acuerdo con nosotros. Por ejemplo, cuando compra un Geofiltro por encargo y acepta nuestras Condiciones de las herramientas creativas personalizadas, necesitamos usar parte de su información para gestionar los pagos y asegurar que mostramos su Geofiltro a las personas correctas, en el lugar y el momento adecuados.
+
+    Interés legítimo. Otra razón por la que podemos usar su información es porque nosotros (o un tercero) tenemos un interés legítimo para hacerlo. Por ejemplo, necesitamos usar su información para proporcionar y mejorar nuestros servicios, incluidas la protección de su cuenta, la entrega de sus Snaps, la prestación de asistencia al cliente, así como también ayudarle a encontrar amigos y contenido que creemos que le gustará. Dado que la mayoría de nuestros servicios son gratuitos, también utilizamos información sobre usted para intentar mostrar anuncios que encuentre interesantes. Un elemento importante a la hora de entender el interés legítimo es que nuestros intereses no pueden superar su derecho a la privacidad, por lo que solo nos basamos en el interés legítimo cuando pensamos que la forma en que utilizamos sus datos no afecta significativamente a su privacidad o a sus expectativas al respecto, o bien que exista una razón adecuada para hacerlo. Explicamos nuestras razones comerciales legítimas para usar su información con más detalle aquí.
+
+    Consentimiento. En algunos casos solicitamos consentimiento para usar su información con fines específicos. Si lo hacemos, nos aseguraremos de que pueda revocar su consentimiento en nuestros servicios o mediante la gestión de permisos de su dispositivo. Incluso cuando el uso de su información no se basa en su consentimiento, podemos pedirle permiso para acceder a datos como contactos y ubicación.
+
+    Obligación legal. Es posible que se nos requiera el uso de su información personal para cumplir con la ley, por ejemplo para responder a un procedimiento legal válido o a la necesidad de tomar medidas para proteger a nuestros usuarios. Desde el 15 de noviembre de 2015, nuestra política ha sido dar aviso a los Snapchatters cuando recibimos una notificación de las fuerzas de seguridad en la que se requiere información sobre la cuenta, con ciertas excepciones. Obtenga más información aquí.
+
+Su derecho de oposición
+
+Tiene derecho a oponerse al uso que hacemos de su información. Para muchos tipos de datos, le hemos proporcionado la capacidad de eliminarlos simplemente si no quiere que sigamos procesándolos. Para otros tipos de datos, le hemos dado la capacidad de interrumpir el uso de sus datos mediante la inhabilitación del conjunto de funcionalidades. Puede hacer uso de estas opciones en la app. Si hay otros tipos de información con cuyo procesamiento por nuestra parte no está de acuerdo, puede comunicarse con nosotros.
+Transferencias internacionales
+
+Podemos recopilar su información personal, transferirla, almacenarla y procesarla en Estados Unidos y otros países diferentes a aquel en el que reside. Cada vez que compartimos información sobre usuarios de la UE fuera de la UE, nos aseguramos de que exista un mecanismo adecuado de transferencia. Para las transferencias internas, nos basamos en Cláusulas contractuales modelo o en los acuerdos Privacy Shield entre la UE y EE. UU. y Suiza y EE. UU.; puede consultar más información aquí. Puede obtener más información sobre las categorías de terceros con los que compartimos información aquí.
+
+¿Quejas? Si reside en la UE, siempre puede presentar una queja ante la autoridad supervisora de su Estado miembro. Por ejemplo, si reside en el Reino Unido puede presentar una queja ante la Oficina del Comisionado de Información.
+Usuarios en brasil
+
+Aquí tiene información adicional que le recomendamos leer:
+
+Derechos de acceso, supresión, rectificación y portabilidad
+
+Puede ejercer sus derechos de acceso, eliminación, corrección y portabilidad como se describe en la sección Control sobre su información anterior.
+
+Bases para usar su información
+
+Su país solo permite usar su información personal cuando se aplican ciertas condiciones. Estas condiciones se denominan “bases legales” y, en Snap, normalmente nos basamos en una de estas cuatro:
+
+    Una razón por la que podemos usar su información es porque ha suscrito un acuerdo con nosotros. Por ejemplo, cuando compra un Geofiltro por encargo y acepta nuestras Condiciones de las herramientas creativas personalizadas, necesitamos usar parte de su información para gestionar los pagos y asegurar que mostramos su Geofiltro a las personas correctas, en el lugar y el momento adecuados.
+
+    Otra razón por la que podemos usar su información es porque nosotros (o un tercero) tenemos un interés legítimo para hacerlo. Por ejemplo, necesitamos usar su información para proporcionar y mejorar nuestros servicios, incluidas la protección de su cuenta, la entrega de sus Snaps, la prestación de asistencia al cliente, así como también ayudarle a encontrar amigos y contenido que creemos que le gustará. Dado que la mayoría de nuestros servicios son gratuitos, también utilizamos información sobre usted para intentar mostrar anuncios que encuentre interesantes. Un elemento importante a la hora de entender el interés legítimo es que nuestros intereses no pueden superar su derecho a la privacidad, por lo que solo nos basamos en el interés legítimo cuando pensamos que la forma en que utilizamos sus datos no afecta significativamente a su privacidad o a sus expectativas al respecto, o bien que exista una razón adecuada para hacerlo.
+
+    En algunos casos solicitamos consentimiento para usar su información con fines específicos. Si lo hacemos, nos aseguraremos de que pueda revocar su consentimiento en nuestros servicios o mediante la gestión de permisos de su dispositivo. Incluso cuando el uso de su información no se basa en su consentimiento, podemos pedirle permiso para acceder a datos como contactos y ubicación.
+
+    Es posible que se nos requiera el uso de su información personal para cumplir con la ley, por ejemplo para responder a un procedimiento legal válido o a la necesidad de tomar medidas para proteger a nuestros usuarios.
+
+Su derecho a oponerse
+
+Tiene derecho a oponerse al uso que hacemos de su información. Para muchos tipos de datos, le hemos proporcionado la capacidad de eliminarlos simplemente si no quiere que sigamos procesándolos. Para otros tipos de datos, le hemos dado la capacidad de interrumpir el uso de sus datos mediante la inhabilitación del conjunto de funcionalidades.
+
+¿Quejas?
+Usuarios en mexico
+
+Aquí tiene información adicional que le recomendamos leer:
+
+Derechos de acceso, rectificación y cancelación
+
+Puede ejercer sus derechos de acceso, rectificación y cancelación como se describe en la sección Control sobre su información anterior.
+
+Su derecho a oponerse o impugnar
+
+Para muchos tipos de datos, le hemos proporcionado la capacidad de eliminarlos simplemente si no quiere que sigamos procesándolos. Para otros tipos de datos, le hemos dado la capacidad de interrumpir el uso de sus datos mediante la inhabilitación del conjunto de funcionalidades. Puede hacer uso de estas opciones en la app. Si hay otros tipos de información con cuyo procesamiento por nuestra parte no está de acuerdo, puede comunicarse con nosotros.
+Residentes en California
+
+Si es residente de California, tiene ciertos derechos de privacidad según la ley de California, incluida la Ley de Privacidad del Consumidor de California de 2018 ("CCPA"). Nuestro Aviso de privacidad de California especifica estos derechos, échale un vistazo.
+
+Nuestros servicios no están destinados a ninguna persona menor de 13 años. Por esta razón no recopilamos información personal a sabiendas de ninguna persona menor de 13 años. Además, podemos limitar la forma en que recopilamos, utilizamos y almacenamos parte de la información de los usuarios de la UE de entre 13 y 16 años. En algunos casos, esto significa que no podemos proporcionar ciertas funcionalidades a estos usuarios. Si necesitamos contar con el consentimiento como base legal para procesar su información y su país requiere el consentimiento de uno de los progenitores, podemos requerir el consentimiento de uno de sus progenitores antes de recopilar y usar dicha información.
+Modificaciones de la Política de privacidad
+
+Podemos modificar esta Política de privacidad periódicamente. Sin embargo, cuando así sea, se lo notificaremos de una u otra forma. A veces se lo comunicaremos a través del cambio de fecha en la parte superior de la Política de privacidad que está disponible en nuestro sitio web y en la aplicación móvil. En otras ocasiones, incluiremos un aviso adicional (como una declaración en la página principal de nuestros sitios web o una notificación en la app).

@@ -1,0 +1,172 @@
+POLÍTICA DE PROTECCIÓN DE DATOS PERSONALES SODIMAC COLOMBIA S.A
+1. ANTECEDENTES Y OBJETO DE ESTA POLÍTICA.
+
+SODIMAC COLOMBIA S.A., es una empresa privada, constituida como persona jurídica de carácter mercantil.
+
+El 19 de Julio de 2013, SODIMAC COLOMBIA S.A. adoptó y publicó su Política de Tratamiento de Datos Personales, definiendo los lineamientos generales para la protección y tratamiento de los datos personales de los Clientes, Proveedores, Contratistas, Afiliados al Programa Círculo de Especialistas Constructor (CEC) y terceros, en virtud del desarrollo de las actividades comerciales vinculadas con las Tiendas Homecenter y Constructor y demás canales de venta de SODIMAC COLOMBIA S.A.
+
+Ahora bien, SODIMAC COLOMBIA S.A. ha decidido actualizar su Política de Tratamiento de Datos Personales y adoptar de forma voluntaria la presente Política de Proteccion Datos Personales, en la cual se establecen las condiciones de organización, obligaciones de los implicados e intervinientes en el tratamiento y uso de la información de carácter personal, régimen de funcionamiento, y procedimientos aplicables al tratamiento de datos personales que en el desarrollo de sus funciones propias como empresa de comercialización de bienes y servicios, tenga que solicitar, utilizar, almacenar, corregir, ceder o suprimir.
+
+SODIMAC COLOMBIA S.A. es la entidad Responsable del tratamiento de Datos Personales y en cumplimiento a lo establecido en el artículo 13 del Decreto Reglamentario 1377 de 2013, adopta y hace público a todos los interesados el presente documento que contiene todos los elementos esenciales, sencillos y seguros para el cumplimiento de la legislación colombiana correspondiente a la Protección de Datos Personales. Así mismo, el presente documento servirá como referencia para todos los sectores de interés que sostengan algún tipo de relación con SODIMAC COLOMBIA S.A., contribuyendo al correcto conocimiento y garantía del derecho fundamental a la Protección de Datos Personales y para que esta Política pueda ser utilizada en diferentes ámbitos de aplicación. Sumado a ello, la adopción de esta Política de Protección de Datos Personales, no implica un cambio sustancial en las políticas de Tratamiento de Datos Personales de SODIMAC COLOMBIA S.A., preservando el Responsable y Finalidades del Tratamiento definidos en la Política publicada el 19 de Julio de 2013.
+
+Eventualmente SODIMAC COLOMBIA S.A. podrá tener la calidad de Encargado de Tratamiento de Datos personales.
+
+Datos de identificación: SODIMAC COLOMBIA S.A., es la propietaria de los Almacenes Homecenter y Constructor, se identifica con NIT 800242106-2.
+
+Datos de contacto:Carrera 68 D No. 80 – 70 de Bogotá, Teléfonos de servicio al cliente Bogotá (1) 3077115, línea nacional 320 88 999 33, página web www.homecenter.com.co enlace Contáctenos, correo electrónico servicioalcliente@homecenter.co o personalmente en los Centros de Servicios ubicados en HOMECENTER y CONSTRUCTOR.
+2. DEFINICIONES.
+
+Autorización: Se refiere al consentimiento previo, expreso e informado del Titular para que SODIMAC COLOMBIA S.A., o sus Encargados lleven a cabo el Tratamiento de los Datos Personales del Titular.
+
+Aviso de Privacidad: Se trata del documento físico, electrónico o en cualquier otro formato, generado por SODIMAC COLOMBIA S.A. que ha sido puesto a disposición del Titular para el Tratamiento de sus Datos Personales, el cual comunica al Titular la información relativa a la existencia de las Políticas de Tratamiento de Datos Personales que le serán aplicables, la forma de acceder a las mismas y las características del Tratamiento que se pretende dar a los Datos Personales.
+
+Base de Datos: Consisten en un conjunto organizado de Datos Personales que sean objeto de Tratamiento, e incluye archivos físicos y electrónicos.
+
+Dato Personal: Según la ley 1581 de 2012, es cualquier información vinculada o que pueda asociarse a una o varias personas naturales determinadas o determinables.
+
+Dato Público: Dato Personal calificado como público por la ley o la Constitución Política. Son públicos, entre otros, los datos relativos al estado civil de las personas, a su profesión u oficio, a su calidad de comerciante o de servidor público.
+
+Dato Sensible: Dato Personal cuyo uso afecta la intimidad del Titular o cuyo uso indebido puede generar su discriminación, tales como aquellos que revelen el origen racial o étnico, la orientación política, las convicciones religiosas o filosóficas, la pertenencia a sindicatos, organizaciones sociales, de derechos humanos o que promueva intereses de cualquier partido político o que garanticen los derechos y garantías de partidos políticos de oposición así como los datos relativos a la salud, a la vida sexual y los datos biométricos.
+
+Titular: Persona natural cuyos datos personales son objeto de Tratamiento.
+
+Tratamiento: Es cualquier operación o conjunto de operaciones sobre Datos Personales que realicen SODIMAC COLOMBIA S.A., o los Encargados del Tratamiento por cuenta de SODIMAC COLOMBIA S.A., tales como la recolección, almacenamiento, uso, circulación o supresión.
+
+Transferencia: Consiste en el envío de los Datos Personales a un receptor que, a su vez, es responsable del Tratamiento en los términos de la Ley 1581 de 2012.
+
+Transmisión: Es la comunicación de los Datos Personales al Encargado del Tratamiento, dentro o fuera del territorio de la República de Colombia, con la finalidad de la realización de un Tratamiento por el Encargado del Tratamiento por cuenta de SODIMAC COLOMBIA S.A.
+3. ROLES Y RESPONSABILIDADES GENERALES AL INTERIOR DE LA ORGANIZACIÓN.
+
+SODIMAC COLOMBIA S.A. cuenta con una estructura administrativa y operativa al interior de la Organización, encargada de la gestión y protección de datos personales. La administración, control y seguimiento del proceso se encuentran a cargo de las áreas de Seguridad de la Información y áreas de Control interno. Para la operación del proceso se tiene definido el rol Analista de Protección de Datos Personales.
+4. TRATAMIENTO AL QUE SERÁN SOMETIDOS LOS DATOS PERSONALES Y FINALIDADES.
+
+Los datos personales de Clientes, Proveedores, Contratistas, Colaboradores y terceros, que se recojan o que se encuentren registrados en las bases de datos de SODIMAC COLOMBIA S.A., serán tratados conforme a los principios rectores para el Tratamiento de Datos Personales y disposiciones contenidas en la Ley 1581 de 2012 y serán aplicables de igual forma a las bases de datos compartidas o transferidas a SODIMAC COLOMBIA S.A., por terceros.
+
+Para las finalidades descritas a continuación, SODIMAC COLOMBIA S.A. podrá: Recoger, transmitir, almacenar, usar, procesar, compartir, transferir, transmitir y custodiar los datos personales de los Titulares, como Responsable, encargándose directamente del tratamiento de los mismos o encargando a un tercero que tenga vinculo comercial con las Tiendas Homecenter y Constructor, sea que opere o no en otro país para la prestación de cualquier servicio que pueda ser suministrado conforme a las finalidades siguientes y las que sean autorizadas por los Titulares.
+
+4.1. Finalidades del tratamiento de datos personales
+
+SODIMAC COLOMBIA S.A. usará los datos personales del Titular –Cliente- con las siguientes finalidades:
+
+• Para el desarrollo de actividades comerciales y transaccionales vinculadas con las Tiendas Homecenter y Constructor, comercio electrónico y ventas a través de ventas a distancia.
+• Para la expedición de cotizaciones, facturas, notas pedido y demás documentos como soporte de una transacción.
+• Para perfeccionar o concretar el pago de un producto o servicio adquirido por el Titular.
+• Para el despacho de pedidos y prestación de servicios contratados por el Titular. Así como el proceso de evaluación y posterior calificación de la calidad del servicio prestado.
+• Atención del trámite de garantías y devolución de productos.
+• Emisión de respuestas a las consultas acerca de productos y servicios ofrecidos, peticiones, quejas y reclamos.
+• Realización de estudios con fines estadísticos, medición del nivel de satisfacción del cliente y de conocimiento del Cliente.
+• Recibir información y ofertas sobre novedades, productos, servicios, concursos y eventos especiales propios del objeto social de SODIMAC COLOMBIA S.A. que puedan resultar atractivos o beneficiosos para sus clientes.
+• Para el desarrollo de actividades relacionadas con servicios computarizados.
+• La prestación de servicios de atención telefónica; cobranzas u otros de naturaleza similar.
+• La ejecución de procesos y procedimientos contables.
+• La realización y cumplimiento de los protocolos de seguridad establecidos por SODIMAC COLOMBIA S.A.
+• Adelantar el control y prevención de fraudes y lavado de activos, cuando aplique.
+• La creación de bases de datos de acuerdo con las características y perfiles de los titulares de Información personal.
+• El cumplimiento de obligaciones legales por parte de SODIMAC COLOMBIA S.A. entre ellas y sin limitarse a éstas: el registro de venta de sustancias controladas; la interposición de denuncias en calidad de víctima; el registro de Control para la venta de ácidos, álcalis y sustancias corrosivas; la reversión de transacciones en virtud de las normas de Protección al Consumidor; la celebración de contratos de transacción para precaver litigios, entre otros.
+• Respecto a los Clientes Afiliados al Círculo de Especialistas Constructor (CEC), SODIMAC COLOMBIA S.A. tratará sus datos personales para finalidades asociadas a Realizar la inscripción al Programa; hacer el envío de correos electrónicos y mensajes de texto sobre información y publicidad del CEC y las Tiendas CONSTRUCTOR; Hacer contacto telefónico; entregar correspondencia, catálogos y productos; todo lo relacionado con oferta académica a disposición del afiliado y la realización de cursos o capacitaciones.
+• Además, para cualquier finalidad adicional que sea debidamente autorizada por los Clientes.
+
+SODIMAC COLOMBIA S.A. tratará los datos personales del Titular (Proveedor, Contratista y terceros) con las siguientes finalidades:
+
+•Para el normal desarrollo de la relación comercial y contractual sostenida con SODIMAC COLOMBIA S.A. y el cumplimiento de las obligaciones adquiridas en virtud de dicha relación. • Prestación de los servicios ofrecidos por los Almacenes Homecenter y Constructor, entre ellos y sin limitarse: Instalaciones, diseño de proyectos, producto a pedido y demás.
+• Desarrollo de estudios de seguridad y financieros.
+• Desarrollo de servicios de seguridad electrónica, seguridad física, seguridad industrial.
+• Procesos contables, Tributarios, pago de facturas y demás.
+• Desarrollo de servicios de mantenimiento y soporte en Sedes SODIMAC COLOMBIA S.A.
+• Cumplimiento de los protocolos de Registro y control de ingreso de mercaderistas, promotores, personal de impulso, personal de servicios generales, seguridad, soporte tecnológico y demás terceros para la operación de los Almacenes Homecenter y Constructor, junto con las Sedes de SODIMAC COLOMBIA S.A., en desarrollo de la relación contractual de los proveedores comerciales con SODIMAC COLOMBIA S.A.
+• Estudio y entrega de desarrollo de donaciones de SODIMAC COLOMBIA S.A. a fundaciones, conforme a las políticas establecidas internamente para tal fin.
+• Desarrollo de servicios de comunicaciones corporativas.
+• La representación judicial de la compañía.
+• Lo relacionado con la prestación de servicios de gestión ambiental.
+• Lo relacionado con la prestación de servicios tecnológicos.
+• El cumplimiento de obligaciones legales por parte de SODIMAC COLOMBIA S.A., entre ellas y sin limitarse a éstas: el registro de venta de sustancias controladas; el registro de Control para la venta de ácidos, álcalis y sustancias corrosivas; entre otros.
+• Además, para cualquier finalidad adicional que sea debidamente autorizada por el Proveedor, Contratista y terceros.
+SODIMAC
+
+SODIMAC COLOMBIA S.A. usa los datos del Colaborador para el cumplimiento de las siguientes finalidades, que incluyen, pero no se limitan a:
+
+• El cumplimiento de obligaciones legales o contractuales del colaborador y SODIMAC COLOMBIA S.A. y/o de SODIMAC COLOMBIA S.A. con terceros.
+• La debida ejecución del contrato de trabajo.
+• La participación en procesos de promoción, desarrollo y crecimiento del colaborador.
+• Trámites o seguimientos médicos.
+• El cumplimiento de las políticas internas del colaborador y el Reglamento de Trabajo.
+• El cumplimiento de las obligaciones legales y reglamentarias del colaborador.
+• La administración de sistemas de información y comunicaciones.
+• La generación de copias y archivos de seguridad de la información en los equipos proporcionados por SODIMAC COLOMBIA S.A.
+• El ofrecimiento de beneficios extralegales al colaborador.
+• El control y prevención de fraudes y lavado de activos.
+• Los mecanismos y protocolos de seguridad de las instalaciones de SODIMAC COLOMBIA S.A. La elaboración de encuestas (comerciales, académicas, o de cualquier otra clase)
+• Todas aquellas finalidades que sean compatibles con la ejecución del contrato de trabajo.
+• Además, para cualquier finalidad adicional que sea debidamente autorizada por el Colaborador.
+
+4.2. Transferencia de Datos a Terceros Países
+
+Cuando se envíen o transfieran datos a otro país siempre deberá contarse con la autorización del Titular de la información que es objeto de transferencia. Salvo que la ley autorice lo contrario, es presupuesto necesario la existencia de dicha autorización para efectuar la circulación internacional de datos. En este sentido, antes de enviar datos personales a otro país, los obligados de cumplir esta política deberán verificar que se cuenta con la autorización previa, expresa e inequívoca del Titular que permita trasmitir sus datos personales.
+Dicha transferencia de los datos personales se realiza únicamente a terceros con quien SODIMAC COLOMBIA S.A., tenga vínculo contractual, comercial y/o legal.
+
+4.3. Manejo de datos sensibles
+
+SODIMAC COLOMBIA S.A. no recolectará, usará o tratará datos sensibles salvo que el Titular de los mismos emita una autorización expresa para dicho tratamiento o en los casos que la ley determina que no se requiere dicha autorización.
+5. DERECHOS DE LOS TITULARES.
+
+Los Titulares de los Datos Personales registrados en las Bases de Datos de SODIMAC COLOMBIA S.A., tienen los siguientes derechos, contenidos en la Ley 1581 de 2012 y sus Decretos Reglamentarios:
+
+a) Conocer, actualizar, corregir y/o suprimir sus datos personales. Estos derechos los podrán ejercer, entre otros, frente a Datos Personales parciales, inexactos, incompletos, fraccionados, que induzcan a error, o aquellos cuyo Tratamiento esté expresamente prohibido o no haya sido autorizado;
+
+b) Solicitar prueba de la Autorización otorgada a SODIMAC COLOMBIA S.A. salvo cuando se exceptúe expresamente como requisito para el Tratamiento, de conformidad con lo previsto en el artículo 10 de la Ley 1581 de 2012;
+
+c) Ser informado respecto del uso que se ha dado a sus Datos Personales por SODIMAC COLOMBIA S.A. o el Encargado del Tratamiento, previa solicitud;
+
+d) Mediante reclamo presentado conforme al artículo 15 de la Ley 1581 de 2012, puede solicitar la revocatoria de la autorización y/o solicitar la supresión del Dato Personal cuando en el Tratamiento no se respeten los principios, derechos y garantías constitucionales y legales o en cualquier momento siempre que el Titular no tenga el deber legal o contractual de permanecer en las bases de datos de SODIMAC COLOMBIA S.A., y de acuerdo con el procedimiento señalado en el numeral 7 de la presente Política.
+
+e) Acceder en forma gratuita a sus Datos Personales que hayan sido objeto de Tratamiento, conforme al procedimiento dispuesto por SODIMAC COLOMBIA S.A., para tal efecto.
+6. PROCEDIMIENTO DE CONSULTAS Y RECLAMOS.
+
+SODIMAC COLOMBIA S.A., garantiza el derecho de consulta, corrección, actualización y/o supresión de los datos personales del Titular, suministrando al mismo y cuando actúe en ejercicio de su derecho, toda la información contenida en su registro individual o que esté vinculada con la identificación del titular.Para la atención de solicitudes asociadas al ejercicio del derecho, el titular podrá dirigirse presencialmente al área de Devoluciones de cualquier tienda HOMECENTER y CONSTRUCTOR, donde se pone a su disposición un formato para tal efecto.
+
+También puede emitir su solicitud a las líneas de atención al cliente: Bogotá 307 7115, línea nacional 320 88 999 33, página web www.homecenter.com.co enlace Contáctenos.
+
+Recuerde que debe presentar o enviar; su tipo y número de identificación (como titular de los datos), la descripción de los hechos que dan lugar al reclamo, dirección de correspondencia para Sodimac Colombia S.A. pueda notificarle, teléfono de contacto y cualquier documento que quiera hacer valer.
+
+El responsable de atender las solicitudes en ejercicio de los derechos por parte de los Titulares será el proceso de Protección de Datos a cargo de la Jefatura de Control de Gestión TI, Gerencia de Tecnología, o la dependencia que haga sus veces, como la persona que recibirá, procesara y canalizara las distintas solicitudes que se reciban, y las hará llegar a la respectiva dependencia que se encuentre como delegada para ejecutar dicha petición, dependencias que una vez reciban estas comunicaciones, entraran a cumplir con la función de protección de datos personales, y deberán dar trámite a las solicitudes de los Titulares, en los términos, plazos y condiciones establecidos por la normatividad vigente sobre protección de datos personales.
+
+Las solicitudes serán atendidas en un término máximo de quince (15) días hábiles contados a partir de la fecha de su recibo.
+
+Si la solicitud resulta incompleta, se emitirá la comunicación al Titular, solicitando requisitos pendientes que contempla un tiempo no mayor a los cinco (5) días siguientes a la recepción de la solicitud para que subsane las inconsistencias. Si transcurridos dos (2) meses desde la fecha del requerimiento, el Titular no presenta la información requerida, se entenderá que ha “Desistido” de la solicitud y se procederá a cerrarla con este estado.
+
+Para el ejercicio de los derechos de los Titulares: La solicitud de consulta, corrección, actualización y/o supresión debe ser presentada a través del medio ya mencionado y habilitado por SODIMAC COLOMBIA S.A. y debe contener, como mínimo, la siguiente información:
+
+a) El nombre, domicilio del Titular y medio de contacto para recibir la respuesta como teléfono, correo electrónico, dirección de residencia.
+b) Los documentos que acrediten la identidad del Titular o la representación de su representante.
+c) La descripción clara y precisa de los datos personales o hechos respecto de los cuales el Titular busca ejercer alguno de los derechos y que dan lugar a su solicitud.
+
+De cualquier modo, el Centro de Servicios de los Almacenes tiene a disposición de los Titulares un modelo de solicitud que cuenta con dichos parámetros, para que el solicitante proceda a diligenciarlo.
+
+Supresión De Datos. El Titular tiene el derecho, en todo momento, a solicitar a SODIMAC COLOMBIA S.A., la supresión (eliminación) de sus datos personales cuando:
+Considere que los mismos no están siendo tratados conforme a los principios, deberes y obligaciones previstas en la Ley 1581 de 2012.
+Hayan dejado de ser necesarios o pertinentes para la finalidad para la cual fueron recolectados.
+Se haya superado el periodo necesario para el cumplimiento de los fines para los que fueron recolectados.
+
+Esta supresión implica la eliminación total, parcial ó inactivación de la información personal de acuerdo con lo solicitado por el Titular en los registros, archivos, bases de datos o tratamientos realizados por SODIMAC COLOMBIA S.A., el Titular debe advertir que el derecho de cancelación no es absoluto y el responsable puede negar el ejercicio del mismo cuando:
+
+a) Las solicitudes de supresión de la información no procederán cuando el Titular tenga un deber legal o contractual de permanecer en la base de datos.
+b) Las solicitudes de supresión de la información no procederán cuando el Titular tenga un proceso transaccional en nuestras bases de datos.
+c) La eliminación de datos obstaculice actuaciones judiciales o administrativas vinculadas a obligaciones fiscales, la investigación y persecución de delitos o la actualización de sanciones administrativas.
+d) Los datos sean necesarios para proteger los intereses jurídicamente tutelados del Titular; para realizar una acción en función del interés público, o para cumplir con una obligación legalmente adquirida por el Titular.
+
+En caso de resultar procedente la cancelación de los datos personales, SODIMAC COLOMBIA S.A. debe realizar operativamente la supresión de tal manera que la eliminación no permita la recuperación de la información. También debe tenerse en cuenta que en algunos casos cierta información deberá permanecer en registros históricos por cumplimiento de deberes legales de la organización por lo que su supresión versará frente al tratamiento activo de los mismos y de acuerdo a la solicitud del Titular.
+
+7. IDENTIFICACIÓN DE LAS BASES DE DATOS Y PERIODO DE VIGENCIA.
+
+Las bases de datos bajo tratamiento por parte de SODIMAC COLOMBIA S.A. son las consagradas en el manual interno de políticas y procedimientos en materia de Protección de datos y estarán vigentes durante toda la duración del objeto social de la empresa.
+8. VIGENCIA Y ACTUALIZACIÓN DE LAS POLITICAS.
+
+La presente Política de Proteccion de Datos Personales rige a partir del quince (15) de septiembre de 2016.
+Por regla general, el término de las autorizaciones sobre el uso de los datos personales por los clientes y/o usuarios se entiende por el término de la relación comercial o de la vinculación al servicio y durante el ejercicio del objeto social de la compañía.
+Las autorizaciones sobre los datos de los clientes y/o usuarios podrán terminar por voluntad de los mismos en cualquier momento. Si la persona es un cliente activo de SODIMAC COLOMBIA S.A. no se podrán usar sus datos para nada diferente a la prestación del producto o servicio y para el ofrecimiento de renovaciones posteriores cuando el servicio tenga esta modalidad.
+Cualquier cambio sustancial en las políticas de Tratamiento, se comunicará de forma oportuna a los Titulares de los datos a través de los medios habituales de contacto y/o a través de:
+• El sitio web www.homecenter.co
+•Para los Titulares que no tengan acceso a medios electrónicos o aquellos a los que no sea posible contactar, se comunicará a través de medios verbales, escritos o medios digitales expuestos en cada tienda.
+
+Las comunicaciones se enviarán antes de implementar las nuevas políticas y/o actualización sustancial de la misma.
+Esta política tiene vigencia a partir del quince (15) de septiembre de 2019.

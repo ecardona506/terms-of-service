@@ -1,0 +1,145 @@
+Última modificación: 20 de julio de 2020 (versiones archivadas)
+
+Política de privacidad de WhatsApp
+
+Si resides en la Región europea, WhatsApp Ireland Limited te proporciona WhatsApp en conformidad con estas Condiciones del servicio y esta Política de privacidad.
+
+El respeto a tu privacidad se encuentra codificado en nuestro ADN. Desde que iniciamos WhatsApp, aspiramos a crear nuestros Servicios teniendo en cuenta fuertes principios de privacidad.
+
+WhatsApp ofrece mensajes, llamadas por Internet y otros servicios a usuarios alrededor del mundo. Nuestra Política de privacidad ayuda a explicar nuestras prácticas de información (incluidos los mensajes). Por ejemplo, hablamos sobre la información que recopilamos y qué repercusión tiene para ti. También explicamos las medidas que tomamos para proteger tu privacidad, como diseñar WhatsApp de modo que los mensajes entregados no se almacenen y tengas control para elegir con quién te comunicas en nuestros Servicios.
+
+Cuando decimos "WhatsApp", "nuestro/a(s)", "nosotros" o "nos", nos referimos a WhatsApp LLC. Esta Política de privacidad ("Política de privacidad") se aplica a todas nuestras aplicaciones, servicios, funciones, software y sitio web (en conjunto, "Servicios") a menos que se indique lo contrario.
+
+Consulta también las Condiciones del servicio de WhatsApp ("Condiciones"), que describen las disposiciones que rigen el uso de nuestros Servicios.
+
+Volver al comienzo
+Actualizaciones clave
+
+    El respeto a tu privacidad se encuentra codificado en nuestro ADN. Desde que iniciamos WhatsApp, hemos desarrollado nuestros servicios con sólidos principios de privacidad en mente. En nuestras Condiciones del servicio y Política de privacidad actualizados encontrarás lo siguiente:
+        Información más fácil de comprender. Nuestras Condiciones del servicio y Política de privacidad son más fáciles de comprender y reflejan nuevas funciones, tales como, Llamadas de WhatsApp, WhatsApp Web y WhatsApp Escritorio.
+        Nos unimos a Facebook en 2014. WhatsApp es parte de la familia de empresas de Facebook. Nuestra Política de privacidad explica cómo trabajamos en conjunto para brindarte una mejor experiencia; por ejemplo, al combatir los mensajes no solicitados entre las aplicaciones, hacer sugerencias de productos, y mostrarte ofertas y publicidad relevantes en Facebook. Nada de lo que compartes en WhatsApp--incluyendo tus mensajes, fotos, e información de la cuenta--será compartido en Facebook, o en la familia de aplicaciones de Facebook, para que otros los vean. De la misma manera, lo que tú publiques en esas aplicaciones no será compartido en WhatsApp para que otros lo vean.
+        Tus mensajes te pertenecen y nosotros no podemos leerlos. En WhatsApp hemos desarrollado funcionalidades para proteger tu privacidad y tu seguridad, como el cifrado de extremo a extremo. No almacenamos tus mensajes una vez que son entregados. Cuando los mensajes están cifrados de extremo a extremo; ni nosotros, ni terceras personas pueden leerlos.
+        Cero anuncios banner de terceros. No permitimos publicidad por parte de terceros en WhatsApp.
+        Nuevas maneras de usar WhatsApp. Exploraremos maneras para que tú y diferentes empresas puedan comunicarse usando WhatsApp, por ejemplo con información de pedidos, transacciones y citas; notificaciones de entrega y envío; actualizaciones de producto y servicio; y marketing en general. Por ejemplo, es posible que recibas información sobre el estado de un vuelo próximo, un recibo de un artículo que compraste o una notificación sobre una entrega realizada. Los mensajes que posiblemente recibas con contenido de marketing pueden incluir ofertas sobre productos o servicios que podrían interesarte. No queremos ofrecerte una experiencia en la que recibas spam. Por esta razón, al igual que con todos tus mensajes, te damos la posibilidad de administrar estas comunicaciones y siempre respetaremos las decisiones que tomes al respecto.
+        Tus opciones. Si eres un usuario actual, tendrás la opción de elegir que la información de tu cuenta de WhatsApp no sea compartida con Facebook para mejorar tu experiencia con la publicidad y los productos en Facebook. Los usuarios que acepten nuestras Condiciones y Política de privacidad actualizadas tendrán 30 días adicionales para tomar esta decisión yendo a Ajustes > Cuenta.
+
+    Volver al comienzo
+Información que recopilamos
+
+    WhatsApp recibe o recopila información de nuestros usuarios cuando operamos y proveemos nuestros Servicios, incluso durante la instalación, el acceso o el uso de nuestros Servicios.
+    Información que nos proporcionas
+
+        Información de tu cuenta. Proporcionas tu número de teléfono móvil para crear una cuenta de WhatsApp. Nos proporcionas los números de teléfono de la libreta de contactos de tu teléfono móvil regularmente, incluidos los de los usuarios de nuestros Servicios y los de los demás contactos de la libreta de contactos de tu teléfono móvil. Confirmas que estás autorizado a proporcionarnos dichos números. También puedes agregar otra información a tu cuenta, como un nombre de perfil, foto del perfil y mensaje de estado.
+
+        Tus mensajes. No conservamos tus mensajes durante la prestación normal de nuestros Servicios. Una vez que se entregan tus mensajes (incluidos chats, fotos, videos, mensajes de voz, archivos e información de tu ubicación), se eliminan de nuestros servidores. Tus mensajes se almacenan en tu propio dispositivo. Si un mensaje no se puede entregar de inmediato (por ejemplo, si no tienes conexión a internet), podemos conservarlo en nuestros servidores durante un plazo máximo de 30 días mientras intentamos entregarlo. Si el mensaje no se entrega después de 30 días, lo eliminamos. Para mejorar el rendimiento y entregar mensajes de multimedia de forma más eficaz, por ejemplo, cuando muchas personas comparten una foto o un video popular, podemos conservar ese contenido en nuestros servidores durante un período más prolongado. Así mismo, ofrecemos cifrado de extremo a extremo en nuestros Servicios, que está activado de manera predeterminada, cuando tú y las personas con las que intercambias mensajes usan una versión de nuestra aplicación posterior al 2 de abril de 2016. Con el cifrado de extremo a extremo, tus mensajes se cifran de modo que no puedan ser leídos ni por nosotros ni por terceros.
+
+        Tus conexiones. Para ayudarte a organizar la forma en que te comunicas con los demás, podemos crear una lista de tus contactos favoritos, y tú puedes crear grupos, unirte o dejar que te agreguen a grupos y listas de difusión. Dichos grupos y listas se asocian con la información de tu cuenta.
+
+        Soporte técnico. Puedes proporcionarnos información relacionada con el uso que haces de nuestros Servicios, incluidas copias de tus mensajes, y cómo ponernos en contacto contigo para que podamos brindarte nuestro servicio de soporte técnico. Por ejemplo, puedes enviarnos un correo electrónico con información relacionada con el rendimiento de nuestra aplicación u otros problemas que tengas.
+    Información recopilada automáticamente
+
+        Información sobre uso y registros. Recopilamos información relacionada con el rendimiento, diagnóstico y servicio. Esto incluye información sobre tu actividad (como la forma en que usas nuestros Servicios, la forma en que interactúas con otros mediante nuestros Servicios y datos similares), archivos de registro, así como informes y registros de rendimiento, sitio web, fallos y diagnóstico.
+
+        Información sobre transacciones. Si pagas por nuestros Servicios podemos recibir información y confirmaciones, como recibos de pago, incluidos los de las tiendas de aplicaciones o terceros que procesen tu pago.
+
+        Información sobre el dispositivo y la conexión. Recopilamos información específica relacionada con el dispositivo y la conexión cuando instalas o usas nuestros Servicios, o accedes a ellos. Esto incluye información como el modelo de hardware, la información del sistema operativo, información sobre el navegador, la dirección IP e información de la red móvil, incluido el número de teléfono y los identificadores del dispositivo. Recopilamos información sobre la ubicación de tu dispositivo si usas nuestras funciones de ubicación, así como cuando eliges compartir tu ubicación con tus contactos, ver lugares cercanos o aquellas que otros hayan compartido contigo y similares para fines de diagnóstico y solución de problemas, por ejemplo, si tienes dificultades con la función de nuestra aplicación para compartir tu ubicación.
+
+        Cookies. Usamos cookies para operar y proporcionar nuestros Servicios, incluido proporcionarte nuestros Servicios basados en internet, mejorar tus experiencias, entender cómo se usan y personalizarlos. Por ejemplo, usamos cookies para proporcionar WhatsApp para computadora y otros servicios basados en Internet. Las cookies también nos ayudan a entender cuáles son nuestras Preguntas Frecuentes más populares y nos permiten mostrarte contenido relevante relacionado con nuestros Servicios. Asimismo, podemos usar cookies para recordarte las opciones que elegiste, como las preferencias de idioma, a fin de brindarte una experiencia más segura y, de otro modo, para personalizar nuestros Servicios según tus intereses. Aquí encontrarás un artículo donde puedes conocer con más detalle cómo usamos las cookies para proveerte nuestros Servicios.
+
+        Información sobre mensajes de estado. Recopilamos información sobre tus cambios de mensaje de estado y en línea en nuestros Servicios, tales como si estás en línea (tu "estado de conexión"), la última vez que usaste nuestros Servicios (tu "estado de última conexión") y la última vez que actualizaste tu mensaje de estado.
+    Información de terceros
+
+        Información que otros proporcionan sobre ti. Recibimos información que otras personas nos proporcionan, que puede incluir información sobre ti. Por ejemplo, cuando otros usuarios que conoces usan nuestros Servicios, pueden proporcionar tu número de teléfono de la lista de contactos de su teléfono móvil (así como tú puedes proporcionar el de ellos), o bien pueden enviarte un mensaje, enviar mensajes a los grupos a los que perteneces o llamarte.
+
+        Proveedores externos. Trabajamos con proveedores externos que nos ayudan a operar, proveer, mejorar, entender, personalizar y comercializar nuestros Servicios, así como ofrecer servicios de ayuda para nuestros Servicios. Por ejemplo, trabajamos con empresas para distribuir nuestras aplicaciones, ofrecer nuestros sistemas de infraestructura, de entrega y otros, proporcionar información de mapas y lugares, procesar pagos, ayudarnos a entender cómo la gente usa nuestros Servicios y comercializar nuestros Servicios. Estos proveedores externos pueden proporcionarnos información sobre ti en ciertas circunstancias; por ejemplo, las tiendas de aplicaciones pueden enviarnos informes que nos ayudan a diagnosticar y solucionar problemas con el servicio.
+
+        Servicios de terceros. Te permitimos usar nuestros Servicios en relación con servicios de terceros. Si usas nuestros Servicios con dichos servicios de terceros, podemos recibir información sobre ti por parte de ellos. Por ejemplo, si usas el botón "Compartir" en WhatsApp en un servicio de noticias para compartir un artículo con tus contactos, grupos o listas de difusión de WhatsApp en nuestros Servicios, o si decides acceder a nuestros Servicios por medio de la promoción de un operador de telefonía móvil o de un proveedor de dispositivos móviles. Ten en cuenta que cuando usas servicios de terceros, sus propias condiciones y políticas de privacidad regirán el uso de dichos servicios.
+
+    Volver al comienzo
+Cómo usamos la información
+
+    Usamos toda la información que tenemos para ayudarnos a operar, proveer, mejorar, entender, personalizar y comercializar nuestros Servicios, así como ofrecer servicios de ayuda para nuestros Servicios.
+
+        Nuestros Servicios. Operamos y proveemos nuestros Servicios, lo que incluye ofrecer un servicio de atención al cliente, así como mejorar, solucionar y personalizar nuestros Servicios. Entendemos cómo se usan nuestros Servicios y, mediante el análisis y el uso de la información que tenemos, los evaluamos y mejoramos, realizamos investigaciones, desarrollamos y probamos nuevos servicios y funciones, y llevamos a cabo actividades destinadas a resolver problemas. También usamos tu información para responderte cuando te pones en contacto con nosotros. Usamos cookies para operar, proveer, mejorar, entender y personalizar nuestros Servicios.
+
+        Protección y seguridad. Verificamos cuentas y actividades, y promovemos la seguridad y la protección tanto dentro de nuestros Servicios como fuera de ellos, por ejemplo, mediante la investigación de actividades sospechosas o de infracciones de nuestras Condiciones, y para garantizar que nuestros Servicios se usen legalmente.
+
+        Comunicaciones acerca de nuestros Servicios y las empresas de Facebook. Usamos la información que tenemos para comunicarnos contigo respecto de nuestros Servicios y funciones, para informarte sobre nuestras condiciones y políticas, y para mantenerte al tanto de cualquier actualización importante. Podemos proporcionarte marketing para nuestros Servicios y los de la familia de empresas de Facebook, de la cual ahora formamos parte.
+
+        Cero anuncios banner de terceros. No permitimos publicidad por parte de terceros en WhatsApp. No tenemos intención de hacerlo, pero si alguna vez ocurre, actualizaremos esta política.
+
+        Mensajes comerciales. Permitiremos que tú y terceros, como negocios, se comuniquen entre sí por medio de WhatsApp, por ejemplo, mediante información sobre pedidos, transacciones y citas, notificaciones sobre entregas y envíos, novedades sobre productos y servicios, y marketing. Por ejemplo, es posible que recibas información sobre el estado de un vuelo próximo, un recibo de un artículo que compraste o una notificación sobre una entrega realizada. Los mensajes que posiblemente recibas con contenido de marketing pueden incluir ofertas sobre productos o servicios que podrían interesarte. No queremos ofrecerte una experiencia en la que recibas spam. Por esta razón, al igual que con todos tus mensajes, te damos la posibilidad de administrar estas comunicaciones y siempre respetaremos las decisiones que tomes al respecto.
+
+    Volver al comienzo
+Información que tú y nosotros compartimos
+
+    Tú compartes tu información mientras usas nuestros Servicios y te comunicas por medio de ellos, y nosotros la compartimos para operar, proporcionar, mejorar, entender, personalizar, respaldar y comercializar nuestros Servicios.
+
+        Información de la cuenta. Tu número de teléfono, nombre y foto de perfil, estado de conexión y mensaje de estado, estado de última conexión y confirmaciones de lectura pueden estar disponibles para cualquier persona que use nuestros Servicios, aunque puedes configurar los ajustes de nuestros Servicios para determinar qué información quieres que esté disponible para los demás usuarios.
+
+        Tus contactos y otros. Es posible que los usuarios y los negocios con los que te comunicas almacenen o vuelvan a compartir tu información (incluidos tu número de teléfono o tus mensajes) con otras personas tanto dentro como fuera de nuestros Servicios. Mediante la configuración y la función "Bloquear" de nuestros Servicios, puedes administrar los usuarios de dichos Servicios con los que te comunicas, así como cierta información que compartes.
+
+        Proveedores externos. Trabajamos con proveedores externos que nos ayudan a operar, proveer, mejorar, entender, personalizar y comercializar nuestros Servicios, así como ofrecer servicios de ayuda para nuestros Servicios. Cuando compartimos información con proveedores externos, les exigimos que usen tu información en conformidad con nuestras instrucciones y condiciones o con tu permiso expreso.
+
+        Servicios de terceros. Cuando usas servicios de terceros que están integrados con nuestros Servicios, estos terceros pueden recibir información sobre lo que tú compartes con ellos. Por ejemplo, si usas un servicio de copia de seguridad de datos integrado con nuestros Servicios (como iCloud o Google Drive), recibirán información sobre lo que compartes con ellos. Si interactúas con el servicio de un tercero vinculado a través de nuestros Servicios, es posible que tú le proporciones información directamente a dicho tercero. Ten en cuenta que cuando usas servicios de terceros, sus propias condiciones y políticas de privacidad regirán el uso de dichos servicios.
+
+    Volver al comienzo
+Empresas filiales
+
+    Nos unimos a la familia de empresas de Facebook en 2014. Como parte de la familia de empresas de Facebook, WhatsApp recibe información de esta familia de empresas y comparte información con ellas. Ambas partes podemos usar la información que recibimos para operar, proporcionar, mejorar, entender, personalizar, respaldar y comercializar nuestros Servicios y lo que ofrecen. Esto incluye ayudar a mejorar los sistemas de infraestructura y de entrega, entender cómo se usan nuestros Servicios o los de ellas, proteger los sistemas y combatir las actividades de infracción, abuso o mensajes no solicitados. Facebook y las demás empresas de la familia de Facebook también pueden usar nuestra información para mejorar tus experiencias con sus servicios, así como sugerencias (por ejemplo, de amigos o conexiones, o de contenido interesante), mostrar anuncios y ofertas relevantes. No obstante, tus mensajes de WhatsApp no se compartirán en Facebook. Es decir, nadie los verá. De hecho, Facebook no usará tus mensajes de WhatsApp para ningún otro propósito que no sea el de asistirnos en operar y proveer nuestros Servicios.
+
+    Para obtener más información sobre la familia de empresas de Facebook y sus prácticas de privacidad, revisa sus políticas de privacidad.
+
+    Volver al comienzo
+Cesión, traspaso de control y transferencia
+
+    Todos los derechos y obligaciones establecidos en nuestra Política de privacidad podrán cederse libremente a cualquiera de nuestras afiliadas, en relación con una fusión, adquisición, reestructuración o venta de activos, o en virtud de una ley o de otro modo, y podemos transferir tu información a cualquiera de nuestras afiliadas, entidades sucesoras o propietarios nuevos.
+
+    Volver al comienzo
+Administración de tu información
+
+    Puedes usar las herramientas que figuran a continuación para administrar, cambiar, limitar o eliminar tu información:
+
+        Configuración de los Servicios. Puedes cambiar la configuración de los Servicios para administrar cierta información disponible para otros usuarios. Puedes administrar tus contactos, grupos y listas de difusión, o usar la función "Bloquear", para administrar los usuarios con los que te comunicas.
+
+        Cambiar tu número de teléfono móvil, el nombre y la foto de tu perfil, y tu mensaje de la sección info. Debes cambiar el número de teléfono móvil con nuestra función "Cambiar número" en la aplicación y transferir tu cuenta al nuevo número de teléfono móvil. También puedes cambiar tu nombre de perfil, foto del perfil y mensaje de info. en cualquier momento.
+
+        Eliminar tu cuenta de WhatsApp. Puedes eliminar tu cuenta de WhatsApp en cualquier momento (incluido si quieres revocar tu consentimiento para que usemos tu información) con nuestra función "Eliminar mi cuenta" en la aplicación. Si eliminas tu cuenta de WhatsApp, los mensajes no entregados se eliminarán de nuestros servidores, así como cualquier otra información que ya no necesitemos para operar y proporcionarte nuestros Servicios. Ten en cuenta que, si solo eliminas nuestros Servicios de tu dispositivo sin usar la función "Eliminar mi cuenta" en la aplicación, es posible que conservemos tu información durante un período más largo. Recuerda que, cuando eliminas tu cuenta, no afecta a la información sobre ti que tienen otros usuarios, como una copia de los mensajes que les enviaste.
+
+    Volver al comienzo
+Legislación y protección
+
+    Podemos recopilar, usar, conservar y compartir tu información si consideramos de buena fe que es razonablemente necesario para: (a) responder de acuerdo con las leyes o normas, procesos legales o solicitudes gubernamentales aplicables; (b) exigir el cumplimiento de nuestras Condiciones o cualquier otro término y política aplicable, incluso para investigaciones de infracciones potenciales; (c) detectar, investigar, impedir y abordar fraudes y otras actividades ilegales o problemas técnicos o de seguridad; o (d) proteger los derechos, la propiedad y la seguridad de nuestros usuarios, WhatsApp, la familia de empresas de Facebook u otros.
+
+    Volver al comienzo
+Nuestras operaciones internacionales
+
+    Aceptas nuestras prácticas de información, que incluyen la recopilación, el uso, el procesamiento y el uso compartido de tu información, tal como se describe en esta Política de privacidad, así como la transferencia y el procesamiento de tu información en los Estados Unidos y otros países de manera global donde tenemos o usamos instalaciones, proveedores de servicios o socios, independientemente de dónde usas nuestros Servicios. Reconoces que las leyes, regulaciones y normas del país en el que se almacena o procesa tu información pueden ser diferentes de aquellas que rigen en tu propio país.
+
+    Volver al comienzo
+Actualizaciones a nuestra Política
+
+    Podemos modificar o actualizar nuestra Política de privacidad. Te avisaremos de las modificaciones a esta Política de privacidad, según sea apropiado, y actualizaremos la fecha de "Última modificación" en la parte superior de esta Política de privacidad. Al continuar tu uso de nuestros Servicios, confirmas tu aceptación de nuestra Política de privacidad, con cualquier modificación. Si no estás de acuerdo con nuestra Política de privacidad y con sus modificaciones, debes dejar de usar nuestros Servicios. Por favor revisa nuestra Política de privacidad de vez en cuando.
+
+    Volver al comienzo
+Ley de Privacidad del Consumidor de California
+
+    Los residentes de California pueden hacer clic aquí para obtener más información sobre sus derechos, incluida la información sobre cómo ejercer sus derechos conforme a la Ley de Privacidad del Consumidor de California de 2018.
+
+    Volver al comienzo
+Ley General de Protección de Datos Personales de Brasil
+
+    Puedes hacer clic aquí para obtener más información sobre tus derechos, incluida la información sobre cómo ejercer tus derechos conforme a la Ley General de Protección de Datos Personales de Brasil.
+
+    Volver al comienzo
+Contáctanos
+
+    Si tienes preguntas sobre nuestra Política de privacidad, por favor ponte en contacto con nosotros.
+
+    WhatsApp LLC
+    Privacy Policy
+    1601 Willow Road
+    Menlo Park, California 94025
+    United States of America
+
+    Volver al comienzo

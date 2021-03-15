@@ -1,0 +1,220 @@
+
+Política de Privacidad
+
+Esta Política de privacidad se actualizó por última vez el Enero 4, 2021.
+
+Gracias por unirse a la tienda virtual de aprendizaje en línea más grande del mundo. En Udemy ("Udemy", "nosotros", "nos"), respetamos la privacidad del usuario y queremos que comprenda cómo recopilamos, utilizamos y compartimos los datos sobre él. Esta Política de privacidad aborda nuestras prácticas de recopilación de datos y describe los derechos del usuario a acceder, corregir o restringir el uso que hacemos de los datos personales del usuario.
+
+A menos que enlacemos con una política diferente o que indiquemos otra cosa, esta Política de privacidad se aplicará cuando el usuario visite o utilice el sitio web, las aplicaciones móviles, las API o los servicios relacionados de Udemy (los "Servicios").
+
+Al utilizar los Servicios, el usuario acepta los términos de esta Política de privacidad. El usuario no deberá utilizar los Servicios si no está de acuerdo con esta Política de privacidad o con cualquier otro acuerdo que rija el uso que hace de los Servicios.
+Índice
+
+    1. Qué datos obtenemos
+    2. Cómo obtenemos los datos sobre el usuario
+    3. Para qué utilizamos los datos del usuario
+    4. Con quién compartimos los datos del usuario
+    5. Seguridad
+    6. Derechos del usuario
+    7. Normas específicas de la jurisdicción
+    8. Actualizaciones e información de contacto
+
+1. Qué datos obtenemos
+
+Recopilamos determinados datos del usuario directamente, como información que este introduce por sí mismo, datos sobre su participación en cursos y datos de plataformas de terceros que el usuario conecta con Udemy. También recopilamos algunos datos de forma automática, como información sobre el dispositivo del usuario y las partes de nuestros Servicios con las que el usuario interactúa o que pasa tiempo utilizando.
+
+1.1 Datos que el usuario nos proporciona
+
+Podremos recopilar diferentes datos del usuario o sobre este, en función de cómo utilice los Servicios. A continuación se muestran algunos ejemplos para ayudar al usuario a comprender mejor los datos que recopilamos.
+
+Al crear una cuenta y utilizar los Servicios, incluido a través de una plataforma de terceros, recopilamos los datos que el usuario nos proporciona directamente, lo que incluye:
+
+Datos de la cuenta 	Para utilizar algunas funciones (como inscribirse en un curso), el usuario tiene que crear una cuenta de usuario. Al crear o actualizar la cuenta del usuario, recopilamos y almacenamos los datos que el usuario nos proporciona, como su dirección de correo electrónico, contraseña, número de teléfono, ocupación, intereses de habilidades, sexo, raza, etnia, información de la identificación emitida por el gobierno, foto de verificación, edad, fecha de nacimiento y configuración de la cuenta, y le asignamos un número de identificación único ("Datos de la cuenta").
+Datos del perfil 	El usuario también puede elegir proporcionar información de su perfil, como una foto, un título, una biografía, un idioma, un enlace a un sitio web, perfiles de redes sociales u otros datos. Los Datos del perfil del usuario estarán visibles públicamente para otros usuarios.
+Contenido compartido 	Algunas partes de los Servicios permiten al usuario interactuar con otros usuarios o compartir contenido públicamente, por ejemplo, al publicar reseñas en la página de un curso, al formular o contestar preguntas, al enviar mensajes a estudiantes o instructores, o al publicar fotografías u otro trabajo que el usuario cargue. Dicho contenido compartido podrá estar visible públicamente para otros usuarios en función del lugar donde se publique.
+Datos de los cursos 	Al inscribirse y tomar cursos, recopilamos algunos datos, como los cursos, tareas y exámenes que ha comenzado y completado; créditos y compras de cursos; suscripciones; certificados de cursos; los intercambios del usuario con instructores, profesores asistentes y otros estudiantes; y trabajos, respuestas a preguntas y otros elementos enviados para cumplir los requisitos de los cursos. Si el usuario es un instructor, almacenamos el contenido del curso que puede contener datos sobre el usuario.
+Datos de pago de los estudiantes 	Si el usuario realiza compras, recopilamos algunos datos sobre las compras (como el nombre y el código postal del usuario), según sea necesario para procesar el pedido. El usuario debe proporcionar algunos datos de pago y facturación directamente a nuestros socios de procesamiento de pago, como el nombre, la información de la tarjeta de crédito y el código postal del usuario. Por motivos de seguridad, Udemy no recopila ni almacena datos confidenciales del titular de la tarjeta, como todos los números de la tarjeta de crédito o los datos de autenticación de la tarjeta.
+Datos de pago de los instructores 	Si el usuario es un instructor, puede vincular su cuenta de PayPal, Payoneer u otra cuenta de pago a los Servicios para recibir pagos. Al vincular una cuenta de pago, recopilamos y utilizamos determinada información, como la dirección de correo electrónico de la cuenta de pago, el ID de la cuenta, la dirección física u otros datos que necesarios para enviar pagos a la cuenta del usuario. En algunos casos, podemos recopilar información de transferencias o ACH para enviar pagos a su cuenta. Para cumplir la legislación aplicable, también trabajamos con terceros de confianza que recopilan la información fiscal de acuerdo con los requisitos legales. Entre dicha información fiscal se puede incluir información sobre la residencia, números de identificación fiscal, información biográfica y otra información personal necesaria para fines fiscales. Por motivos de seguridad, Udemy no recopila ni almacena información confidencial de la cuenta bancaria. La recopilación, el uso y la divulgación de los datos de pago, facturación y fiscalidad del usuario están sujetos a la política de privacidad y a otros términos del proveedor de la cuenta de pago del usuario.
+Datos sobre las cuentas del usuario en otros servicios 	
+
+Podremos obtener determinada información a través de las redes sociales u otras cuentas en línea del usuario si están conectadas a su cuenta de Udemy. Si el usuario inicia sesión en Udemy a través de Facebook o de otra plataforma o servicio de terceros, solicitaremos su permiso para acceder a determinada información sobre esa otra cuenta. Por ejemplo, en función de la plataforma o servicio, podremos recopilar el nombre, la foto de perfil, el número de ID de la cuenta, la dirección de correo electrónico de inicio de sesión, la ubicación, la ubicación física de los dispositivos de acceso, el sexo, el cumpleaños y la lista de amigos o contactos del usuario.
+
+Dichas plataformas o servicios ponen la información a nuestra disposición a través de sus API. La información que recibimos depende de la información que el usuario (a través de su configuración de privacidad) o la plataforma o servicio deciden proporcionarnos.
+
+Si el usuario accede o utiliza nuestros Servicios a través de una plataforma o servicio de terceros, o si hace clic en cualquier enlace de terceros, la recopilación, el uso y el uso compartido de los datos del usuario también estarán sujetos a las políticas de privacidad y a otros acuerdos de dichos terceros.
+Sorteos, promociones y encuestas 	Podremos invitar al usuario a realizar una encuesta o a participar en una promoción (como un concurso, un sorteo o un desafío), ya sea a través de los Servicios o de una plataforma de terceros. Si participa, recopilaremos y almacenaremos los datos que el usuario nos proporcione como parte de su participación, como su nombre, dirección de correo electrónico, dirección postal, fecha de nacimiento o número de teléfono. Dichos datos estarán sujetos a esta Política de privacidad, a menos que se indique lo contrario en las reglas oficiales de la promoción o en otra política de privacidad. Los datos recopilados se utilizarán para administrar la promoción o la encuesta, incluido para informar a los ganadores y distribuir las recompensas. Para recibir una recompensa, puede que el usuario deba permitirnos publicar parte de su información públicamente (como en la página de un ganador). Cuando utilicemos una plataforma de terceros para administrar una encuesta o promoción, se aplicará la política de privacidad de dicho tercero.
+Comunicaciones y asistencia 	Si el usuario se pone en contacto con nosotros para solicitar asistencia o informar de un problema o inquietud (independientemente de si ha creado o no una cuenta), recopilaremos y almacenaremos su información de contacto, mensajes y otros datos sobre el usuario, como su nombre, dirección de correo electrónico, mensajes, ubicación, ID de usuario de Udemy, ID de transacciones de reembolsos y cualquier otro dato que nos proporcione o que recopilemos a través de medios automatizados (que tratamos a continuación). Utilizamos estos datos para responder al usuario e investigar su duda o inquietud, de conformidad con esta Política de privacidad.
+
+Almacenamos los datos que se han indicado anteriormente y los asociamos con la cuenta del usuario.
+1.2 Datos que recopilamos a través de medios automatizados
+
+Cuando el usuario accede a los Servicios (incluida la exploración de los cursos), recopilamos algunos datos a través de medios automatizados, lo que incluye:
+
+Datos del sistema 	Datos técnicos sobre el equipo o dispositivo del usuario, como la dirección IP, el tipo de dispositivo, el tipo y la versión del sistema operativo, el identificador único del dispositivo, el navegador, el idioma del navegador, el dominio y otros datos del sistema, y los tipos de plataformas ("Datos del sistema").
+Datos de uso 	Estadísticas de uso sobre las interacciones del usuario con los Servicios, como los cursos a los que ha accedido, el tiempo empleado en las páginas o el Servicio, las páginas visitadas, las funciones utilizadas, las consultas de búsqueda, los datos sobre los clic, la fecha y la hora, las referencias, y otros datos relacionados con el uso de los Servicios ("Datos de uso").
+Datos geográficos aproximados 	Una ubicación geográfica aproximada, incluida información como el país, la ciudad y las coordenadas geográficas, calculada en función de la dirección IP.
+
+Los datos indicados anteriormente se recopilan mediante el uso de archivos de registro del servidor y tecnologías de seguimiento, como se detalla en la sección "Cookies y herramientas de recopilación de datos" más abajo. Los almacenamos y los asociamos con la cuenta del usuario.
+2. Cómo obtenemos los datos sobre el usuario
+
+Utilizaremos herramientas, como cookies, señalizaciones web y tecnologías de seguimiento similares para recopilar los datos mencionados anteriormente. Algunas de estas herramientas ofrecen la posibilidad de excluir voluntariamente la recopilación de datos.
+
+2.1 Cookies y herramientas de recopilación de datos
+
+Utilizamos cookies, que son pequeños archivos de texto que el navegador almacena para recopilar, almacenar y compartir datos sobre las actividades del usuario en sitios web, incluido en Udemy. También nos permiten recordar cosas sobre las visitas del usuario a Udemy, como el idioma de preferencia, y facilitar el uso del sitio. Para obtener más información acerca de las cookies, visite https://cookiepedia.co.uk/all-about-cookies.
+
+Udemy y los proveedores de servicios que actúan en nuestro nombre (como Google Analytics y anunciantes de terceros) utilizan archivos de registro del servidor y herramientas de recopilación de datos automatizadas, como cookies, etiquetas, secuencias de comandos, enlaces personalizados, huellas digitales del dispositivo o navegador y señalizaciones web (en conjunto, "Herramientas de recopilación de datos") al acceder y utilizar los Servicios. Cuando el usuario utiliza los Servicios, de forma automática, estas Herramientas de recopilación de datos realizan un seguimiento de determinados Datos del sistema y Datos de uso (como se detalla en la sección 1) y los recopilan. En algunos casos, relacionamos los datos recopilados a través de esas Herramientas de recopilación de datos con otros datos que recopilamos, como se describe en esta Política de privacidad.
+
+2.2 Por qué utilizamos Herramientas de recopilación de datos
+
+Udemy utiliza los siguientes tipos de Herramientas de recopilación de datos para los fines que se describen a continuación:
+
+    Estrictamente necesarias: Estas Herramientas de recopilación de datos permiten al usuario acceder al sitio, proporcionan el funcionamiento básico (como iniciar sesión o inscribirse en cursos), protegen el sitio, protegen frente a inicios de sesión fraudulentos y detectan y evitan el uso indebido o no autorizado de la cuenta del usuario. Son necesarias para que los Servicios funcionen correctamente, por lo que si el usuario las desactiva, algunas partes del sitio dejarán de funcionar o no estarán disponibles.
+    Funcionales: Estas Herramientas de recopilación de datos recuerdan información sobre el navegador y las preferencias del usuario, proporcionan funciones adicionales al sitio, personalizan el contenido para que sea más relevante para el usuario y recuerdan las configuraciones relacionadas con la apariencia y el comportamiento de los Servicios (como el idioma o el nivel del volumen de la reproducción de vídeo preferidos).
+    Rendimiento: Estas Herramientas de recopilación de datos ayudan a medir y mejorar los Servicios proporcionando datos de rendimiento y uso, recuentos de visitas, fuentes de tráfico o desde dónde se descargó la aplicación. Estas herramientas nos ayudan a probar diferentes versiones de Udemy para averiguar qué funciones o contenido prefieren los usuarios y determinar qué mensajes de correo electrónico se abren.
+    Publicidad: Estas Herramientas de recopilación de datos se utilizan para proporcionar anuncios relevantes (en este sitio y en otros) basados en nuestros conocimientos sobre el usuario, como sus Datos de uso y sus Datos del sistema (como se detalla en la Sección 1), y en los conocimientos que estos proveedores de servicios de publicidad tienen sobre el usuario según sus datos de seguimiento. Los anuncios se pueden basar en su actividad reciente o en la actividad con el paso del tiempo, y en otros sitios y servicios. Para ayudar a ofrecer publicidad personalizada, podemos proporcionar a estos proveedores de servicios una versión oculta y anónima de la dirección de correo electrónico del usuario (en un formato ilegible para el ser humano) y del contenido que comparte públicamente en los Servicios.
+    Redes sociales: Estas Herramientas de recopilación de datos permiten el funcionamiento de las redes sociales, como compartir contenido con amigos y redes. Estas cookies pueden realizar un seguimiento de un usuario o dispositivo en otros sitios y crear un perfil de los intereses del usuario con fines de publicidad dirigida.
+
+El usuario puede establecer el navegador web para que le avise de los intentos de colocar cookies en el equipo, para limitar los tipos de cookies que permite o para rechazar las cookies en general. Si lo hace, es posible que el usuario no pueda utilizar algunas o todas las funciones de los Servicios, y su experiencia puede ser diferente o menos funcional. Para obtener más información acerca de cómo gestionar las Herramientas de recopilación de datos, consulte la Sección 6.1 (Opciones del usuario con respecto al uso de sus datos) a continuación.
+3. Para qué utilizamos los datos del usuario
+
+Utilizamos los datos del usuario para hacer cosas como proporcionar nuestros Servicios, comunicarnos con el usuario, solucionar problemas, proteger del fraude y el uso indebido, mejorar y actualizar nuestros Servicios, analizar el modo en que la gente utiliza nuestros Servicios, ofrecer publicidad personalizada y según lo exija la ley o sea necesario por motivos de seguridad e integridad.
+
+Utilizamos los datos que recopilamos a través del uso que el usuario hace de los Servicios para:
+
+    Proporcionar y administrar los Servicios, lo que incluye facilitar la participación en los cursos, emitir certificados de finalización de cursos, mostrar contenido personalizado y facilitar la comunicación con otros usuarios;
+    Procesar los pagos a los instructores;
+    Procesar las solicitudes y los pedidos de cursos, productos, servicios específicos, información o funciones que realiza el usuario;
+    Comunicarnos con el usuario sobre su cuenta al:
+        Responder a sus preguntas e inquietudes;
+        Enviarle mensajes administrativos e información, como mensajes de instructores, estudiantes y profesores asistentes, notificaciones de cambios en nuestro Servicio y actualizaciones de nuestros acuerdos;
+        Enviarle información, mediante correo electrónico o mensajes de texto, sobre su progreso en los cursos, programas de recompensas, nuevos servicios, nuevas funciones, boletines y otros cursos disponibles (que puede excluir voluntariamente en cualquier momento);
+        Enviarle notificaciones push a su dispositivo inalámbrico para proporcionar actualizaciones y otros mensajes relevantes (que puede gestionar en la página de opciones o configuración de la aplicación móvil);
+    Gestionar la cuenta y las preferencias de la cuenta;
+    Facilitar el funcionamiento técnico de los Servicios, lo que incluye la solución de problemas, la seguridad de los Servicios y la prevención del fraude y el uso indebido;
+    Solicitar opiniones de los usuarios;
+    Comercializar y administrar encuestas y promociones administradas y patrocinadas por Udemy;
+    Obtener más información sobre el usuario al vincular sus datos con datos adicionales a través de proveedores de datos de terceros o al analizar los datos con la ayuda de proveedores de servicios de análisis;
+    Identificar a usuarios únicos en los distintos dispositivos;
+    Adaptar los anuncios en los distintos dispositivos;
+    Mejorar nuestros Servicios y desarrollar nuevos productos, servicios y funciones;
+    Analizar tendencias y tráfico, y realizar un seguimiento de las compras y de los datos de uso;
+    Anunciar los Servicios en sitios web y aplicaciones de terceros;
+    Según lo exija o lo permita la ley; o
+    Si, a nuestra absoluta discreción, lo consideramos necesario para garantizar la seguridad o la integridad de nuestros usuarios, empleados, terceros, el público o nuestros Servicios.
+
+4. Con quién compartimos los datos del usuario
+
+Compartimos algunos datos sobre el usuario con instructores, otros estudiantes, empresas que nos prestan servicios, los afiliados de Udemy, nuestros socios comerciales, proveedores de análisis y enriquecimiento de datos, los proveedores de redes sociales del usuario, empresas que nos ayudan a realizar promociones y encuestas, y empresas de publicidad que nos ayudan a promocionar nuestros Servicios. También podemos compartir los datos del usuario según sea necesario para la seguridad, el cumplimiento legal o como parte de una reestructuración corporativa. Por último, podemos compartir datos de otras maneras si se agregan o se despersonalizan, o si obtenemos el consentimiento del usuario.
+
+Podemos compartir los datos del usuario con terceros en las siguientes circunstancias o según se describe en esta Política de privacidad:
+
+    Con los instructores del usuario: Compartimos los datos que tenemos sobre el usuario (excepto la dirección de correo electrónico) con los instructores o los profesores asistentes de los cursos en los que se inscribe o sobre los que solicita información para que puedan mejorar sus cursos para el usuario y para otros estudiantes. Estos datos pueden incluir cosas como la ciudad, el país, el idioma del navegador, el sistema operativo, la configuración del dispositivo, el sitio que le ha llevado a Udemy y las actividades del usuario en Udemy. Si recopilamos otros datos sobre el usuario (como la edad o el sexo), también podremos compartirla. No compartiremos la dirección de correo electrónico del usuario con los instructores y los profesores asistentes. También permitiremos a nuestros instructores que implementen Google Analytics en las páginas de sus cursos para realizar un seguimiento de las fuentes de tráfico de sus cursos y optimizar dichas páginas.
+    Con otros estudiantes e instructores: En función de la configuración del usuario, el contenido compartido y los datos del perfil podrán estar visibles públicamente, incluso para otros estudiantes e instructores. Si el usuario realiza una pregunta a un instructor o profesor asistente, la información del usuario (incluido su nombre) también podrá estar visible públicamente para otros usuarios, en función de la configuración del usuario.
+    Con proveedores de servicios, contratistas y agentes: Compartimos los datos del usuario con empresas de terceros que prestan servicios en nuestro nombre, como procesamiento de pago, prevención del fraude y el uso indebido, análisis de datos, servicios de marketing y publicidad (incluida publicidad de reasignación), servicios de correo electrónico y alojamiento, y atención al cliente y asistencia. Estos proveedores de servicios pueden acceder a los datos personales del usuario y se les exige que los utilicen únicamente como se lo indicamos para proporcionar nuestro servicio solicitado.
+    Con los afiliados de Udemy: Podemos compartir sus datos dentro de nuestra familia corporativa de empresas que están relacionadas por propiedad o control común a fin de permitir o ayudar a proporcionar los Servicios.
+    Con socios comerciales: Tenemos acuerdos con otros sitios web y plataformas para distribuir nuestros Servicios y dirigir el tráfico a Udemy. Por ejemplo, trabajamos con Benesse en Japón. En función de la ubicación del usuario, podremos compartir sus datos con estos socios.
+    Con servicios de análisis y enriquecimiento de datos: Como parte de nuestro uso de herramientas de análisis de terceros, como Google Analytics, y de servicios de enriquecimiento de datos, como ZoomInfo, compartimos determinada información de contacto, Datos de la cuenta, Datos del sistema, Datos de uso (como se detalla en la Sección 1) o datos despersonalizados, según sea necesario. Los datos personalizados son aquellos en los que hemos eliminado cosas, como el nombre y la dirección de correo electrónico del usuario, y las hemos sustituido por un ID en forma de token. Esto permite a estos proveedores proporcionar servicios de análisis o relacionar los datos del usuario con información de bases de datos públicas (incluida información de contacto y de redes sociales procedente de otras fuentes). Hacemos esto para comunicarnos con el usuario de una forma más eficaz y personalizada.
+    Para impulsar funciones de redes sociales: Las funciones de redes sociales en los Servicios (como el botón Me gusta de Facebook) podrán permitir al proveedor de redes sociales de terceros recopilar cosas, como la dirección IP del usuario y qué página de los Servicios está visitando, y establecer una cookie para activar la función. Las interacciones del usuario con estas funciones se regirán por la política de privacidad de la empresa de terceros.
+    Para administrar promociones y encuestas: Podremos compartir los datos del usuario según sea necesario para administrar, comercializar o patrocinar las promociones y encuestas en las que decida participar, según lo exija la ley aplicable (como proporcionar una lista de ganadores o realizar los archivados necesarios) o de conformidad con las reglas de la promoción o encuesta.
+    Para hacer publicidad: Si decidimos utilizar un modelo de ingresos respaldado por publicidad en el futuro, podremos utilizar y compartir determinados Datos del sistema y Datos de uso con anunciantes y redes de terceros para mostrar información general demográfica y sobre preferencias. También podremos permitir a los anunciantes recopilar Datos del sistema a través de Herramientas de recopilación de datos (como se detalla en la Sección 2.1), utilizar estos datos para ofrecer al usuario anuncios específicos a fin de personalizar la experiencia del usuario (a través de publicidad según el comportamiento) y realizar análisis web. Los anunciantes también podrán compartir con nosotros los datos que recopilen sobre el usuario. Para obtener más información o excluirse voluntariamente de la participación en publicidad según el comportamiento de redes de publicidad, véase la Sección 6.1 (Opciones del usuario con respecto al uso de sus datos) más abajo. El usuario debe tener en cuenta que si se excluye de forma voluntaria, seguirá recibiendo anuncios genéricos.
+    Para la seguridad y el cumplimiento legal: Podremos divulgar datos del usuario a terceros si (a nuestra absoluta discreción) consideramos de buena fe que la divulgación:
+        Se permite o exige por ley;
+        Se solicita como parte de una investigación, orden o proceso judicial, gubernamental o legal;
+        Es razonablemente necesaria como parte de una citación, orden judicial u otro requerimiento legalmente válido;
+        Es razonablemente necesaria para hacer cumplir nuestras Condiciones de uso, nuestra Política de privacidad y otros acuerdos legales;
+        Es necesaria para detectar, prevenir o combatir el fraude, el uso indebido, las posibles violaciones de la ley (o de normas o reglamentos) o los problemas técnicos o de seguridad; o
+        Es razonablemente necesaria, a nuestra discreción, para proteger frente a daños inminentes a los derechos, la propiedad o la seguridad de Udemy, de nuestros usuarios y empleados, de miembros del público o de nuestros Servicios.
+        También podremos divulgar datos sobre el usuario a nuestros auditores y asesores legales para evaluar nuestras obligaciones y derechos de divulgación en virtud de esta Política de privacidad.
+    Durante un cambio en el control: Si Udemy se somete a una transacción comercial, como una fusión, una adquisición, una desinversión corporativa o una disolución (incluida la quiebra), o una venta de la totalidad o parte de sus activos, podremos compartir, divulgar o transferir todos los datos del usuario a la organización sucesora durante dicha transición o en consideración de una transición (incluso durante el proceso de diligencia debida).
+    Tras una agregación/despersonalización: podremos divulgar o utilizar datos agregados o despersonalizados para cualquier fin.
+    Con el permiso del usuario: con el consentimiento del usuario, podremos compartir datos con terceros fuera del ámbito de esta Política de privacidad.
+
+5. Seguridad
+
+Utilizaremos medidas de seguridad adecuadas en función del tipo y la confidencialidad de los datos que se almacenen. Al igual que ocurre con cualquier sistema con conexión a Internet, siempre existe un riesgo de acceso no autorizado, así que es importante proteger la contraseña del usuario y que este se ponga en contacto con nosotros si sospecha que se ha producido un acceso no autorizado a su cuenta.
+
+Udemy toma medidas de seguridad adecuadas para proteger contra el acceso no autorizado, la alteración, la divulgación o la destrucción de los datos personales del usuario que recopilamos y almacenamos. Estas medidas varían en función del tipo y la confidencialidad de los datos. Sin embargo, lamentablemente, ningún sistema puede ser totalmente seguro, por lo que no podemos garantizar que las comunicaciones entre el usuario y Udemy, los Servicios o cualquier información que se nos proporcione en relación con los datos que recopilamos a través de los Servicios estarán libres del acceso no autorizado de terceros. La contraseña del usuario es una parte importante de nuestro sistema de seguridad, y es responsabilidad del usuario protegerla. El usuario no deberá compartir su contraseña con terceros, y si cree que su contraseña o su cuenta están en peligro, deberá cambiarla inmediatamente y ponerse en contacto con nuestro equipo de asistencia para informar de sus inquietudes.
+6. Derechos del usuario
+
+El usuario tiene algunos derechos con respecto al uso de sus datos, incluida la posibilidad de excluir voluntariamente los correos electrónicos promocionales, las cookies y la recopilación de sus datos por parte de determinados terceros. El usuario puede actualizar o cancelar su cuenta desde nuestros Servicios, y también puede ponerse en contacto con nosotros para realizar solicitudes de derechos individuales sobre sus datos personales. Los padres que crean que hemos recopilado de forma involuntaria datos personales sobre sus hijos menores de edad deberán ponerse en contacto con nosotros para ayudarnos a eliminar dicha información.
+
+6.1 Opciones del usuario con respecto al uso de sus datos
+
+El usuario puede decidir no proporcionarnos determinados datos, pero no podrá utilizar algunas funciones de los Servicios.
+
+    Para dejar de recibir nuestras comunicaciones promocionales, el usuario puede excluirlas voluntariamente mediante el mecanismo para cancelar la suscripción que se incluye en la comunicación promocional recibida, o bien cambiando las preferencias de correo electrónico en su cuenta. El usuario debe tener en cuenta que, independientemente de la configuración de las preferencias de correo electrónico, le enviaremos mensajes de transacciones y relaciones con respecto a los Servicios, como confirmaciones administrativas, confirmaciones de pedidos, actualizaciones importantes sobre los Servicios y avisos sobre nuestras políticas.
+    Si el usuario se encuentra en el Espacio Económico Europeo, puede excluir voluntariamente determinadas Herramientas de recopilación de datos haciendo clic en el enlace "Configuración de cookies" de la parte inferior de cualquier página.
+    El navegador o el dispositivo del usuario pueden permitirle controlar las cookies y otros tipos de almacenamiento de datos local. Para obtener más información sobre la gestión de cookies, visite https://cookiepedia.co.uk/how-to-manage-cookies. El dispositivo inalámbrico del usuario también puede permitirle controlar la recopilación o el uso compartido de la ubicación o de otros datos.
+    Para obtener información y controlar las cookies que se utilizan para la publicidad personalizada de las empresas participantes, el usuario puede consultar las páginas de exclusión del consumidor de la Network Advertising Initiative y la Digital Advertising Alliance, o si se encuentra en el Espacio Económico Europeo, visitar el sitio Your Online Choices. Para excluir la publicidad que se muestra en Google o personalizar los anuncios de la Red de Display de Google, el usuario puede visitar la página Configuración de anuncios de Google. Para excluir los anuncios específicos de Taboola, el usuario puede consultar el enlace de exclusión voluntaria en su Política de cookies.
+    Para dejar de permitir que Google Analytics, Mixpanel, ZoomInfo o Clearbit utilicen sus datos para el análisis o el enriquecimiento, el usuario puede consultar el Complemento de inhabilitación para navegadores de Google Analytics, la exclusión de cookies de Mixpanel, la política de ZoomInfo y el mecanismo de reclamación de datos de Clearbit.
+    Apple iOS, Android OS y Microsoft Windows proporcionan sus propias instrucciones sobre cómo controlar la publicidad personalizada en las aplicaciones. Para otros dispositivos y sistemas operativos, el usuario deberá revisar su configuración de privacidad de la plataforma.
+
+Si el usuario tiene alguna duda sobre sus datos, sobre el uso que hacemos de ellos o sobre sus derechos, puede ponerse en contacto con nosotros enviándonos un mensaje a la dirección privacy@udemy.com.
+6.2 Acceso, actualización y eliminación de los datos personales del usuario
+
+El usuario puede acceder y actualizar sus datos personales que Udemy recopila y mantiene de la siguiente manera:
+
+    Para actualizar los datos que el usuario proporciona directamente, debe iniciar sesión en su cuenta y actualizarla en cualquier momento.
+    Para cancelar su cuenta:
+        Si el usuario es estudiante, debe visitar su página de configuración del perfil y seguir los pasos que se indican aquí.
+        Si el usuario es instructor, debe seguir los pasos que se indican aquí.
+        Si tiene problemas para cancelar su cuenta, póngase en contacto con nuestro equipo de asistencia.
+        El usuario debe tener en cuenta que, incluso después de cancelar su cuenta, una parte o la totalidad de sus datos aún pueden estar visibles para otros usuarios, incluidos, entre otros, los datos (a) que el usuario u otras personas han copiado, almacenado o difundido (incluso en comentarios de los cursos); (b) que el usuario u otras personas han compartido o difundido (incluso en el contenido compartido del usuario); o (c) que se han publicado en una plataforma de terceros. Incluso después de cancelar la cuenta del usuario, conservaremos sus datos mientras tengamos un propósito legítimo para hacerlo (y de conformidad con la ley aplicable), por ejemplo, para ayudar con obligaciones legales, resolver conflictos o hacer cumplir nuestros acuerdos. Podremos conservar y divulgar dichos datos conforme a esta Política de privacidad tras la cancelación de la cuenta del usuario.
+    Para solicitar acceder, corregir o eliminar los datos personales del usuario, utilice nuestro formulario online. También puede enviar un correo electrónico a privacy@udemy.com o escribirnos a Udemy, Attn: Privacy/Legal Team, 600 Harrison Street, 3rd floor, San Francisco CA 94107. La respuesta puede tardar hasta 30 días. Para proteger al usuario, podremos pedirle que envíe la solicitud a través de la dirección de correo electrónico asociada a la cuenta del usuario, y es posible que necesitemos verificar su identidad antes de llevar a cabo la solicitud. El usuario debe tener en cuenta que conservaremos algunos datos si está legalmente justificado, por ejemplo, para el mantenimiento de registros obligatorio y para llevar a cabo transacciones.
+
+6.3 Nuestra política con respecto a los niños
+
+Reconocemos los intereses en cuanto a privacidad de los niños y animamos a los padres y tutores a participar activamente en las actividades y los intereses en línea de sus hijos. Las personas menores de 18 años pero con la edad establecida para el uso de servicios en línea (por ejemplo, 13 años en EE. UU. o 16 en Irlanda) no pueden configurar una cuenta, pero pueden solicitar que uno de sus padres o tutores abran una cuenta y les ayuden a inscribirse en los cursos apropiados. Los menores que aún no tienen la edad establecida para el uso de servicios en línea no podrán utilizar los Servicios. Si descubrimos que hemos recopilado datos personales de niños menores de esas edades, tomaremos medidas razonables para eliminarlos.
+
+Los padres que crean que Udemy puede haber recopilado datos personales de niños menores de esas edades pueden enviar una solicitud para que se eliminen a la dirección privacy@udemy.com.
+7. Normas específicas de la jurisdicción
+
+Si el usuario vive en California, tiene ciertos derechos para obtener o eliminar sus datos y averiguar con quiénes los compartimos. Si el usuario vive en Australia, tiene derecho a presentar una queja formal en la agencia gubernamental correspondiente. Los usuarios que se encuentran fuera de los Estados Unidos deben tener en cuenta que transferimos datos a los EE. UU. y a regiones fuera del Espacio Económico Europeo
+
+7.1 Usuarios en California
+
+Los usuarios que residen en California tienen ciertos derechos en virtud de la Ley de Privacidad del Consumidor de California ("CCPA"). Entre los derechos para usuarios aptos de California se incluyen:
+
+    "Derecho a saber" — El usuario tiene derecho a solicitar información adicional sobre las categorías y los datos específicos de información personal que hayamos recopilado sobre el usuario, así como a acceder a una copia de su información personal.
+    "Derecho de supresión" — El usuario tiene derecho a solicitar la supresión de la información personal que hayamos recopilado sobre el usuario.
+    "Derecho a la no discriminación" — Si el usuario decide ejercer cualquiera de los derechos que recoge la ley CCPA, Udemy le tratará como a cualquier otro usuario. En otras palabras, no existe penalización alguna por ejercer sus derechos en virtud de la ley CCPA.
+    “Derecho de exclusión” - El usuario tiene derecho a rechazar la venta de su información personal.
+
+La ley CCPA tiene una definición específica de "venta" y, aunque Udemy no vende la información personal de ninguno de sus usuarios en el sentido tradicional, sí utilizamos cookies que ponen a disposición de determinados terceros información que no es de identificación personal. Para rechazar dicha "venta", el usuario debe hacer clic en el enlace "No comercializar con mi información personal" de la parte inferior de esta página.
+
+Para ejercer cualquiera de los derechos recogidos en la ley CCPA, envíe un correo electrónico a privacy@udemy.com o escríbanos a Udemy, Attn: Privacy/Legal Team, 600 Harrison Street, 3rd floor, San Francisco CA 94107. La ley CCPA permite al usuario designar un representante que lleve a cabo las solicitudes en su nombre. Por su protección, es posible que deba enviar la solicitud a través de la dirección de correo electrónico asociada con su cuenta y que tengamos que verificar su identidad y/o la de su representante antes de satisfacer su solicitud.
+
+Además, si el usuario desea obtener más detalles sobre la información personal que recopilamos y la forma en que lo hacemos, puede consultar las secciones anteriores tituladas "Qué datos obtenemos" y "Cómo obtenemos datos sobre el usuario".
+
+Para obtener más información sobre los fines empresariales y comerciales para los que se recopila su información personal y sobre las categorías de proveedores de servicios que disponen de acceso a su información personal, puede consultar las secciones anteriores tituladas "Para qué utilizamos los datos del usuario" y "Con quién compartimos los datos del usuario".
+
+Como residente en California, el usuario tiene derecho a solicitar ciertos detalles sobre la información personal que compartimos con fines de venta directa de terceros. Para enviar su solicitud, envíe un correo electrónico a privacy@udemy.com con la frase "California Shine the Light” e incluya su dirección postal, su estado de residencia y su dirección de correo electrónico.
+
+Puesto que no existe un estándar ampliamente aceptado para la señal Do Not Track que inicia el navegador, no reconocemos ni respondemos a señales Do Not Track por el momento.
+7.2 Usuarios en Nevada
+
+Udemy no vende información ni datos personales de sus usuarios. No obstante, los residentes de Nevada tienen derecho a solicitar que no se venda su información personal cubierta. Pueden hacerlo enviando un correo electrónico a privacy@udemy.com o escribiéndonos a Udemy, Attn: Privacy/Legal Team, 600 Harrison Street, 3rd floor, San Francisco CA 94107.
+7.3 Usuarios en Australia
+
+Si el usuario reside en Australia y tiene una queja, puede presentarla en la Oficina del Comisionado de Información de Australia (“OAIC”, por sus siglas en inglés). El usuario puede ponerse en contacto con la OAIC visitando www.oaic.gov.au, enviando un correo electrónico a enquiries@oaic.gov.au, llamando por teléfono al 1300 363 992 o escribiendo a la OAIC a la dirección postal GPO Box 5218, Sydney NSW 2001.
+7.4 Usuarios fuera de los EE. UU.
+
+Para proporcionar los Servicios al usuario, debemos transferir sus datos a los Estados Unidos y procesarlos allí. Al visitar o utilizar nuestros Servicios, el usuario da su consentimiento al almacenamiento de sus datos en servidores ubicados en los Estados Unidos. Si el usuario utiliza los Servicios desde fuera de los Estados Unidos, da su consentimiento a la transferencia, el almacenamiento y el procesamiento de sus datos en y a los Estados Unidos y otros países. En concreto, los datos personales recopilados en el Reino Unido ("RU"), Suiza y el Espacio Económico Europeo ("EEE") se transfieren y almacenan fuera de esas zonas. Asimismo, si el usuario se encuentra en el EEE, RU o Suiza, tiene derecho a presentar una reclamación ante la autoridad supervisora de datos pertinente.
+
+Nuestras empresas del grupo Udemy o nuestros proveedores de servicios también procesan los datos personales fuera del Reino Unido, Suiza y el Espacio Económico Europeo, por ejemplo, para procesar transacciones, facilitar pagos y proporcionar servicios de asistencia, tal y como se describe en la Sección 4. Hemos firmado acuerdos de procesamiento de datos con nuestros proveedores de servicios que restringen y regulan su procesamiento de los datos del usuario en nuestro nombre. Al enviar sus datos o utilizar nuestros Servicios, el usuario da su consentimiento a la transferencia, el almacenamiento y el procesamiento por parte de Udemy y de sus procesadores.
+8. Actualizaciones e información de contacto
+
+Cuando realicemos algún cambio sustancial en esta política, informaremos a los usuarios por correo electrónico, mediante un aviso en el producto o a través de otro mecanismo exigido por la ley. Los cambios entrarán en vigor el día que se publiquen. El usuario puede ponerse en contacto con nosotros por correo electrónico o por correo postal, si tiene alguna duda, inquietud o conflicto.
+
+8.1 Modificaciones de esta Política de privacidad
+
+De vez en cuando, podremos actualizar esta Política de privacidad. Si realizamos algún cambio sustancial en ella, informaremos al usuario por correo electrónico, a través de una notificación publicada en los Servicios o según lo exija la ley aplicable. También incluiremos un resumen de los principales cambios. A menos que se indique lo contrario, las modificaciones entrarán en vigor el día que se publiquen.
+
+En la medida en que lo permita la ley aplicable, si el usuario sigue utilizando los Servicios tras la fecha de entrada en vigor de algún cambio, el acceso y/o el uso por parte del usuario se considerará una aceptación de (y una aceptación de cumplir y vincularse a) la Política de privacidad revisada. La Política de privacidad revisada reemplaza a todas las Políticas de privacidad anteriores.
+8.2 Interpretación
+
+Los términos en mayúsculas que no se definen en esta política se definen como se especifica en las Condiciones de uso de Udemy. Cualquier versión de esta Política de privacidad en un idioma distinto del inglés se proporciona para la comodidad del usuario. Si hay algún conflicto con una versión en otro idioma, el usuario acepta que la versión en inglés prevalece.
+8.3 Preguntas
+
+Si el usuario tiene alguna duda, inquietud o conflicto con respecto a nuestra Política de privacidad, puede ponerse en contacto con nuestro equipo de privacidad (incluido nuestro responsable de la protección de la información personal específico) enviando un mensaje a la dirección privacy@udemy.com. El usuario también puede enviarnos un correo postal a Udemy, Attn: Legal, 600 Harrison Street, 3rd Floor, San Francisco, CA 94107.

@@ -1,0 +1,58 @@
+
+
+1.1
+Información básica de la cuenta
+
+Usted no necesita crear una cuenta para utilizar algunas de las características de nuestro servicio, como la búsqueda y visualización de los perfiles de usuarios de Twitter públicos o el visionado de una transmisión en la página de Periscope. Si opta por crear una cuenta debe proporcionarnos algunos datos personales para que podamos prestarle nuestros servicios. En Twitter esto incluye un nombre de cuenta (por ejemplo, “Twitter Moments”), un nombre de usuario (por ejemplo, @TwitterMoments), una contraseña y una dirección de correo electrónico o número de teléfono. Su nombre de cuenta y su nombre de usuario son siempre públicos, pero puede utilizar su nombre real o un seudónimo. También puede crear y gestionar múltiples cuentas de Twitter1, por ejemplo, para expresar diferentes facetas de su identidad.
+ 
+
+1.2
+Información pública
+
+La mayor parte de la actividad en Twitter es pública, lo que incluye su información de perfil2, su zona horaria e idioma, la fecha de creación de su cuenta y sus Tweets, así como cierta información de sus Tweets como la fecha, hora y la aplicación y versión de Twitter desde la que Twitteó. También puede decidir publicar su ubicación en sus Tweets o en su perfil de Twitter. Las listas que crea, la gente a la que sigue y que le sigue, así como los Tweets a los que hace me gusta o Retwitteas también son públicos. Si desea retuitear, responder o interactuar públicamente con un anuncio en nuestros servicios, ese anunciante podría obtener información sobre usted asociada con el anuncio con el que interactuó, como las características de la audiencia a la que estaba destinado el anuncio. Las transmisiones de Periscope que usted crea, en las que hace clic o en las que participa de otra forma, ya sea en Periscope o Twitter, son públicas junto con la información sobre cuándo realizo dichas acciones. También lo son sus corazones, comentarios, el número de corazones que usted ha recibido, de qué cuentas es un Superfan y si visionó una transmisión en directo o en repetición. Cualquier corazón, comentario u otro contenido con el que contribuya a la transmisión de otra cuenta seguirá siendo parte de dicha transmisión durante el tiempo que permanezca en Periscope. La información publicada sobre usted por otras personas que utilicen nuestros servicios también puede ser pública. Por ejemplo, otras personas pueden etiquetarle en una foto3 (si su configuración lo permite) o mencionarle en un Tweet.
+
+Usted es responsable de sus Tweets y otras informaciones que proporcione a través de nuestros servicios y debe pensar con detenimiento lo que hace público
+
+, especialmente si se trata de información sensible. Si actualiza su información pública en Twitter, por ejemplo, eliminando un Tweet o desactivando su cuenta, reflejaremos su contenido actualizado en Twitter.com, Twitter para iOS y Twitter para Android.
+
+Al colgar contenido públicamente cuando tuitea, nos está pidiendo que divulguemos esa información de la manera más amplia posible, incluso a través de nuestras API, y ordenando a los que acceden a la información a través de nuestras API que hagan lo mismo. Para facilitar la rápida difusión global de Tweets a personas de todo el mundo, utilizamos tecnologías como interfaces de programación de aplicaciones (API) e integraciones para permitir que esta información pueda ser utilizada por sitios web, aplicaciones y otros (por ejemplo, para mostrar Tweets en una web de noticias o analizar lo que la gente dice en Twitter). Por lo general proporcionamos este contenido de forma gratuita en cantidades limitadas y cobramos tarifas de licencia para el acceso a gran escala. Contamos con unas condiciones estándar que rigen cómo pueden utilizarse estos datos y un programa de cumplimiento para implementar dichas condiciones. No obstante, estos individuos y empresas no están asociados con Twitter y sus contenidos pueden no reflejar las actualizaciones que usted realice en Twitter. Para más información sobre cómo ponemos a disposición de todo el mundo los datos públicos de Twitter, visite https://developer.twitter.com.
+ 
+
+1.3
+Información de contacto y agendas
+
+Utilizamos su información de contacto, como su dirección de correo electrónico o número de teléfono, para autenticar y mantener la seguridad de su cuenta (y de nuestros servicios), así como para evitar el correo no deseado, el fraude y el abuso. También utilizamos la información activar ciertas características de la cuenta (por ejemplo, para verificación de acceso o Twitter por SMS) y para enviarle información sobre nuestros servicios y para personalizar nuestros servicios, incluyendo anuncios. Si nos facilita su número de teléfono, usted acepta recibir mensajes de texto de Twitter en ese número según permitan las leyes de su país. Twitter también utiliza su información de contacto para mostrarle publicidad según permitan las leyes de su país y para ayudar a otros a encontrar su cuenta si su configuración lo permite, incluyendo a través de servicios y aplicaciones cliente de terceros. Puede utilizar su configuración de notificaciones por correo electrónico y teléfono móvil para controlar las notificaciones que recibe de Twitter. También puede cancelar la suscripción a una notificación siguiendo las instrucciones incluidas en la propia notificación o aquí.
+
+Usted puede optar por subir y sincronizar su agenda de contactos con Twitter para que podamos ayudarle a encontrar y conectar con personas que conozca y ayudar a otros a encontrarle y conectar con usted. También utilizamos esta información para mostrarle mejores recomendaciones de contenido a usted y a otras personas.
+
+Usted puede registrarse en Periscope con una cuenta de otro servicio como Twitter, Google o Facebook o conectar su cuenta de Periscope a estos otros servicios. Si opta por hacerlo, utilizaremos información de dicho servicio, incluyendo su dirección de correo electrónico, amigos o lista de contactos, para recomendarle otras cuentas o contenido o para recomendarle su cuenta o contenido a otras personas. Usted puede controlar si su cuenta de Periscope puede ser encontrada mediante su correo electrónico en su configuración de Periscope.
+
+Si nos envía un correo electrónico, conservaremos el contenido de su mensaje, su dirección de correo electrónico y su información de contacto para contestar a su solicitud.
+ 
+
+1.4
+Mensajes directos y comunicaciones no públicas
+
+Proporcionamos ciertas características que le permiten comunicarse de una forma más privada o controlar quién ve su contenido. Por ejemplo, usted puede utilizar Mensajes directos para mantener conversaciones en Twitter que no sean públicas, proteger sus Tweets o realizar transmisiones privadas en Periscope. Cuando se comunique con otros enviando o recibiendo Mensajes directos, almacenaremos y procesaremos sus comunicaciones y la información relacionada con ellas. Esto incluye el escaneo de enlaces para detectar contenidos maliciosos, acortamiento de la URL a http://t.co, detección de correo no deseado4, abusos, e imágenes prohibidas y uso de asuntos denunciados. También utilizamos información sobre con quién se ha comunicado y cuándo (pero no el contenido de estas comunicaciones) para comprender mejor la utilización de nuestros servicios, proteger la seguridad e integridad de nuestra plataforma y mostrar un contenido más relevante. Compartimos el contenido de sus Mensajes directos con las personas a las que se los haya enviado.No los utilizamos para mostrarle anuncios. Tenga en cuenta que si interactúa de una forma que normalmente sería pública con contenido de Twitter compartido con usted por medio de un Mensaje directo, por ejemplo, haciendo me gusta en un Tweet, dichas interacciones serán públicas. Cuando utilice características como los Mensajes directos para comunicarse que los destinatarios, recuerde que los destinatarios tienen su propia copia5 de sus comunicaciones en Twitter (incluso si usted elimina su copia de dichos mensajes de su cuenta), la cual pueden duplicar, almacenar o compartir.
+ 
+
+1.5
+Información de pago
+
+Usted puede proporcionarnos su información de pago6, incluyendo su número de tarjeta de crédito o débito, fecha de caducidad de su tarjeta, código CVV y dirección de facturación, para comprar publicidad u otros productos proporcionados como parte de nuestros servicios.
+ 
+
+1.6
+Cómo controla usted la información que comparte con nosotros
+
+Su configuración de Privacidad y seguridad le permite decidir
+
+:
+
+    Si sus Tweets están disponibles públicamente en Twitter
+    Si otros pueden etiquetarle en una foto
+    Si usted puede recibir Mensajes directos de cualquiera en Twitter o solo de sus seguidores
+    Si otros pueden encontrarle mediante su correo electrónico o número de teléfono
+    Si usted sube su agenda a Twitter para almacenarla y utilizarla
+    Cuándo y cómo puede usted ver contenidos sensibles en Twitter
+    Si usted quiere bloquear o silenciar otras cuentas de Twitter

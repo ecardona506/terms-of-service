@@ -1,0 +1,420 @@
+
+Política de privacidad de Adobe
+ 
+
+Última actualización: 14 de diciembre de 2020
+
+ 
+
+La Política de privacidad de Adobe describe las prácticas de privacidad de los sitios web y las aplicaciones de Adobe. Si reside en Norteamérica, su relación se establece con Adobe Inc. (Adobe de EE. UU.), y se aplicará la legislación de Estados Unidos y California.
+
+ 
+
+Si reside fuera de Norteamérica, su relación se establece con Adobe Systems Software Ireland Limited (Adobe Ireland), que es el responsable del tratamiento de datos de su información personal recopilada por Adobe, y se aplicará la legislación de Irlanda. 
+
+ 
+
+Tenga en cuenta que para poder emplear nuestras aplicaciones y sitios web, autoriza a Adobe a transferir su información personal a través de fronteras nacionales y a otros países donde trabajan Adobe y sus socios, incluyendo Estados Unidos. Las protecciones de privacidad y los derechos de las autoridades para acceder a su información en estos países pueden no ser equivalentes a los de su país. Únicamente transferiremos su información personal a los países donde esté permitido por ley y llevaremos a cabo los pasos necesarios para garantizar que su información personal sigue recibiendo las protecciones adecuadas. Para obtener más información, consulte la sección “¿Transfiere Adobe mi información personal a través de fronteras nacionales?”
+
+ 
+
+Si el contenido o información que almacena en aplicaciones o sitios web de Adobe contiene información personal de otras personas, debe tener legalmente autorizado el compartir dicha información personal con Adobe.
+
+ 
+Resumen de puntos clave
+
+    Cuando se requiera su consentimiento, obtendremos su licencia antes de (i) enviarle noticias y material promocional sobre Adobe; (ii) acceder a la información almacenada en su dispositivo en relación con su uso de sitios web y aplicaciones, y el compromiso que tenga con ellos (por ejemplo, reuniones de Adobe Connect) e reportes de bloqueos; y (iii) analizar su contenido. Puede retirar su consentimiento a tales actividades en cualquier momento. Más información.
+
+    Esta política explica cuándo procesamos información personal para nuestros intereses legítimos. Puede pedirnos que dejemos de procesar esta información. Más información sobre sus derechos y cómo puede ejercerlos.
+
+    Usamos su información personal para permitirle registrarse en Adobe y proporcionarle nuestros sitios web y aplicaciones, así como otros productos o servicios que usted aplicar. Más información.
+
+    Proporcionamos funciones interactivas que interactúan con los sitios de redes sociales, como Facebook. Si usa estas funciones, estos sitios nos enviarán información personal sobre usted. Más información.
+
+    Usamos cookies y otras tecnologías para rastrear el uso de nuestros sitios web y aplicaciones. Para obtener más información sobre las oportunidades de elegir no permitir las cookies, haga clic aquí. Si usa nuestro sitio web en un navegador, esta información también está disponible en nuestra Política de cookies.
+
+    Existen varios lugares de los sitios web y aplicaciones de Adobe que le permiten publicar comentarios, cargar imágenes o enviar contenido, que estará a disposición del público cuando usted elija participar en estas actividades. También divulgamos información personal a otras compañías del grupo de Adobe y a los socios de publicidad y ventas, conforme a sus elecciones. También compartimos información con terceros que contratamos para procesar información personal en nuestro nombre o cuando dicha compartición es requerida por ley, o en otras determinadas situaciones. Más información.
+
+    Transferimos su información personal a los EE. UU. y a otros países, que pueden no ser el país en el que usted viva. Empleamos cláusulas contractuales aprobadas por el gobierno, como cláusulas contractuales estándar aprobadas por la Comisión Europea, para ayudar a proteger su información personal. Más información.
+
+¿Qué cubre esta política de privacidad?
+
+¿Qué información recopila Adobe sobre mí?
+
+¿Cómo usa Adobe la información que recopila sobre mí y cuáles son las bases legales para estos usos?
+
+¿Comparte Adobe mi información personal?
+
+¿Se muestra mi información personal en algún lugar de las aplicaciones o los sitios web de Adobe?
+
+¿Está protegida mi información personal?
+
+¿Dónde almacena Adobe mi información personal?
+
+¿Transfiere Adobe mi información personal a través de fronteras nacionales?
+
+¿Qué derechos tengo con respecto a mi información personal y cómo puedo ejercerlos?
+
+¿Qué derechos tengo si soy un consumidor de California?
+
+Retirada del consentimiento u oponerse de alguna otra forma al marketing directo
+
+¿Qué información recopilan las compañías empleando las soluciones de Adobe Experience Cloud?
+
+¿Cuánto tiempo conserva Adobe mi información?
+
+¿Cambiará esta política de privacidad?
+
+¿Con quién puedo ponerme en contacto para enviar preguntas o dudas?
+¿Qué cubre esta política de privacidad?
+
+Esta política de privacidad describe cómo Adobe (también conocido como “nosotros”, “nuestro” o “nuestra”) empleará su información en el contexto de:
+
+ 
+
+    Sitios web de Adobe; servicios basados en el Sitio web, como Behance; y aspectos basados en el Sitio web de Creative Cloud, Document Cloud y Experience Cloud (denominados en conjunto “sitios web”);
+    Aplicaciones de escritorio y aplicaciones móviles (ambas denominadas “aplicaciones”) que incluyen una referencia a esta política; y
+    Marketing, ventas y prácticas publicitarias de Adobe. 
+     
+
+Tenga en cuenta que los sitios web y las aplicaciones proporcionadas por algunas compañías adquiridas por Adobe pueden operar bajo sus propias políticas de privacidad hasta que sus prácticas de privacidad se integren con las prácticas de privacidad de Adobe. Para obtener una lista actualizada de estas compañías, haga clic aquí.
+
+ 
+
+Se proporciona información adicional relacionada con la privacidad para determinados sitios web y aplicaciones de Adobe.
+ 
+
+Adobe® Digital Editions
+	
+
+Adobe Sign
+	
+
+Adobe Stock
+
+Adobe Fonts
+	
+
+Flash® Player
+	
+
+Behance™
+
+Consulte también las Condiciones de uso de Adobe y todas las Condiciones de uso adicionales o los Contratos de licencia de los productos que correspondan a la aplicación o al sitio web que esté empleando. 
+
+ 
+¿Qué información recopila Adobe sobre mí?
+
+Adobe ID, registro y atención al cliente
+
+Cuando se registra para emplear un sitio web o una aplicación de Adobe, crea un Adobe ID, o cuando se pone en contacto con nosotros para aplicar asistencia u otras ofertas, Adobe recopila información que le identifica. Esto incluye lo siguiente:
+
+ 
+
+    Nombre;
+    Fecha de nacimiento;
+    Nombre de la compañía;
+    Dirección de email;
+    Número de teléfono;
+    Dirección;
+    País;
+    Dirección IP;
+    ID del dispositivo móvil;
+    Información de pago/facturación (donde las aplicaciones o los sitios web sean 'de pago');
+    Información de idoneidad (p. ej., para ediciones de aplicaciones para estudiantes y profesores);
+    Tipos de aplicaciones y sitios web de interés; y
+    Contenido de las comunicaciones con asistencia al cliente.
+
+ 
+
+Para ayudar a mantener actualizadas nuestras bases de datos y proporcionarle el contenido y las experiencias más relevantes, es posible que combinemos la información facilitada por usted con información de fuentes de terceros, de acuerdo con la legislación aplicable. Por ejemplo, el tamaño, el sector y otra información sobre la compañía para la que trabaja (si facilitó el nombre de la compañía) se obtendrán de fuentes entre las que se encuentran sitios de redes sociales profesionales y proveedores de servicios de información. También podemos recopilar y recibir información de terceros, incluidos socios, y de fuentes de acceso público, con fines que incluyen detectar, prevenir o abordar de otro modo el fraude, problemas técnicos o de seguridad, así como para proteger contra daños a los derechos, propiedad o seguridad de Adobe y nuestros empleados, nuestros usuarios, niños o el público.
+ 
+
+Sitios web y aplicaciones de Adobe
+
+Recopilamos información sobre cómo usted emplea nuestros sitios web y aplicaciones, incluido cuando emplea una función de una aplicación de escritorio que implica una conexión en línea (por ejemplo, una función de sincronización de fotografías). Dependiendo de la aplicación o el sitio web, esta información puede estar asociada con su dispositivo o navegador o con su cuenta de Adobe. Dicha información incluye:
+
+ 
+
+    Dirección IP;
+    Tipo de navegador y dispositivo;
+    Sitio web que le hizo llegar a un sitio web de Adobe;
+    Términos de búsqueda introducidos ​​en algún motor de búsqueda que le hicieron llegar a un sitio web de Adobe;
+    Uso y navegación de sitios web y aplicaciones (recopilados a través de cookies y tecnologías similares, o por servidores de Adobe cuando usted inició sesión en la aplicación o sitio web);
+    Análisis de su contenido (p. ej., documentos, fotos, videos, registros de actividad y comentarios directos por su parte) que se envía o recibe empleando una función en línea de un sitio web o una aplicación de Adobe, o que se almacena en servidores de Adobe.
+
+Los siguientes vínculos proporcionan más información:
+
+ 
+
+    Programa de mejora de productos de Adobe;
+    Preguntas frecuentes de seguimiento de uso de escritorio;
+    Preguntas frecuentes de información de uso de aplicaciones móviles;
+    Preguntas frecuentes sobre información de uso de Experience Cloud;
+    Sus opciones de privacidad respecto a la forma en que empleamos esta información;
+    Productos y servicios de Adobe con licencia de instituciones educativas;
+    Cómo emplea Adobe las cookies y tecnologías similares; y
+    Cómo Adobe analiza su contenido empleando técnicas como el aprendizaje automático, para mejorar nuestras aplicaciones y servicios, y cómo rechazar esto.
+     
+
+Activación de aplicaciones de Adobe y actualizaciones automáticas
+
+Cuando activa su aplicación de Adobe o cuando instala actualizaciones en la aplicación, recopilamos información sobre:
+
+ 
+
+    su dispositivo (fabricante, modelo, dirección IP);
+    la aplicación de Adobe (versión, fecha de activación, actualizaciones correctas y con errores);
+    su número de serial de producto (cuando sea necesario para poder comenzar a usar su producto).
+
+
+Puede obtener más información sobre la activación de aplicaciones aquí.
+
+
+Emails de Adobe
+
+Los emails que le enviamos pueden incluir una tecnología (denominada baliza sitio web) que indica a Adobe si recibió o abierto el email, o si hizo clic en un vínculo del email. Si no desea que recopilemos esta información, puede rechazar el recibir emails de marketing de Adobe.
+
+
+Publicidad en línea de Adobe
+
+Adobe anuncia en línea de diversas formas, incluyendo mostrarle los anuncios de Adobe en sitios web y aplicaciones de otras compañías y en plataformas de redes sociales, como Facebook y LinkedIn. Los sitios web de Adobe usan cookies y tecnologías similares que ofrece nuestra propia compañía (Adobe Experience Cloud) y otras compañías que nos permiten reunir información adicional para medir y mejorar la efectividad de nuestra publicidad. Recopilamos información como la siguiente:
+
+ 
+
+    Qué anuncios se muestran;
+    En qué anuncios se hace clic; y 
+    Dónde se mostró el anuncio. 
+
+ 
+
+Obtenga más información sobre las prácticas de publicidad de Adobe.
+
+Botones, herramientas y contenidos de otras compañías
+
+Los sitios web y las aplicaciones de Adobe pueden incluir botones, herramientas o contenidos vinculados con los servicios de otras compañías (por ejemplo, un botón “Me gusta” de Facebook). Podemos recopilar información sobre su uso de estas funciones, como el contenido marcado con “me gusta” y la información de direcciones en Google Maps. Además, cuando ve estos botones, herramientas o contenidos, o interactúa con ellos, o cuando ve un sitio web o aplicación de Adobe donde aparecen, es posible que se envíe automáticamente a la otra compañía cierta información sobre su navegador. Lea la política de privacidad de dicha compañía para obtener más información.
+
+ 
+
+Los sitios web de Adobe pueden implementar Google reCAPTCHA Enterprise para ayudar a prevenir el spam y el abuso. reCAPTCHA Enterprise recopila información de hardware y software, como datos de dispositivos y aplicaciones, y los envía a Google con el fin de proporcionar, mantener y mejorar reCAPTCHA Enterprise y para fines de seguridad general. Google no emplea esta información para publicidad personalizada. Su uso de reCAPTCHA Enterprise está sujeto a la Política de privacidad de Google y a las Condiciones de uso.
+
+
+Páginas de redes sociales y servicios de inicio de sesión social de Adobe
+
+Puede iniciar sesión en algunos sitios web o aplicaciones de Adobe empleando una cuenta de una red social, como por ejemplo una cuenta de Facebook. Cuando conceda las licencias adecuadas, recibiremos información sobre usted desde su cuenta de redes sociales, como el nombre, la ubicación e información demográfica básica.
+
+ 
+
+Adobe tiene sus propias páginas en numerosos sitios de redes sociales (por ejemplo, la página en Facebook del equipo de Adobe® Photoshop®). Recopilaremos la información que puso a disposición del público en su cuenta de redes sociales, como el nombre y los intereses sobre nuestros productos y servicios, cuando interactúe con nuestras páginas de redes sociales. Los sitios de redes sociales pueden proporcionar estadísticas e información a Adobe que nos ayudan a conocer los tipos de acciones que las personas llevan a cabo en nuestras páginas. En los casos necesarios, Adobe y los sitios de redes sociales llegamos a un acuerdo que determina nuestras respectivas responsabilidades.
+
+ 
+
+Puede obtener más información sobre las prácticas de Adobe con respecto a las páginas de redes sociales y los servicios de inicio de sesión en cuenta aquí.
+
+ 
+
+Adobe actuando en su nombre
+
+En determinados casos, Adobe actúa solo en nombre de usted con respecto a la información personal recopilada y procesada por nuestros servicios (por ejemplo, para los contactos de la libreta de direcciones compartidos por usuarios al introducir la información de destinatarios). En tales casos, Adobe solo actúa siguiendo sus instrucciones para facilitar el servicio aplicar por usted, y usted será el responsable de la información compartida. En estos casos, le informaremos a través de notificaciones en la aplicación u otras comunicaciones en el momento oportuno.
+
+ 
+¿Cómo usa Adobe la información que recopila sobre mí y cuáles son las bases legales para estos usos?
+
+Adobe emplea la información que recopilamos sobre usted para los siguientes propósitos:
+
+ 
+
+    Para cumplir con un contrato, o tomar medidas vinculadas a un contrato: esto es relevante cuando usted se registra para usar una aplicación o un sitio web de Adobe (ya sea de pago o gratuito, en forma de versión de prueba). Esto incluye lo siguiente:
+        Proporcionarle los sitios web y aplicaciones de Adobe para los que se registró, así como el resto de servicios o productos que aplicar;
+        Verificar su identidad;
+        Procesamiento de pagos;
+        Enviarle las comunicaciones necesarias (por ejemplo, relacionadas con los pagos o el vencimiento de su subscripción); y
+        Proporcionar servicio o asistencia técnica al cliente.
+    Según lo requiera Adobe para desarrollar nuestro negocio y perseguir nuestros intereses legítimos, en particular:
+        Proporcionarle los sitios web y aplicaciones de Adobe para los que se registró, así como el resto de productos y servicios que aplicar;
+        Analizar su uso y medir la efectividad de nuestros sitios web y aplicaciones para conocer mejor cómo se usan, de modo que podamos mejorarlos e involucrar y retener a los usuarios;
+        Enviar información sobre productos y servicios de Adobe, ofertas especiales e información similar, y compartir su información con terceros para sus propios fines de marketing (cuando no se requiera su consentimiento);
+        Analizar su uso de nuestros sitios web y aplicaciones, su contenido así como la interacción con nuestras comunicaciones, para adaptar y personalizar el sitio web o la aplicación, y las comunicaciones comerciales (más información) (cuando no se requiera su consentimiento);
+        Analizar su contenido mediante técnicas como el aprendizaje automático, para mejorar nuestros servicios y la experiencia de usuario (cuando no se requiera su consentimiento);
+        Diagnosticar problemas en nuestros sitios web y aplicaciones;
+        Detectar, prevenir o enfrentarse de cualquier otra forma a los problemas de fraude, seguridad o técnicos, así como proteger contra daños a los derechos, la propiedad o la seguridad de Adobe, de nuestros usuarios o del público;
+        Realizar encuestas e investigación de mercado sobre nuestros clientes, sus intereses, la eficacia de nuestras campañas de marketing y la satisfacción del cliente (a menos que necesitemos su consentimiento para realizar dichas encuestas, en cuyo caso solo lo haremos con su licencia);
+        Investigar y responder a cualquier comentario o queja que pudiera enviarnos;
+        Verificar la validez del código de seguridad, el número de cuenta y el número de tarjeta que envíe, si emplea una tarjeta de crédito o débito para el pago, a fin de evitar el fraude en pagos (empleamos a terceros para esto, consulte “¿Comparte Adobe mi información personal?” a continuación);
+        Compartir información de cuenta registrada de una dirección de email de empresa con los empleadores, con fines de migración de cuenta;
+        Si nos fusionamos o nos adquiere otra compañía, vendemos un sitio web, una aplicación o una unidad de negocios de Adobe, o si otra compañía adquiere la totalidad o una parte sustancial de nuestros activos, es probable que su información se revele a nuestros asesores y al resto de posibles asesores del comprador, y será uno de los activos que se transfieran al nuevo propietario; y
+        En relación con reclamaciones legales, cumplimiento, reglamentación y fines de investigación, según sea necesario (incluyendo la divulgación de información relacionada con solicitudes de agencias gubernamentales, procesos o litigios legales).
+
+ 
+
+Cuando procesamos su información en función de intereses legítimos, puede oponerse a este procesamiento en determinadas circunstancias. En tales casos, dejaremos de tratar la información, a menos que tengamos motivos legítimos convincentes para continuar tratándola o en los casos en que sea necesario hacerlo por razones legales.
+
+ 
+
+    Cuando sea necesario, cuando conceda a Adobe su consentimiento o de cualquier otra manera coherente con sus elecciones:
+        Enviar información sobre productos y servicios de Adobe, ofertas especiales e información similar, y compartir su información con terceros para sus propios fines de marketing;
+        Colocar cookies y emplear tecnologías similares en nuestros sitios web, en nuestras aplicaciones y en las comunicaciones por email, conforme a nuestra Política de cookies y la información que se le facilita cuando se emplean esas tecnologías;
+        Acceder a la información almacenada en su dispositivo relacionada con su uso de sitios web y aplicaciones, y la interacción con estos (por ejemplo, reuniones de Adobe Connect) e reportes de bloqueos;
+        Acceder a información almacenada en su dispositivo que usted nos permite recibir a través de opciones de configuración del dispositivo (p. ej., fotos, ubicación y cámara), para proporcionar determinada funcionalidad en nuestras aplicaciones y sitios web; y
+        Analizar su contenido empleando técnicas como el aprendizaje automático, con la finalidad de mejorar nuestros servicios y la experiencia del usuario;
+
+ 
+
+En otras ocasiones, en las que le pedimos su consentimiento, usaremos la información para los fines que explicamos en esos momentos. En los casos en que nos basamos en el consentimiento para tratar información, puede retirar su consentimiento para tales actividades en cualquier momento.
+
+ 
+
+    Por razones legales:
+        En respuesta a las solicitudes del gobierno o las autoridades policiales que lleven a cabo una investigación.
+        Para detectar, evitar o abordar de cualquier otra manera el fraude, la seguridad, potenciales actividades ilegales o problemas técnicos y piratería de software (p. ej. para confirmar que el software sea genuino y esté debidamente licenciado), ayudando a su protección y a la de Adobe.
+
+ 
+
+Cuando este procesamiento y estas divulgaciones no sean estrictamente requeridos por la ley, Adobe puede apoyarse en sus intereses legítimos y los de terceros descritos anteriormente.
+
+
+Actualmente solo en Estados Unidos y Canadá, Adobe también emplea su información para nuestra participación en Adobe Experience Cloud Device Co-op, que nos permite conocer mejor cómo emplea usted los sitios web y aplicaciones de Adobe en sus diversos dispositivos y publicar anuncios adaptados a sus probables intereses (obtener más información o rechazarlo).
+¿Comparte Adobe mi información personal?
+
+Uso compartido con otros Responsables del tratamiento de datos
+
+Compartiremos su información personal dentro del grupo de empresas de Adobe para los fines identificados anteriormente (véase una lista de entidades de Adobe y de nuestras compañías adquiridas).
+
+ 
+
+También compartiremos su información personal con otros responsables del tratamiento de datos de terceros. Entre los tipos de terceros con los que puede compartirse su información se encuentran: nuestros distribuidores y otros socios de ventas y publicidad, minoristas, organizaciones de investigación, anunciantes, agencias de publicidad, redes y plataformas publicitarias, proveedores de servicios de información, proveedores de monitorización y prevención del fraude, editores y organizaciones sin ánimo de lucro (con su consentimiento, si fuera necesario). Los responsables del tratamiento de datos de terceros también pueden usar los productos y servicios de Adobe para recopilar y tratar su información personal. Si está empleando una dirección de email asociada con un dominio empresarial (por ejemplo, yourname@businessname.com) para acceder a las aplicaciones y sitios web de Adobe, o si una compañía le invitó a usar las aplicaciones y los sitios web, podríamos proporcionarle su información personal a dicha compañía.
+
+ 
+
+Compartir con fines de prevención, seguridad y protección del fraude
+
+Compartiremos información personal con compañías, organizaciones o particulares ajenos a Adobe si creemos de buena fe que el acceso, el uso, la preservación o la divulgación de la información son razonablemente necesarios para detectar, evitar o abordar de alguna otra manera el fraude, la seguridad o problemas técnicos, así como para proteger contra el daño a los derechos, la propiedad o seguridad de Adobe y nuestros empleados, nuestros usuarios, niños o el público, según lo requiera o permita la ley.
+
+ 
+
+Uso compartido con encargados del tratamiento de datos
+
+También compartiremos su información personal con compañías que nos ayudan a desarrollar nuestro negocio procesando información personal en nombre de Adobe, para los fines identificados anteriormente. Dichas compañías incluyen proveedores de servicios de asistencia al cliente, servicios de procesamiento de pagos, supervisión y prevención del fraude, email, redes sociales y otras plataformas de marketing y proveedores de servicios, así como servicios de alojamiento. Exigimos a estas compañías proteger su información personal de manera coherente con esta Política de privacidad.
+
+
+Otra información compartida
+Adobe también puede compartir su información personal en los casos siguientes:
+
+ 
+
+    Cuando usted acepta la compartición;
+    Cuando creemos de buena fe que estamos obligados a proporcionar información en respuesta a una citación, orden judicial u otra ley o proceso legal aplicable (más información), o para responder a una emergencia que implique peligro de muerte o lesiones corporales graves;
+    Si nos fusionamos o somos adquiridos por otra compañía, vendemos un sitio web, una aplicación o una unidad de negocios de Adobe, o si otra compañía adquiere la totalidad o una parte sustancial de nuestros activos, es probable que su información se revele a nuestros asesores y a los posibles asesores del comprador, y será uno de los activos que se transfieran al nuevo propietario.
+
+ 
+
+Podemos compartir o publicar información agregada que no le identifica específicamente, como información estadística sobre los visitantes de nuestros sitios web o información estadística sobre cómo los clientes emplean Adobe Experience Cloud.
+
+¿Se muestra mi información personal en alguna parte en los sitios web o las aplicaciones de Adobe?
+
+Hay varios lugares en los sitios web y las aplicaciones de Adobe que le permiten publicar comentarios, cargar imágenes o enviar contenidos para que los vean otras personas. En ocasiones podrá limitar quién puede ver lo que comparte, pero hay lugares donde si comparte algo podrá verlo tanto el público en general como otros usuarios de la aplicación o el sitio web. Tenga cuidado cuando comparta su información personal. No comparta nada que no quiera que se sepa públicamente a menos que esté seguro de que lo publica en un sitio web o una aplicación que le permite controlar quién ve lo que publica. Tenga en cuenta que, cuando publica mensajes en determinados foros de usuarios de nuestros sitios web y aplicaciones, es posible que con su mensaje se incluyan y se muestren su dirección de email o su nombre y/o su foto de perfil. Puede encontrar más información sobre cómo gestionar su perfil público aquí.
+
+Para eliminar el contenido que compartió en nuestros sitios web y aplicaciones, emplee la misma función del sitio web o la aplicación que empleó para compartirlo. Si otro usuario le invita a participar y ver, editar o comentar de manera compartida un contenido, es posible que tenga la posibilidad de eliminar sus contribuciones, pero normalmente el usuario que le invitó tendrá el control total. Si tiene alguna pregunta o duda sobre esto, póngase en contacto con nosotros.
+ 
+¿Está protegida mi información personal?
+
+Trabajamos intensamente para proteger su información personal. Empleamos controles de seguridad administrativos, técnicos y físicos cuando corresponde, como el cifrado, la verificación en dos pasos y las obligaciones contractuales estrictas de confidencialidad para empleados y contratistas.
+
+¿Dónde almacena Adobe mi información personal?
+
+Su información personal y sus archivos se almacenan en los servidores de Adobe y los servidores de las compañías que contratamos para que nos presten sus servicios.
+
+ 
+¿Transfiere Adobe mi información personal a través de fronteras nacionales?
+
+Las principales ubicaciones donde procesamos su información personal son los EE. UU. y la India, pero también transferimos información personal a todos los demás países del mundo donde nuestras aplicaciones y otros productos o servicios están disponibles. Realizamos estas transferencias de conformidad con las leyes aplicables, por ejemplo, estableciendo acuerdos de transferencia de datos para ayudar a proteger su información personal.
+
+ 
+
+Si reside fuera de Norteamérica, su relación se establece con Adobe Ireland. Cuando Adobe Ireland transfiere su información personal a un país que no está dentro del EEE y no está sujeto a decisiones de adecuación de la Comisión Europea, nos apoyamos en uno o más de los siguientes mecanismos legales: Escudo de privacidad Suiza-EE. UU., Cláusulas contractuales estándar aprobadas por la Comisión europea y/o su consentimiento en determinadas circunstancias. Puede proporcionársele una copia del mecanismo pertinente para revisión por su parte, previa solicitud, empleando los datos de contacto facilitados al final de esta Política de privacidad. Para obtener más información sobre cómo Adobe Ireland transfiere información personal europea, consulte Transferencias de datos transfronterizas.
+
+ 
+
+La información anterior se aplica a los usuarios de Adobe que sean consumidores. Hay más información disponible para nuestros clientes empresariales que quieran conocer más sobre las transferencias de datos transfronterizas.
+
+ 
+¿Qué derechos tengo con respecto a mi información personal y cómo puedo ejercerlos?
+
+Conforme a la legislación de algunas jurisdicciones, usted podría tener derecho a aplicar una copia de su información personal; corregir, eliminar o restringir el tratamiento (y detener el que esté activo) de su información personal; y obtener la información personal que nos facilite para un contrato o bajo su consentimiento en un formato estructurado y legible por máquina, así como a pedirnos que compartamos (pasemos) esta información a otro responsable del tratamiento de datos.
+
+ 
+
+Además, puede oponerse al procesamiento de su información personal en algunas circunstancias (como cuando empleemos la información para marketing directo).
+
+ 
+
+Estos derechos pueden estar limitados, por ejemplo, si el cumplimiento de su solicitud revela información personal sobre otra persona, o si nos aplicar eliminar información que la legislación vigente nos exija mantener o que necesitemos para defendernos frente a demandas contra nosotros. Además, la mayoría de los navegadores sitio web tienen una función “No rastrear” que le permite indicar a los sitios web que no desea que se rastreen sus actividades en línea. Actualmente, no existe un estándar aceptado sobre cómo las compañías deben responder a las señales de “No rastrear” de los navegadores sitio web. En consecuencia, nuestras aplicaciones y sitios web no reconocen ni responden actualmente a las señales del navegador “No rastrear”. Sin embargo, puede obtener más información sobre las prácticas publicitarias de Adobe y sus opciones de privacidad aquí. 
+
+ 
+
+Para ejercer cualquiera de estos derechos (incluida la desactivación de su cuenta de Adobe ID), puede ponerse en contacto con nosotros, o con nuestro responsable de protección de datos, empleando los detalles que se indican a continuación. Adicionalmente, muchos de nuestros sitios web y aplicaciones le permiten editar su información personal accediendo a la función “Mi cuenta”, “Mi perfil” u otras similares de la aplicación o el sitio web que esté empleando. Igualmente, puede eliminar archivos o fotografías que almacenó en nuestros sitios web y aplicaciones iniciando sesión y empleando las funciones de eliminación disponibles.
+
+ 
+
+Si tiene problemas no resueltos, tiene derecho a informar de ellos a su regulador de privacidad o autoridad de protección de datos local y, cuando corresponda, también tendrá derecho a registrar una queja ante la autoridad de supervisión principal de Adobe Ireland, la Comisión Irlandesa de Protección de Datos.
+
+ 
+
+Para registrarse en Adobe, crear un Adobe ID y emplear algunos sitios web, aplicaciones, productos o servicios de Adobe, es obligatorio facilitar cierta información: si no se facilita la información relevante, en ese caso no podremos facilitarle a usted una cuenta de Adobe, ni proporcionarle los sitios web, las aplicaciones, los productos o los servicios aplicar. Cualquier otra provisión de su información es opcional. Facilitar información opcional nos ayudará a ofrecerle una mejor experiencia, como ofertas o contenido más personalizados.
+
+ 
+¿Qué derechos tengo si soy un consumidor de California?
+
+Además de los derechos anteriores, consulte Derechos de privacidad del consumidor de California para obtener información adicional.
+
+ 
+Retirada del consentimiento u oponerse de alguna otra forma al marketing directo
+
+El grupo de empresas de Adobe (consulte la lista de entidades de Adobe y nuestras compañías adquiridas) y las compañías a las que contratamos para que nos ayuden a comercializar nuestros sitios web y aplicaciones en nuestro nombre pueden emplear su información para proporcionarle información y ofertas relacionadas con Adobe.
+
+ 
+
+En los casos en que nos apoyemos en su consentimiento, siempre podrá retirar dicho consentimiento, aunque podríamos disponer de otras bases legales para procesar su información con otros fines, como los establecido anteriormente. En algunos casos, podemos enviarle marketing directo sin su consentimiento, en cuyo caso nos apoyamos en nuestros intereses legítimos. Usted tiene un derecho absoluto a rechazar el marketing directo, o la clasificación en perfiles que llevamos a cabo para el marketing directo, en cualquier momento, mediante alguno de estos procedimientos:
+
+ 
+
+    actualizando sus preferencias en su perfil de Adobe ID;
+    actualizando sus preferencias en su sitio web específico o cuentas de aplicaciones;
+    haciendo clic en el vínculo de cancelación de subscripción que viene en la parte inferior de nuestros emails de marketing; o
+    poniéndose en contacto con nosotros, empleando los detalles facilitados al final de esta política de privacidad.
+
+ 
+
+Haga clic aquí para obtener más información sobre sus opciones con respecto a nuestras prácticas de marketing.
+
+ 
+¿Qué información recopilan las compañías empleando las soluciones de Adobe Experience Cloud?
+
+Las soluciones de Adobe Experience Cloud ayudan a nuestros clientes empresariales a personalizar y mejorar el rendimiento de sus sitios web, aplicaciones y mensajes de marketing. Por ejemplo, estos clientes pueden emplear las soluciones de Adobe Experience Cloud para recopilar y analizar información sobre cómo los particulares emplean sus sitios web (más información). La información recopilada se almacena en nuestros servicios en nombre de y para su uso por parte de estos clientes empresariales.
+
+ 
+¿Cuánto tiempo conserva Adobe mi información?
+
+Cuando se registra para obtener una cuenta y crear un Adobe ID, procesamos y conservamos la mayor parte de la información personal de que disponemos sobre usted mientras sea usuario activo de nuestros productos, servicios o aplicaciones. Cuando usted cierra su cuenta, comenzamos a eliminar determinada información personal para la que carecemos de motivos comerciales para conservarla, como su contraseña con hash y los datos de su cuenta de pago en forma de token. Sin embargo, normalmente mantenemos información personal relacionada con nuestro contrato y las transacciones comerciales con usted durante los diez años posteriores a su última interacción con nosotros.
+
+ 
+
+Cuando procesamos información personal para fines comerciales o con su consentimiento, procesamos la información hasta que nos pida que dejemos de hacerlo, pero seguimos haciéndolo por un breve periodo luego de esto (para poder implementar sus solicitudes). También mantenemos un registro permanente del hecho de que nos pidió que no le enviemos marketing directo o que no procesemos su información, para poder respetar su solicitud en el futuro.
+
+ 
+¿Cambiará esta política de privacidad?
+
+Ocasionalmente, podemos actualizar esta política de privacidad (u otros documentos del Centro de privacidad de Adobe) para permitir que Adobe se acomode a nuevas tecnologías, prácticas del sector o normativas regulatorias, o con otras finalidades. Si lo hacemos, cambiaremos la fecha de “última actualización” de la parte superior de esta política, y la política revisada se publicará en esta página para que pueda conocer la información que recopilamos, cómo la usamos y bajo qué circunstancias podríamos divulgarla. Le recomendamos que revise de manera regular el Centro de privacidad de Adobe para obtener la información más reciente acerca de nuestras prácticas de privacidad. Bajo ciertas circunstancias (por ejemplo, con ciertos cambios materiales) le notificaremos sobre estos cambios y, cuando lo exija la ley aplicable, obtendremos su consentimiento. El aviso puede enviársele por email, publicando un aviso de dichos cambios en nuestras aplicaciones y sitios web, o por otros medios conforme a la ley aplicable.
+
+ 
+¿Con quién puedo ponerme en contacto si tengo preguntas o dudas?
+
+Si tiene alguna pregunta, problema o solicitud sobre privacidad, rellene un formulario de consulta de privacidad.
+
+ 
+
+Si se encuentra fuera de Norteamérica, también puede contactar con el responsable de protección de datos de Adobe Ireland en DPO@Adobe.com o por correo postal en 4-6 Riverwalk, Citywest Business Park, Dublín 24, Irlanda.
+
+ 
+
+Respecto a las prácticas que están cubiertas por nuestra Validación del RGPD o Certificación PRP, tenga en cuenta que si tiene algún problema de privacidad o uso de datos no resuelto que no abordamos satisfactoriamente en 30 días, también puede contactar con nuestra resolución de disputas de terceros con sede en EE. UU. (gratuito) en https://feedback-form.truste.com/watchdog/request.

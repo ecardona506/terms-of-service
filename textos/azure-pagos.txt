@@ -1,0 +1,214 @@
+
+Contrato Microsoft Online Subscription
+
+Este Contrato Microsoft Online Subscription se celebra entre la entidad que usted representa o, en caso de que no designe ninguna entidad en relación con una adquisición o renovación de Suscripción, usted individualmente ("usted") y Microsoft Corporation ("Microsoft", "nosotros"). Este contrato está formado por los siguientes términos y condiciones, los Términos de los Servicios Online, los SLA y los Detalles de la Oferta para la Suscripción o renovación (en conjunto, el "contrato"). Entra en vigor en la fecha en que le proporcionemos la confirmación de su Suscripción o en la fecha en que se renueve su Suscripción, según corresponda. Los términos principales se definen en la Cláusula 8.
+1. Uso de los Servicios Online.
+
+a. Derecho de uso. Le concedemos el derecho de acceder y utilizar los Servicios Online y de instalar y utilizar el Software incluido con su Suscripción, según se describe con más detalle en este contrato. Nos reservamos todos los demás derechos.
+
+b. Uso aceptable. Usted podrá utilizar el Producto solo de acuerdo con los términos de este contrato. No podrá utilizar técnicas de ingeniería inversa, descompilar, desensamblar ni eludir las limitaciones técnicas del Producto, excepto en la medida en que la legislación aplicable lo permita a pesar de estas limitaciones. No podrá desactivar, alterar ni, de otro modo, intentar burlar cualquier mecanismo de facturación que mida el uso que haga de los Servicios Online. No podrá alquilar, dar en préstamo, revender, transmitir ni proporcionar servicios de hosting para el Producto, ni ninguna parte de este, a o para terceros, salvo en la medida en que se permita explícitamente en este contrato o en los Términos de los Servicios Online.
+
+c. Usuarios Finales. De acuerdo con este contrato, usted controlará el acceso de los Usuarios Finales y será responsable del uso que hagan del Producto. Por ejemplo, se asegurará de que los Usuarios Finales cumplan con la Directiva de Uso Aceptable.
+
+d. Datos del Cliente. Usted será el único responsable de los contenidos en todos los Datos del Cliente. Protegerá y mantendrá todos los derechos necesarios de los Datos del Cliente necesarios para que le proporcionemos los Servicios Online sin infringir los derechos de terceros ni, de otro modo, establecer una obligación de Microsoft con usted o con cualquier tercero. Microsoft no asume y no asumirá ninguna de las obligaciones con relación a los Datos del Cliente o al uso que usted haga del Producto, salvo lo específicamente establecido en este contrato o según lo exija la legislación aplicable.
+
+e. Responsabilidad de sus cuentas. Usted será responsable de mantener la confidencialidad de cualquier credencial de autenticación no pública relacionada con el uso que hace de los Servicios Online. Deberá notificar inmediatamente a nuestro equipo de servicio de soporte técnico al cliente de posibles usos indebidos de sus cuentas o credenciales de autenticación, así como de cualquier incidente de seguridad relacionado con los Servicios Online.
+
+f. Lanzamientos de Versiones Preliminares. Podemos publicar Versiones Preliminares. Las Versiones Preliminares se proporcionan "tal cual", "con todos sus defectos" y "según disponibilidad" y quedan excluidas de los SLA y todas las garantías limitadas que se proporcionan con este contrato. Las Versiones Preliminares no cuentan con cobertura de soporte técnico al cliente Podemos cambiar o interrumpir las Versiones Preliminares en cualquier momento sin notificación previa. También podemos optar por no lanzar una Versión Preliminar para disponibilidad general.
+
+g. Servicios Administrados para Microsoft Azure. Puede utilizar los Servicios de Microsoft Azure para proporcionar una Solución de Servicio Administrada siempre que (1) tenga la capacidad exclusiva para acceder a los Servicios de Microsoft Azure y configurarlos y administrarlos; (2) tenga acceso administrativo a los OSE virtuales, si los hubiera, en la Solución de Servicio Administrada; y (3) el tercero tenga acceso administrativo únicamente a sus aplicaciones u OSE virtuales. Usted es responsable del uso que haga el tercero de los Servicios de Microsoft Azure, de acuerdo con los términos de este contrato. La prestación de Servicios Administrados queda sujeta a las siguientes limitaciones (y cualquier otra limitación en los Términos de los Servicios Online):
+
+(i) no podrá revender o redistribuir los Servicios de Microsoft Azure.
+
+(ii) no podrá permitir que varios usuarios accedan directa o indirectamente a cualquier característica de los Servicios de Microsoft Azure que esté disponible por usuario.
+
+h. Asunción del control por parte del Administrador. Si utiliza una dirección de correo electrónico que le haya proporcionado una organización con la que está afiliado (p. ej., un empleador o escuela) para solicitar un Servicio Online individualmente, usted manifiesta que tiene la facultad para usar el dominio de la organización para registrarse para una Suscripción en su calidad de miembro de dicha organización. La organización, en calidad de titular del dominio asociado a su dirección de correo electrónico, puede asumir el control y supervisar el uso que usted haga de los Servicios Online. En ese caso, el administrador designado de su organización (su "admin") puede (i) controlar y administrar su cuenta, incluso modificar o poner fin a su acceso; y (ii) acceder y procesar sus datos, incluso el contenido de sus comunicaciones y archivos. Microsoft podrá informarle, aunque no tendrá la obligación de hacerlo, que su organización ha asumido el control de los Servicios Online cubiertos por su Suscripción. Si su organización administra el uso que hace de los Servicios Online o supervisa al usuario relacionado con su Suscripción, dirija las solicitudes del sujeto de datos y las consultas de privacidad a su administrador. Si su organización no administra el uso que hace de los Servicios Online o supervisa a dicho usuario, dirija las solicitudes del sujeto de datos y las consultas de privacidad a Microsoft.
+
+i. Datos del directorio compartido. Cuando al realizar un pedido de un Servicio Online utiliza una dirección de correo electrónico con un dominio que le ha proporcionado una organización con la cual está afiliado (p. ej., un empleador o escuela), el Servicio Online lo agrega al directorio de usuarios que comparten el mismo dominio de correo electrónico. Los datos de su directorio (nombre, fecha de registro y dirección de correo electrónico) pueden estar visibles para los demás usuarios de los Servicios Online incluidos en el dominio del correo electrónico de su organización.
+
+j. Software adicional para uso con los Servicios Online. Para permitir un acceso y uso óptimos de determinados Servicios Online, puede instalar y utilizar determinado Software en relación con su uso del Servicio Online, según se describe en los Términos de los Servicios Online. Le licenciamos el Software, no se lo vendemos. La prueba de su licencia de Software es (1) este contrato, (2) cualquier confirmación de pedido y (3) el justificante de pago. Sus derechos de acceso al Software en cualquier dispositivo no le otorgan ningún derecho a implementar patentes de Microsoft u otra propiedad intelectual e industrial de software o dispositivos que accedan a ese dispositivo.
+2. Adquisición de los servicios.
+
+a. Ofertas de Suscripción disponibles. El Portal ofrece Detalles de la Oferta para las ofertas de Suscripción disponibles, las que generalmente se pueden clasificar como una o una combinación de las siguientes:
+
+(i) Oferta de Compromiso. Se compromete por adelantado a adquirir una cantidad específica de Servicios Online para su uso durante un Período de Vigencia y a pagar por adelantado o periódicamente antes de su uso. Con respecto a los Servicios de Microsoft Azure, los usos adicionales o de otro tipo (por ejemplo, el uso más allá de la cantidad de su compromiso) se pueden tratar como una Oferta de Consumo. Las cantidades comprometidas que no se utilicen durante el Período de Vigencia expirarán al final de este.
+
+(ii) Oferta de Consumo (también conocida como Pago por Consumo). Usted paga según el uso real en el mes anterior sin ningún compromiso por adelantado. El pago adeudado se realiza de forma periódica.
+
+(iii) Oferta Limitada. Recibirá una cantidad limitada de Servicios Online por un período de vigencia limitado sin costo alguno (por ejemplo, una Suscripción de prueba o cuenta gratuita) o como parte de otra oferta de Microsoft (por ejemplo, MSDN). Las disposiciones de este contrato en relación con los precios, los precios por cancelación, el pago y la retención de datos podrían no aplicarse.
+
+b. Pedidos.
+
+(i) Al pedir o renovar una Suscripción, acepta los Detalles de la Oferta para esa Suscripción. A menos que se especifique lo contrario en los Detalles de la Oferta, los Servicios Online se ofrecerán "según disponibilidad". Podrá realizar pedidos para sus Filiales en virtud de este contrato y conceder a sus Filiales derechos administrativos para administrar la Suscripción, pero las Filiales no podrán realizar pedidos en virtud de este contrato. También podrá ceder a un tercero los derechos que se otorgan conforme a la Cláusula 1.a. para que el tercero los utilice en sus negocios internos. Si concede derechos a Filiales o a terceros respecto al Software o la Suscripción, dichas Filiales o terceros estarán obligados por este contrato y usted acepta ser individual y conjuntamente responsable de cualquier acción de dichas Filiales o terceros en relación con su uso de los Productos.
+
+(ii) Puede que algunas ofertas le permitan modificar la cantidad de Servicios Online solicitados durante el Período de Vigencia de una Suscripción. Las cantidades adicionales de Servicios Online agregadas a una Suscripción expirarán al final de la Suscripción. Si reduce la cantidad durante un Período de Vigencia, podemos cobrarle un precio por cancelación por la disminución de cantidad como se describe a continuación en la Cláusula 3.b.
+
+c. Precios y pago. Los pagos vencen y se deben efectuar de acuerdo con los Detalles de la Oferta para su Suscripción.
+
+(i) Para las Ofertas de Compromiso, el nivel de precios se puede basar en la cantidad de Servicios Online que solicitó. Algunas ofertas pueden permitirle modificar la cantidad de Servicios Online pedida durante el Período de Vigencia y su nivel de precios puede ajustarse adecuadamente, pero los cambios en el nivel de precios no serán retroactivos. Durante el Período de Vigencia de la Suscripción, los precios de los Servicios Online no aumentarán, en cuanto a la Suscripción, con relación a los publicados en el Portal en el momento en que la Suscripción entró en vigor o se renovó, salvo si los precios se identificaron como temporales en los Detalles de la Oferta o para Versiones Preliminares de Productos que no son de Microsoft. Todos los precios están sujetos a cambio al principio de la renovación de cualquier Suscripción.
+
+(ii) Para las Ofertas de Consumo, los precios estarán sujetos a cambio en cualquier momento previa notificación.
+
+d. Renovación.
+
+(i) Al renovar la Suscripción, este contrato terminará y la Suscripción se regirá, en lo sucesivo, por los términos y condiciones establecidos en el Portal en la fecha de renovación de la Suscripción (los "Términos de Renovación"). Si no acepta el Período de Renovación, puede desistir de renovar su Suscripción.
+
+(ii) Para las Ofertas de Compromiso, podrá elegir que una Suscripción se renueve automáticamente o termine en el momento de la expiración del Período de Vigencia. La renovación automática está preseleccionada. Podrá cambiar su selección en cualquier momento durante el Período de Vigencia. Si el Período de Vigencia actual es superior a un mes natural, le proporcionaremos una notificación de la renovación automática antes de la expiración del Período de Vigencia.
+
+(iii) Para las Ofertas de Consumo, la Suscripción se renovará automáticamente para períodos de vigencia adicionales de un mes hasta que finalice la Suscripción.
+
+(iv) Para las Ofertas Limitadas, podría no estar permitida la renovación.
+
+e. Elegibilidad para versiones Academic, Government y Nonprofit. Usted acepta que, si adquiere una oferta para el sector académico, gubernamental o sin ánimo de lucro, cumple los requisitos de elegibilidad respectivos que se describen en los sitios siguientes:
+
+(i) En el caso de ofertas para el sector académico, los requisitos para instituciones educativas (entre ellas, oficinas administrativas o consejos de educación, bibliotecas públicas o museos públicos) que se enumeran en https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7;
+
+(ii) En el caso de ofertas para el sector gubernamental, los requisitos que se enumeran en https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=6; y
+
+(iii) En el caso de ofertas para el sector sin fines de lucro, los requisitos que se enumeran en https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=19.
+
+Microsoft se reserva el derecho de verificar la elegibilidad en cualquier momento y suspender el Servicio Online si no se cumplen los requisitos de elegibilidad.
+
+f. Impuestos. Los precios excluyen cualquier impuesto, a menos que en la factura se especifique que el impuesto está incluido. Deberá pagar todos los impuestos sobre valor añadido, bienes y servicios, ventas, ingresos brutos u otros impuestos, tarifas, cargos o suplementos, o cualquier suplemento de costes regulados o importes similares que se deban en virtud de este contrato y que tengamos permiso para cobrarle en virtud de la legislación aplicable. Usted será responsable de cualquier impuesto al timbre aplicable y el resto de impuestos que tiene la obligación legal de pagar, incluidos los impuestos derivados de la distribución o entrega de Productos a sus Filiales. Nos responsabilizaremos de todos los impuestos sobre nuestros ingresos netos, impuestos por ingresos brutos establecidos en lugar de impuestos sobre la renta o los beneficios, o impuestos sobre la titularidad de propiedad.
+
+Si se exige retener cualquier impuesto a los pagos que nos hace, podrá deducir esos impuestos del importe que nos adeude y pagarlos a la autoridad fiscal correspondiente, siempre que obtenga y nos entregue prontamente un recibo oficial de dichas retenciones y otros documentos que solicitemos razonablemente para reclamar un crédito fiscal extranjero o un reembolso. Debe asegurarse de que todos los impuestos retenidos sean los mínimos posibles en virtud de la legislación aplicable.
+3. Período de Vigencia, terminación y suspensión.
+
+a. Período de vigencia y terminación del contrato. Este contrato seguirá en vigor hasta la expiración, terminación o renovación de su Suscripción, lo que ocurra primero.
+
+b. Terminación de la Suscripción. Usted puede terminar una Suscripción en cualquier momento durante su Período de Vigencia. Sin embargo, debe pagar todos los importes debidos y vencidos antes de la entrada en vigor de la terminación.
+
+(i) Suscripción de un mes. Una Suscripción con un Período de Vigencia de un mes se puede terminar en cualquier momento sin precio de cancelación.
+
+(ii) Suscripciones por más de un mes. Si termina una Suscripción a los Servicios de Microsoft Azure dentro de los 30 días siguientes a la fecha en que la Suscripción entró en vigor o se renovó, no se proporcionará ningún reembolso y deberá pagar los 30 días iniciales de la Suscripción, pero no se adeudarán pagos por la parte restante de la Suscripción finalizada. Si termina una Suscripción a los Servicios de Microsoft Azure en cualquier otro momento durante el período de vigencia, deberá pagar el resto de dicho Período y no recibirá ningún reembolso.
+
+(iii) Ofertas Limitadas. Microsoft puede terminar su Suscripción a una Oferta Limitada en cualquier momento durante el Período de Vigencia inmediatamente y sin notificación previa.
+
+(iv) Otras Suscripciones. Para el resto de las Suscripciones, si finaliza una Suscripción antes de que finalice el Período de Vigencia, deberá pagar un precio igual al de una Suscripción de un mes y recibirá un reembolso de cualquier otra parte del precio de Suscripción que haya pagado por el resto del Período de Vigencia. Sin embargo, no recibirá ningún reembolso por los meses que solo haya usado parcialmente.
+
+c. Suspensión. Podemos suspender el uso que usted haga de los Servicios Online si: (1) es razonablemente necesario para impedir el acceso no autorizado a los Datos del Cliente; (2) usted no responde a una reclamación de una supuesta infracción de derechos en virtud de la Cláusula 5 dentro de un plazo razonable; (3) no paga los importes debidos en virtud de este contrato; (4) no se rige por la Directiva de Uso Aceptable o infringe otros términos de este contrato; o (5) en el caso de Ofertas Limitadas, la Suscripción queda inactiva por su falta de acceso de los Servicios Online, tal como se describen en los Detalles de la Oferta. Si se presentan una o más de estas condiciones, entonces:
+
+(i) Para las Ofertas Limitadas, podemos suspender el uso que hace de los Servicios Online, su Suscripción y su cuenta de inmediato, sin notificación previa.
+
+(ii) Para todas las demás Suscripciones, se aplicará una suspensión a la parte necesaria mínima de los Servicios Online y solo estará en vigor mientras exista la condición o la necesidad. Le enviaremos una notificación antes de efectuar la suspensión, excepto en caso de que consideremos que es necesario efectuarla inmediatamente. Le notificaremos treinta (30) días antes de una suspensión por falta de pago. Si no se ocupa completamente de las razones de la suspensión en un plazo 60 días después de la suspensión, podemos terminar su Suscripción y eliminar sus Datos del Cliente sin período de retención. También podemos terminar su Suscripción si el uso que hace de los Servicios Online se suspende más de dos veces en un período de 12 meses.
+4. Garantías.
+
+a. Garantía limitada.
+
+(i) Servicios Online. Garantizamos que los Servicios Online cumplirán los términos del SLA durante el Período de Vigencia. Los únicos recursos de los que dispone por incumplimiento de esta garantía son los incluidos en el SLA.
+
+(ii) Software. Otorgamos una garantía durante un año a partir de la fecha en que use por primera vez el Software de que funcionará sustancialmente conforme a lo descrito en la correspondiente documentación de usuario. Si el Software no cumple esta garantía, a nuestra discreción y como su único recurso, (1) devolveremos el precio pagado por el Software o (2) repararemos o reemplazaremos el Software.
+
+b. Exclusiones a la garantía limitada. Esta garantía limitada está sujeta a las siguientes limitaciones:
+
+(i) cualquier garantía o condición implícita que no pueda ser excluida como cuestión de derecho tendrá una duración de un (1) año a contar desde el inicio de la garantía limitada;
+
+(ii) esta garantía limitada no cubre problemas ocasionados por accidente, abuso o uso de los Productos de una manera contraria al presente contrato o a nuestra documentación o guía publicadas, o derivados de eventos más allá de nuestro control razonable;
+
+(iii) esta garantía limitada no se aplica a problemas ocasionados por un incumplimiento de los requisitos mínimos del sistema; y
+
+(iv) esta garantía limitada no se aplica a Versiones Preliminares ni a Ofertas Limitadas.
+
+c. EXCLUSIÓN DE RESPONSABILIDAD. A excepción de la presente garantía, no proporcionamos ninguna garantía expresa, implícita, establecida por ley o de otro tipo, incluidas garantías de comerciabilidad o idoneidad para un propósito específico. Estas exclusiones de responsabilidad se aplicarán hasta donde lo permita la legislación aplicable.
+5. Defensa frente a reclamaciones.
+
+a. Defensa.
+
+(i) Lo defenderemos frente a cualquier reclamación presentada por un tercero que no es Filial en que se alegue que un Producto infringe los derechos de patente, propiedad intelectual o marca del tercero o que hace un uso ilícito de su secreto empresarial.
+
+(ii) Usted nos defenderá frente a cualquier reclamación que presente un tercero que no es filial en que se afirme que (1) los Datos del Cliente, la Solución del Cliente o los Productos que no son de Microsoft o servicios que proporcione, directa o indirectamente, al utilizar un Producto, infringen los derechos de patente, de propiedad intelectual o de marca del tercero o hacen uso ilícito de su secreto empresarial; o (2) que se derive de la infracción de la Directiva de Uso Aceptable.
+
+b. Limitaciones. Nuestras obligaciones en la Cláusula 5.a. no se aplicarán a una reclamación o el laudo que se base en: (i) cualquier Solución de Cliente, Datos del Cliente, Productos que no son de Microsoft, modificaciones que haga al Producto o servicios o materiales que ponga a disposición como parte de uso del Producto; (ii) su combinación del Producto con, o los daños basados en el valor de, los Datos del Cliente o un proceso de negocio, datos o Producto que no sean de Microsoft; (iii) el uso que haga de cualquier marca de Microsoft sin nuestro expreso consentimiento por escrito o el uso que haga del Producto después de que le notifiquemos que debe interrumpir su uso debido a una reclamación de un tercero; (iv) la redistribución del Producto a terceros que no son Filiales, o su uso en beneficio de estos; o (v) los Productos proporcionados de forma gratuita.
+
+c. Recursos. Si creemos razonablemente que una reclamación conforme a la Cláusula 5.a.(i) puede impedir su uso del Producto, intentaremos: (i) obtener el derecho para que usted continúe utilizándolo; o (ii) modificarlo o sustituirlo por una funcionalidad equivalente y le notificaremos que interrumpa el uso de la versión anterior del Producto. Si estas opciones no son comercialmente razonables, podemos terminar sus derechos a utilizar el Producto y reembolsaremos todos los pagos por anticipado de los derechos de Suscripción sin utilizar.
+
+d. Obligaciones. Cada una de las partes debe notificar a la otra inmediatamente sobre una reclamación conforme a esta Cláusula. La parte que busque protección debe (i) entregar a la otra parte el control exclusivo de la defensa y el acuerdo transaccional de la reclamación; y (ii) ofrecer ayuda razonable en la defensa frente a la reclamación. La parte que proporcione la protección (1) reembolsará a la otra los gastos razonables en que incurra al ofrecer dicha ayuda y (2) pagará el importe que establezca la sentencia adversa que se dicte con carácter firme y definitivo o el acuerdo transaccional. Los derechos respectivos de las partes a defenderse y pagar las sentencias (o los acuerdos transaccionales que consienta el otro) en virtud de la Cláusula 5 sustituirán cualquier derecho común, derecho de indemnización previsto por la ley o derecho análogo, y cada parte renunciará a esos derechos de derecho común o previstos por la ley.
+6. Limitación de la responsabilidad.
+
+a. Limitación. La responsabilidad agregada de cada parte por todas las reclamaciones en virtud de este contrato se limita a los daños directos hasta el importe pagado en virtud de este contrato por el Servicio Online durante los 12 meses anteriores a la fecha en que se produjo la causa de la acción legal, y en ningún caso la responsabilidad agregada de una parte por cualquier Servicio Online exceda el importe pagado por el Servicio Online durante la Suscripción. Para los Productos que se proporcionan de forma gratuita, la responsabilidad de Microsoft se limita a los daños directos hasta 5.000,00 USD.
+
+b. EXCLUSIÓN. Ninguna de las partes será responsable de la pérdida de ingresos ni de daños indirectos, especiales, incidentales, consecuenciales, punitivos o ejemplares, así como tampoco de daños por lucro cesante, pérdida de ingresos, suspensión de negocios o pérdida de información empresarial, incluso si la parte sabía que esos daños eran posibles o si dicha posibilidad era razonablemente previsible.
+
+c. Excepciones a las limitaciones. Los límites de responsabilidad en esta Cláusula se aplican hasta donde lo permita la legislación aplicable, pero no se aplican a: (1) las obligaciones de las partes conforme a la Cláusula 5; o (2) a la infracción, por cualquiera de las partes, de los derechos de propiedad intelectual e industrial de la otra parte.
+7. Otras Cláusulas Contractuales.
+
+a. Notificaciones. Las notificaciones deberán ser por escrito y se considerarán entregadas en la fecha de recepción en la dirección, la fecha que aparezca en el acuse de recibo, la fecha del envío del correo electrónico o la fecha que figure en la confirmación de entrega del fax o servicio de mensajería. Las notificaciones a Microsoft se deben enviar a la siguiente dirección:
+
+Microsoft Corporation
+
+Dept. 551, Volume Licensing
+
+6880 Sierra Center Parkway
+
+Reno, Nevada 89511
+
+Estados Unidos
+
+Las notificaciones dirigidas a usted se enviarán a la dirección que indique en su cuenta como contacto para notificaciones. Microsoft puede enviarle notificaciones y otra información mediante correo electrónico u otra forma electrónica.
+
+b. Transmisión y cesión de licencias. No puede ceder este contrato, ni total ni parcialmente, así como tampoco puede transmitir licencias sin el consentimiento de Microsoft.
+
+c. Consentimiento a los honorarios del socio. Cuando realice un pedido, tendrá la oportunidad de identificar a un "Socio de Registro" asociado a sus Suscripciones. Al identificar a un Socio de Registro, directamente o mediante autorización a un tercero para que los haga, usted acepta que paguemos honorarios al Socio de Registro. Los honorarios son por concepto de soporte previo a la venta y también pueden incluir soporte técnico posterior a la venta. Los honorarios se basan en, y aumentan con, el tamaño de su pedido. Nuestros precios para Servicios Online son los mismos tanto si identifica a un Socio de Registro como si no lo hace.
+
+d. Divisibilidad. Si cualquier parte de este contrato se considera inexigible, el resto se mantendrá en vigor.
+
+e. Renuncia. El hecho de que una parte no exija el cumplimiento de una cláusula de este contrato no constituirá una renuncia de derechos.
+
+f. Agencia. Este Contrato no constituye una agencia, asociación o colaboración empresarial.
+
+g. Sin terceros beneficiarios. No hay terceros beneficiarios de este contrato.
+
+h. Ley y jurisdicción aplicables. Este contrato se regirá de acuerdo con las leyes de Washington, independientemente del conflicto de las disposiciones legales del mismo. Si entablamos cualquier acción para exigir el cumplimiento de este contrato, lo haremos en la jurisdicción en que usted tenga sus oficinas principales. Si usted entabla una acción para exigir el cumplimiento de este contrato, la llevará a cabo en el estado de Washington, Estados Unidos. Esta elección de jurisdicción no impide que cualquiera de las partes solicite, en cualquier jurisdicción que corresponda, la adopción de medidas cautelares en relación con una infracción de sus derechos de propiedad intelectual e industrial.
+
+i. Contrato completo. El presente contrato es el contrato completo con respecto a su objeto y sustituye cualquier comunicación anterior o simultánea. En caso de conflicto entre cualquiera de los documentos en el presente acuerdo que no se resuelva expresamente en los documentos, sus términos regirán en el siguiente orden de prioridad descendiente: (1) este contrato Microsoft Online Subscription, (2) los Términos de los Servicios Online, (3) los Detalles de Oferta correspondientes y (4) cualquier otro documento de este contrato.
+
+j. Subsistencia. Los términos de las Cláusulas 1, 2.c, 2.e., 4, 5, 6, 7 y 8 se mantendrán vigentes después de la terminación o la expiración de este contrato.
+
+k. Jurisdicción en materia de exportaciones de Estados Unidos. Los Productos están sujetos a la jurisdicción en materia de exportaciones de Estados Unidos. Usted debe cumplir con la legislación aplicable que incluye los Reglamentos de la Administración de Exportaciones de Estados Unidos, los Reglamentos sobre Tráfico Internacional de Armas y las restricciones en materia de usuario final, uso final y destino emitidas por Estados Unidos y otros gobiernos.
+
+l. Fuerza mayor. Ninguna de las partes será responsable de errores de rendimiento por causas que van más allá del control razonable dicha parte (como incendios, explosiones, apagones eléctricos, terremotos, inundaciones, tormentas, huelgas, embargos, conflictos laborales, actos de autoridad civil o militar, guerras, terrorismo (incluyendo el terrorismo informático), fenómenos naturales, actos u omisiones de operadores de tráfico de Internet, acciones u omisiones de organismos gubernamentales o normativos (incluyendo la aprobación de leyes, reglamentos u otras medidas del gobierno que afecten la prestación de los Servicios Online). No obstante, esta Cláusula no se aplicará a sus obligaciones de pago en virtud de este contrato.
+
+m. Autoridad contractual. Si usted es una persona que acepta estos términos en representación de una entidad legal, usted manifiesta que tiene la autoridad legal para celebrar este contrato en representación de esa entidad. Si especifica una entidad o utiliza una dirección de correo electrónico proporcionada por una entidad con la que está afiliada (como un empleador) en relación con una adquisición o renovación de Suscripción, dicha entidad se tratará como propietaria de la Suscripción para fines de este contrato.
+
+n. Clientes del sector gubernamental. Los clientes del sector gubernamental deben ponerse en contacto con Microsoft antes de la aceptación. Al aceptar este contrato, usted declara que ha cumplido y seguirá cumpliendo todas las leyes locales y los requisitos de adquisición gubernamentales.
+8. Definiciones.
+
+Cualquier referencia a "día" en este contrato será un día natural.
+
+La "Directiva de Uso Aceptable" se define en los Términos de los Servicios Online.
+
+"Filial" es cualquier persona jurídica que sea de propiedad de una de las partes, sea propietaria de una de las partes o que se encuentre bajo propiedad común con una de las partes. "Titularidad" se refiere, para fines de esta definición, al control de más de un 50 % del capital social de una entidad.
+
+"Oferta de Consumo", "Oferta Comprometida" u "Oferta Limitada" describen las categorías de ofertas de Suscripción y se definen en la Cláusula 2.
+
+"Datos del Cliente" se define en los Términos de los Servicios Online.
+
+La "Solución de Cliente" se define en los Términos de los Servicios Online.
+
+"Usuario Final" es cualquier persona a la que permita acceder a los Datos del Cliente hospedados en los Servicios Online, que utilice los Servicios Online de otro modo, o cualquier usuario de una Solución de Cliente.
+
+"Solución de Servicio Administrada" es un servicio de TI administrado que presta a un tercero y que consta de la administración de y el soporte para los Servicios de Microsoft Azure.
+
+"Servicios de Microsoft Azure" se definen en los Términos de los Servicios Online.
+
+Los "Productos que no son de Microsoft" se definen en los Términos de los Servicios Online.
+
+"Detalles de la Oferta" se refiere al precio y los términos relacionados aplicables a una oferta de Suscripción, según se publican en el Portal.
+
+"Servicios Online" significa cualquiera de los servicios hospedados por Microsoft a los que usted se suscribe en virtud de este contrato.
+
+"Términos de los Servicios Online" hace referencia a los términos que se aplican al uso que hace de los Productos disponibles en https://www.microsoft.com/en-us/Licensing/product-licensing/products.aspx. Los Términos de los Servicios Online incluyen los términos que rigen el uso que hace de los Productos, además de los términos de este contrato.
+
+"Versiones Preliminares" son las versiones preliminares, versiones beta u otras versiones o características previas al lanzamiento de los Servicios Online o el Software que ofrece Microsoft para recibir comentarios de los clientes.
+
+"Portal" son los sitios web respectivos de los Servicios Online disponibles en https://products.office.com/en-us/home, https://azure.microsoft.com/en-us/pricing/, o en un sitio web alternativo que identifiquemos.
+
+"Producto" se refiere a cualquier Servicio Online (incluido cualquier Software).
+
+"SLA" son los compromisos que adoptamos con respecto a la entrega y/o el rendimiento de un Servicio Online, tal como están publicados en https://aka.ms/csla, https://azure.microsoft.com/en-us/support/legal/sla/, o en un sitio alternativo que identifiquemos.
+
+"Software" se refiere al software de Microsoft que proporcionamos para que lo instale en su dispositivo como parte de su Suscripción o para que lo utilice con el Servicio Online para habilitar una determinada funcionalidad.
+
+"Suscripción" se refiere a una inscripción para obtener Servicios Online por un Período de Vigencia definido, según se especifique en el Portal. Usted puede adquirir varias Suscripciones, que se pueden administrar por separado y que se regirán por los términos de un Contrato Microsoft Online Subscription independiente.
+
+"Período de Vigencia" es la duración de una Suscripción (por ejemplo, 30 días o 12 meses).

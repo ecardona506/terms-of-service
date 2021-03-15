@@ -1,0 +1,309 @@
+Para Autores
+
+Términos y Condiciones Generales de Contratación y de Uso de Sario Marketing GmbH
+
+Representada por sus administradores,
+El-Hadi Zahri, Phillip Thune
+
+An den Grachten 29
+55120 Mainz
+Alemania
+para los autores del servicio de Internet de Textbroker
+
+ 
+
+Contenido
+
+    Generalidades
+    Registro
+    Encargo OpenOrder / DirectOrder / TeamOrder
+    Elaboración de los encargos
+    Presentación de los textos, entrega dentro de plazo
+    Reglas básicas
+    Cesión de todos los derechos de uso y explotación
+    Capacidad para ceder los derechos; infracciones; exención
+    Aceptación, solicitud de corrección y rechazo de trabajos por parte del Cliente
+    Remuneración
+    Vencimiento de la remuneración, pago
+    Resolución; consecuencias de la resolución
+    Compensación, retención
+    Confidencialidad
+    Captación de Clientes
+    Comunicación por el sistema de mensajería de Textbroker
+    Responsabilidad
+    Copias de seguridad
+    Protección de datos
+    Resolución de disputas online
+    Modificaciones de las presentes Condiciones Generales de Contratación
+    Disposiciones finales
+
+ 
+1. Generalidades
+
+1.1 Sario Marketing GmbH (denominada en lo sucesivo «Textbroker») ofrece a autores y correctores (en lo sucesivo «Autores»)la posibilidad de redactar contenidos a través de la plataforma textbroker.es sobre temas que han estipulado previamente los clientes de Textbroker (en lo sucesivo «Clientes») a cambio de una remuneración. A continuación, Textbroker pone dichos textos a disposición de sus clientes.
+
+1.2 Para la relación que se entable entre Textbroker y el Autor —incluyendo la redacción de los textos y la concesión de licencias sobre los mismos— serán de aplicación exclusivamente las Condiciones Generales de Contratación (en lo sucesivo CGC) publicadas a continuación, así como los documentos a los que se hace referencia en ellas.
+
+1.3 Textbroker no garantiza que el Autor recibirá encargos correspondientes a través de Textbroker. Textbroker tampoco está obligada a proporcionar encargos al Autor. En concreto, un Cliente encomienda a Textbroker el encargo de redactar un texto determinado conforme a los títulos, palabras clave y áreas temáticas determinadas por el Cliente o el cliente lleva a cabo un encargo de corrección. A continuación, un Autor registrado en Textbroker y con la calificación adecuada asume el encargo de redactar el texto correspondiente.
+
+1.4 El Autor no tiene derecho alguno sobre la publicación de los textos. Textbroker, el Cliente o sus destinatarios podrán decidir libremente no publicar textos sin necesidad de indicar las razones para tal decisión.
+
+1.5 Los Autores son personas físicas y no intervienen en calidad de usuarios.
+
+1.6 Cualquier modificación o condición del autor que difiera de las presentes CGC solo será vinculante si ha sido confirmada por escrito por parte de Textbroker. Las Condiciones Generales de Contratación del Autor que entren en contradicción con las presentes únicamente serán de aplicación si Textbroker las ha aprobado expresamente con anterioridad. La aceptación de textos sin oposición expresa no se considerará allanamiento a las condiciones de contratación del Autor ni aprobación de las mismas.
+
+ 
+2. Registro
+
+2.1 Los Autores deberán registrarse en Textbroker. Para efectuar el registro deberá cumplimentarse el formulario previsto para tal fin en textbroker.es. Al registrarse, el Autor acepta las CGC de Textbroker vigentes en el momento del registro. El Autor garantiza que todos los datos que ha proporcionado son correctos, completos y conformes con la verdad. El Autor se compromete a mantener sus datos actualizados. Con este fin recibirá un ID personal de Autor.
+
+2.2 Una vez efectuado el registro, el Autor deberá verificar la dirección de correo electrónico facilitada y someterse a una prueba de redacción en forma de un texto relacionado con un tema elegido por él mismo. Textbroker informará al Autor sobre las formalidades relativas a la prueba de redacción una vez efectuado el registro. Tras la verificación y aceptación por parte de Textbroker, el Autor podrá acceder como Autor registrado en Textbroker para un nivel de calidad determinado. No existe derecho alguno de acceso a los servicios de Textbroker.
+
+2.3 Por el presente documento y ya desde el momento de efectuar la prueba de redacción, el Autor otorga a Textbroker el derecho a utilizar dicha prueba sin cargo en el marco del procedimiento de registro. Por el presente documento, Textbroker acepta esta cesión de derechos. Si no se establece alguna otra cosa en un caso particular, Textbroker utilizará esta prueba de redacción exclusivamente en el marco del procedimiento de registro y no para su publicación o venta a clientes.
+
+2.4 Textbroker tiene derecho a comprobar y modificar el nivel de calidad del Autor. Queda a juicio de Textbroker si efectúa alguna modificación sobre el nivel de calidad. Para hacerlo, Textbroker tendrá en cuenta, entre otras cosas, la calidad de los textos del Autor desde la última comprobación efectuada sobre el nivel de calidad y el comportamiento del Autor en cuanto a su elaboración (por ejemplo, observancia de los plazos de elaboración, cantidad de correcciones necesarias, o cancelaciones de encargos).
+
+2.5 El Autor puede examinar y modificar en cualquier momento los datos de acceso y el resto de las informaciones de usuario que el Autor ha introducido durante el registro en su cuenta de usuario (dirección, informaciones de contacto, etc.).
+
+2.6 El registro tendrá una duración indeterminada y tanto el Autor como Textbroker podrán resolverlo bajo las condiciones establecidas en el punto 12. Durante el tiempo que el Autor esté registrado, Textbroker le creará una cuenta de usuario en la plataforma textbroker.es, a la que el Autor podrá acceder con sus datos de acceso.
+
+2.7 El registro y la cuenta no serán transferibles. Cada Autor podrá abrir únicamente una cuenta. Cada cuenta solo podrá ser utilizada por un Autor.
+
+2.8 El Autor será responsable de mantener en secreto sus datos de Autor (acceso, clave, ID de autor). Si los datos de autor llegan a manos de terceros no autorizados, Textbroker deberá ser informado de inmediato.
+
+2.9 Textbroker se reserva el derecho a suspender el funcionamiento de su servicio en cualquier momento.
+
+ 
+3. Encargo OpenOrder / DirectOrder / TeamOrder
+
+3.1 Con Textbroker, los Clientes tienen la posibilidad de solicitar la elaboración de sus textos a determinados Autores («DirectOrder/TeamOrder») o encomendar a Textbroker la determinación del Autor («OpenOrder»). El pedido del Cliente («Encargo») está compuesto por la descripción del texto concreto deseado y por determinadas especificaciones sobre el título del texto, sobre áreas temáticas, sobre el número de palabras (cantidad máxima y mínima), sobre la fecha de entrega y sobre el nivel de calidad deseado según el sistema de estrellas de Textbroker; adicionalmente, podrá contener otras especificaciones sobre palabras clave y sobre la frecuencia de aparición de dichas palabras clave (denominadas, en su conjunto, «Descripción de encargos»).
+
+3.2 En caso de optar por una DirectOrder, Textbroker ofrecerá al Autor la ejecución del encargo a través de la plataforma textbroker.es. Hasta la aceptación por parte del Autor, Textbroker podrá retirar el encargo en cualquier momento. Para mayor claridad se hace constar que, en los casos de DirectOrder, no se formaliza ningún contrato directo entre el Cliente y el Autor.
+
+3.3 En caso de optar por OpenOrder, Textbroker ofrecerá en su plataforma la aceptación del encargo a todos los Autores habilitados para el nivel de calidad indicado en las especificaciones y que no hayan sido descartados por el Cliente para ejecutar el encargo (por ejemplo, a través de la lista negra del Cliente). Hasta la aceptación por parte de un Autor, Textbroker podrá retirar el encargo en cualquier momento. El encargo se adjudicará al Autor habilitado para el nivel de calidad correspondiente y no descartado por el Cliente que antes acepte la oferta.
+
+3.4 En el caso de una TeamOrder, Textbroker garantiza que el encargo será llevado a cabo por los autores que el cliente ha invitado a un equipo y que hayan aceptado la invitación. Los equipos solo pueden ser organizados por los clientes. Los autores no están capacitados para formar grupos por sí mismos. hay dos tipos de equipos: los equipos públicos y los privados. Para los equipos públicos, cualquier autor registrado en Textbroker puede formar parte de ellos, siempre y cuando no hayan sido bloqueados o añadidos a la lista negra por el cliente en cuestión. Respecto a los equipos privados, los autores deben ser invitadospor los clientes a través de la plataforma de Textbroker.
+
+3.5 Textbroker tiene el derecho de requerir una prueba gratuïta de los autores que hayan sido invitados a un equipo por los clientes o que han solicitado el ingres a un equipo público, con la finalidad de vislumbrar la idoneidad del autor para dicho equipo. El texto no puede ser utulizado por el cliente sin el permiso expreso del autor. El texto permanece propiedad del autor.
+
+3.6 La distribución de encargos dentro de los equipos funciona del mismo modo que en las OpenOrders como se resume en la cláusula 3.3. El autor que haya sido aceptado por el cliente y que sea el primero en aceptar el encargo, ostentará el derecho de escribir dicha TeamOrder.
+
+ 
+4. Elaboración de los encargos
+
+4.1 Los clientes tienen la posibilidad de corregir sus textos, que hayan sido generados a través de textbroker, por autores que se haya cualificado como correctores de Textbroker. Los autores que haya alcanzado cierto nivel de estrellas y que hayan superado las pruebas de cualificación especificadas por Textbroker pueden acceder a este tipo de encargos de corrección. Los autores no tienen garantizado el acceso inmediato a estos encargos, sino que su distribución recaeo responsabilidad de Textbroker.
+
+4.2 La asignación de un encargo de corrección se concederá al autor que esté calificado como corrector y que sea el primero en aceptar el encargo (ver OpenOrder/TeamOrder)
+
+4.3 El servicio de corrección conlleva una comprobación de la ortografía, la gramática y la puntaución. Mejoras estilísticas no están incluidas en este servicio.
+
+ 
+5. Presentación de los textos, entrega dentro de plazo
+
+5.1 Una vez aceptado el encargo, el Autor elaborará el texto conforme a las especificaciones del Cliente. El Autor tiene la posibilidad de introducir los textos en una caja de texto (‘Editor’)  dentro del menú de usuario de su cuenta de usuario. La transmisión de los textos a Textbroker se realizará siempre a través de la cuenta de usuario.
+
+5.2 El Autor transmitirá el texto correspondiente, a más tardar, en la fecha señalada en el encargo.
+
+5.3 Los textos deberán transmitirse completos.
+
+5.4 Si no se observan los plazos de forma culposa, el Autor se encontrará en situación de demora. Si no se establece otra cosa a continuación, será de aplicación la normativa legal correspondiente. La aceptación sin reservas de un texto entregado con retraso no constituye renuncia alguna a las pretensiones que puedan corresponder a Textbroker por una entrega fuera de plazo.
+
+5.5 Si el Autor detectara dificultades que pudieran impedirle la entrega dentro del plazo fijado o con el nivel de calidad acordado, tendrá la posibilidad de ponerse en contacto directamente con el Cliente de Textbroker que corresponda a través de la plataforma textbroker.es (cfr. punto n.º 16), para acordar el futuro desarrollo del encargo (por ejemplo, una ampliación del plazo de elaboración). El Cliente notificará a Textbroker cualquier modificación de las especificaciones a través de su menú de Cliente. Si no se llega a un acuerdo, el Autor podrá poner fin a la elaboración del encargo a través del botón «Cancelar» del menú de usuario de su cuenta de usuario. En tal caso, el Autor no tendrá derecho a remuneración alguna. Por lo demás, en caso de cancelación, Textbroker se reserva todos los derechos, en particular el derecho a situar al Autor en un nivel de calidad inferior o, en caso de cancelaciones reiteradas de encargos, el derecho a excluir al Autor de Textbroker.
+
+ 
+6. Reglas básicas
+
+6.1 El Autor no podrá presentar textos que vulneren o menoscaben derechos de terceros (como, por ejemplo, derechos de marca, de nombre, de autor o relativos a la protección de datos), que sean calumniosos, lesivos contra la personalidad, que sean o puedan ser considerados ilegales, sexuales, eróticos, pornográficos, enaltecedores de la violencia u ofensivos, ni podrán tener ningún otro contenido contrario a derecho. Además, no está permitido para los autores que realicen trabajos académicos o de ser susceptibles de evaluación formal tales como seminarios o ensayos para terceras partes.
+
+6.2 El Autor se compromete a presentar únicamente textos cuidadosamente redactados por él, sobre los que él tenga todos los derechos de uso y explotación. No está permitida la elaboración de textos mediante generadores de texto o herramientas de traducción automáticas.
+
+6.3 En caso de incumplimiento de las obligaciones establecidas en este punto 6, será de aplicación lo expuesto en el punto 8.2.
+
+ 
+7. Cesión de todos los derechos de uso y explotación
+
+7.1 Ya por el presente documento, el Autor cede a Textbroker un derecho ilimitado —en cuanto al tiempo, al espacio y al contenido—, integral, irrefutable, exclusivo, transferible y sublicenciable sobre cada uno de los textos transmitidos para usar, procesar y usar en su forma procesada el texto correspondiente en todas las formas de uso conocidas y desconocidas.
+
+7.2 Textbroker obtendrá, en particular, el derecho a almacenar el texto correspondiente, a modificar su redacción, a reproducirlo, a distribuirlo, a hacerlo público y a presentarlo, exhibirlo y comunicarlo públicamente o a explotarlo de cualquier otra manera.
+
+7.3 La cesión total de derechos del Autor a Textbroker conforme al punto 6.1 se extiende, en particular, pero de forma no excluyente, a los siguientes derechos de uso y explotación:
+
+el derecho a la reproducción de los textos en cuestión de cualquier forma y manera, en particular también en cualesquiera soportes de imagen y sonido analógicos o digitales (por ejemplo, CD, CD-ROM, DVD, tarjetas de memoria, «Sticks» USB discos duros, cintas de vídeo, etc.) y en cualesquiera medios impresos (por ejemplo, revistas, periódicos, prensa especializada, pósteres, panfletos, folletos o boletines);
+el derecho a la distribución y alquiler de las copias elaboradas a través de todos los canales de distribución (en particular, comercio al por mayor y al por menor, tiendas en línea, plataformas de comercio electrónico, eventos de ventas, ferias y canales de marketing directo, como por ejemplo canales de teletienda o venta por correo);
+el derecho a la exhibición y representación de los textos, en particular en el marco de eventos de ventas y marketing de todo tipo (por ejemplo, ferias o presentaciones a clientes), en la vía pública, en edificios públicos, etc.;
+el derecho a introducir los textos en cualesquiera redes de comunicación por vía electrónica (por ejemplo Internet, World Wide Web, servicios en línea, servicios de correo electrónico, redes de telefonía móvil) y en bases de datos electrónicas, a almacenarlos allí de forma transitoria o permanente y a conservarlos para ser utilizados por el público en general y por miembros de grupos cerrados de usuarios;
+el derecho a permitir el acceso a los textos, a enviarlos y transmitirlos a cualesquiera dispositivos finales fijos o móviles (por ejemplo, ordenadores, notebooks, PDA, teléfonos móviles, aparatos de televisión) del público en general y de grupos cerrados de usuarios —también bajo petición de lugares y en el momento de su elección— de forma simultánea o sucesiva a través de todas las vías de transmisión y de petición digitales y analógicas, con cable o inalámbricas, y en particular a través de cable, radio, redes de difusión por satélite fijas y móviles y ondas electromagnéticas de todos los sistemas posibles (como, en particular, GSM, GPRS, UMIS, WAN, LAN, WLAN, banda ancha, etc.) y utilizando todos los protocolos y lenguajes (en particular, TCP-IP, IP, HTTP, WAP, HTML, I-HTML, XML etc.), con el objetivo de usarlos y también para almacenarlos y usarlos de forma interactiva;
+el derecho a procesar o encargar el procesamiento de los textos sin obtener previamente el consentimiento del Autor siguiendo el criterio propio, a modificarlos, a vincularlos con otros servicios y trabajos de Textbroker y de terceros o a conformarlos de cualquier otra forma y a explotar las obras/prestaciones generadas de esta manera de la misma forma que las versiones originales de los resultados de su trabajo.
+
+7.4 La cesión de derechos se llevará a cabo en cada caso con independencia de si a los terceros —en particular a los clientes de Textbroker— se les permite el uso de los textos a cambio de una compensación económica o de forma gratuita.
+
+7.5 La precedente cesión de derechos será de aplicación correspondientemente si los textos o partes de los mismos están protegidos por derechos protegidos relacionados, derechos de nombre, de título, de marca, derechos referentes a signos distintivos o de cualquier otra índole.
+
+7.6 El Autor permite a Textbroker y al Cliente publicar el texto en primer lugar.
+
+7.7 Al aceptar un pedido, el autor debe decidir en cada caso individual si renuncia a su derecho a ser nombrado como autor de un texto para este pedido. Si el cliente desea nombrar un autor a pesar de dicha renuncia, deberá acordarlo con el autor a través del sistema de mensajería de Textbroker.
+
+7.8 Si, en virtud del art. 41 de la Ley alemana sobre los derechos de autor (UrhG, según sus siglas en alemán), al Autor le ampara un derecho a revocación con respecto a los derechos cedidos en el punto 7, el Autor renunciará al ejercicio de este derecho durante un periodo de cinco años a contar a partir de la generación del derecho a revocación. En todos los casos, incluso en caso de revocación, Textbroker conservará un derecho de uso simple sobre el texto en cuestión respecto a este punto 7. Ello no afectará a una posible exclusión del derecho a revocación por otras causas.
+
+7.9 Por el presente documento, Textbroker acepta ya la cesión de los derechos de uso en el marco del presente punto 7. La cesión de los derechos de uso quedará saldada con la remuneración acordada.
+
+ 
+8. Capacidad para ceder los derechos; infracciones; exención
+
+8.1 El Autor garantiza que tiene capacidad para ceder a Textbroker todos los derechos conforme al punto 7, así como que el Autor es el único que tiene todos los derechos de autor sobre el texto en cuestión, además de todos los derechos de uso y explotación del mismo. Adicionalmente, el Autor garantiza que los textos están libres de derechos protegidos de terceros o que el Autor ha obtenido a su debido tiempo todos los derechos de terceros sobre los textos o sobre sus contenidos que son necesarios para el uso o explotación acordados.
+
+8.2 Si el Autor incumple una o varias de las disposiciones estipuladas en el punto 6 o en el punto 8.1, Textbroker podrá hacer valer los derechos establecidos en el punto 9 y reclamar, en particular, una corrección. Adicionalmente, Textbroker se reserva el derecho, especialmente contra la cláusula 8.1, a no aceptar los textos del Autor sin posibilidad de mejora o, en el futuro, a bloquear el acceso del Autor al servicio de Textbroker, así como a hacer valer todos los derechos y pretensiones que le correspondan frente al Autor en virtud de la legislación y en virtud de las presentes CGC. Además, el Autor exime por completo a Textbroker de todo tipo de pretensiones y gastos (incluyendo los gastos de procedimiento y de defensa jurídica razonables) que puedan reclamarse ante Textbroker en virtud de una infracción cometida por el Autor contra una o varias de las disposiciones estipuladas en el punto 6 o en el punto 8.1.
+
+ 
+9. Aceptación, solicitud de corrección y rechazo de trabajos por parte del Cliente
+
+9.1 La aceptación de los textos transmitidos por Textbroker tendrá lugar con la aceptación de los textos por el Cliente con respecto a Textbroker. Si el texto no se corresponde con las especificaciones, incumple lo establecido en los puntos 6 o 8.1, o presenta deficiencias o errores, Textbroker puede reclamar la entrega de un texto sin defectos, apto para su aceptación, dentro del plazo que Textbroker fije a tal efecto.
+
+Si el texto que se entrega tampoco fuera apto para su aceptación o si el Autor no hiciera entrega de un texto nuevo / reelaborado dentro del plazo establecido, Textbroker tendrá derecho a reclamar de nuevo un texto apto para su aceptación, a dejar sin efecto el encargo concreto del Autor o a disminuir la remuneración. Si Textbroker reclama de nuevo la entrega de un texto apto para su aceptación, será de aplicación el presente subapartado correspondientemente.
+
+9.2 Tras la aceptación, Textbroker podrá reclamar que se efectúen correcciones en los textos, o que se entreguen textos nuevos si estos no cumplen las especificaciones, si infringen lo establecido en el punto 6 o en el punto 8.1 o si son defectuosos o erróneos de alguna otra manera. Encargos que vayan en contra de los Términos y Condiciones de Uso pueden ser directamente rechazados por textbroker y la cuenta del autor eliminada del sistema de Textbroker. Dicho encargo no será retribuido.
+
+El Autor estará obligado a efectuar las correcciones —dado el caso, conforme a las especificaciones de Textbroker o del Cliente— dentro de un plazo establecido por Textbroker a tal efecto. Quedan excluidos fines de semana (sábado y domingo) para llevar a cabo las correcciones de un encargo. Si un autor recibiera durante estos días una petición de corrección, el plazo de corrección se extendería hacia un día laborable.
+
+Si no lo hiciera, si el texto continuara sin cumplir las especificaciones o si fuera defectuoso o erróneo de alguna otra manera, Textbroker tendrá derecho a reclamar de nuevo una corrección o un texto apto para su aceptación, a dejar sin efecto el encargo concreto del Autor, a disminuir la remuneración o a llevar a cabo la corrección por su cuenta a expensas del Autor. El reintegro de los gastos en caso de corrección se limitará a la remuneración máxima que percibirá el Autor por el encargo. Si Textbroker reclama de nuevo la corrección del texto o la entrega de un texto apto para su aceptación, será de aplicación el presente subapartado correspondientemente.
+
+Una cancelación de un encargo (“Cancelar”) solo puede ser aceptada en el caso que los puntos de desacuerdo con el autor sean suficientes y razonables para Textbroker. Para ello un autor debe haber recibido previamente una solicitud de modificaciones antes de que el cliente tenga la opción de poder cancelar el texto.
+
+Los fines de semana no cuantan en el plazo que un autor tiene para realizar las modificaciones solicitadas, de manera que si un autor recibiera una solicitud de modificaciones en sábado o en somingo, esta vencería el siguiente lunes.
+
+9.3 Tanto en los casos definidos en el punto 9.1 como en el punto 9.2, tras dejar sin efecto el encargo, Textbroker podrá poner el encargo del Cliente de nuevo a disposición de todos los Autores que puedan ser tomados en consideración (cf. punto 3.3 o 3.4) por vía de una OpenOrder y TeamOrder. En caso de una DirectOrder, esto únicamente será de aplicación si el Cliente está de acuerdo.
+
+9.4 Otros derechos de Textbroker no se ven afectados.
+
+ 
+10. Remuneración
+
+10.1 Si el Autor cumple con el encargo en su debida forma y Textbroker acepta el texto, el Autor tendrá derecho a remuneración por parte de Textbroker.
+
+10.1.1 Si se trata de una OpenOrder, la remuneración se establecerá por palabra, conforme a las tablas de remuneración para Autores vigentes en el momento del encargo publicadas en el sitio web textbroker.es. que los autores deben tener en cuenta.
+
+10.1.2 Si es una DirectOrder, el propio Autor puede establecer la cuantía de su remuneración por palabra que considere oportuna. A este precio Textbroker le añadirá un suplemento porcentual correspondiente a las tablas de remuneración vigentes en el momento del encargo. Para establecer la cuantía de la pretensión de remuneración del Autor frente a Textbroker será determinante la remuneración por palabra que establezca el Autor, y no la cantidad global que Textbroker facture al Cliente.
+
+10.1.3 En el caso de las TeamOrder, la remuneración está determinada por el precio específico por palabra establecida para el equipo, menos el porcentaje recargado por Textbroker que aplica al momento de tramitación del encargo y está comprendido en la página textbroker.es.
+
+10.1.4 El pago para los encargos de corrección está determinado por la tabla de remuneraciones mostrada en la página textbroker.es que es aplicable en el momento de tramitación del encargo.
+
+10.2 La remuneración por un encargo se infiere a partir de la remuneración correspondiente por palabra, multiplicada por el número de palabras de la versión textual aceptada y que ascenderá, como máximo, al número de palabras máximo que el Cliente estableció al hacer el encargo (cfr. punto 3.1). El Autor no recibirá ninguna remuneración por los textos que no hayan sido aceptados.
+
+10.3 El Autor no tendrá derecho a remuneración si un texto vulnera los derechos de terceros, en particular el derecho de propiedad intelectual o los derechos morales. Si la remuneración ya ha sido abonada, el Autor deberá reembolsarla. Los restantes derechos de Textbroker no resultarán afectados.
+
+10.4 El Autor será responsable de pagar los impuestos derivados de su remuneración.
+
+ 
+11. Vencimiento de la remuneración, pago
+
+11.1 Mientras el Autor esté registrado en Textbroker, Textbroker le abonará en cuenta todos sus honorarios hasta el momento del pago. El abono tendrá lugar cuando el Cliente confirme a Textbroker la aceptación del texto. No se aplicarán intereses.
+
+11.2 El Autor podrá reclamar el pago de la remuneración a partir de una cantidad de 10,00 EUR, siempre que en las presentes CGC no se estipule o diferente.
+
+11.3 El pago de la remuneración solo se realizará previa petición del Autor. Además, los pagos solo podrán efectuarse si el Autor ha facilitado a Textbroker una cuenta de referencia a la que remitir la transferencia. Por regla general, las transferencias se efectuarán todoslos viernes de un mes siempre que la solicitud de pago por parte del Autor haya sido recibida en Textbroker hasta el jueves de la semana en cuestión a través del menú de usuario de la cuenta del Autor. En caso contrario la transferencia se realizará el viernes siguiente. El momento de recepción de abono en la cuenta indicada por el Autor esta sujeto a las condiciones de los bancos correspondientes, siendo en Alemania habitual una duración de 4 días hábiles y en Europa aproximadamente 10 días hábiles. Textbroker se reserva la posibilidad de efectuar el pago en una fecha posterior si existe un motivo relevante para ello. Quedan reservados los derechos de compensación y de retención.
+
+ 
+12. Resolución; consecuencias de la resolución
+
+12.1 Tanto el Autor como Textbroker podrán resolver este contrato en cualquier momento sin indicar los motivos, pero Textbroker deberá observar un periodo de preaviso de dos semanas con efecto al siguiente fin de mes. En todo caso, el contrato finalizará con el fallecimiento del Autor.
+
+12.2 La posibilidad de una resolución extraordinaria por motivo relevante no resulta afectada. Para Textbroker existirá un motivo relevante, en particular, en los siguientes casos:
+
+12.2.1 Incumplimiento por parte del Autor de disposiciones legales esenciales o de disposiciones esenciales de las presentes CGC.
+
+12.2.2 El Autor es miembro de asociaciones o comunidades vigiladas por las autoridades policiales, de seguridad o de protección de menores o hace publicidad de ellas o de sus métodos o actividades.
+
+12.2.3 El Autor inflige daños a una tercera persona o a varias a través del sitio web de Textbroker (por ejemplo, mediante calumnia, difamación, injuria, violación de derechos de autor o de marca, etc.).
+
+12.3 Si existe una razón para que Textbroker efectúe una resolución extraordinaria del contrato, además de tener derecho a la resolución sin preaviso, Textbroker también tendrá derecho a bloquear al Autor el uso posterior de las páginas web de Textbroker y de sus subpáginas.
+
+12.4 El resto de pretensiones legales o contractuales no resultarán afectadas.
+
+12.5 La resolución del contrato podrá comunicarse a la otra parte en cada caso a través del sitio web textbroker.es o en forma de texto (por ejemplo, por carta, fax o por correo electrónico).
+
+Las resoluciones realizadas por el Autor deberán contener también el ID de Autor que le fue asignado al registrarse y las direcciones de correo electrónico registradas en Textbroker. El autor mismo puede resolver el contrato a través de su misma cuenta.
+
+12.6 A la finalización del contrato, Textbroker borrará de inmediato los datos de acceso y demás datos personales del Autor almacenados. Al finalizar la suscripción, Textbroker, previo requerimiento por parte del Autor, abonará al Autor cualquier cantidad que pueda permanecer en el haber del Autor, a no ser que a Textbroker le asista un derecho de compensación o, en su caso, de retención.
+
+Para los pagos por debajo de los 10,00 EUR, Textbroker tendrá derecho a conservar una compensación por gastos que ascienda a 3,00 EUR. Si el saldo a favor del Autor es de 3,00 EUR o menos, Textbroker podrá conservar una compensación por gastos que ascienda a la cantidad del saldo. Esto no será de aplicación si el Autor demuestra que Textbroker no ha incurrido en absoluto en tal gasto o únicamente ha incurrido en un gasto considerablemente inferior.
+
+ 
+13. Compensación, retención
+
+13.1 Queda excluido un posible derecho de retención del Autor, a no ser que la contrapretensión del Autor proceda de la misma relación contractual y sea indiscutible o posea carácter de cosa juzgada.
+
+13.2 Una compensación por parte del Autor solo será posible para pretensiones indiscutibles o que posean carácter de cosa juzgada.
+
+ 
+14. Confidencialidad
+
+14.1 Todas las informaciones a las que se haya tenido acceso a través de Textbroker deberán ser tratadas como información confidencial frente a terceros, a no ser que pueda demostrarse que ya son del dominio público. Si no se ha obtenido previamente el consentimiento de Textbroker por escrito, tales informaciones no podrán ser reproducidas ni utilizadas. A requerimiento de Textbroker deberán serle devueltas o ser destruidas de inmediato y por completo todas las informaciones procedentes de Textbroker (incluyendo copias y dibujos). Será obligatorio, en particular, guardar secreto también sobre todas las informaciones obtenidas en el marco de un encargo, incluyendo —de forma no excluyente— los posibles datos o informaciones sobre el Cliente, así como las especificaciones del Cliente.
+
+14.2 Textbroker se reserva todos los derechos sobre tales informaciones. En la medida en que Textbroker haya recibido tales informaciones de terceros, esta reserva será de aplicación también en favor de estos terceros.
+
+ 
+15. Captación de Clientes
+
+15.1 La captación de Clientes por parte del Autor y el intento inherente a ella de entablar una relación comercial ajena a Textbroker no están permitidos. Textbroker tendrá derecho a excluir al Autor de los servicios de Textbroker. El resto de derechos quedan a salvo, especialmente la pretensión frente al Autor de resarcimiento por daños, incluida la pretensión de lucro cesante.
+
+ 
+16. Comunicación por el sistema de mensajería de Textbroker
+
+16.1 Tanto Clientes como Autores tendrán a su disposición un sistema de comunicación que permitirá el intercambio de mensajes. Textbroker transmitirá los mensajes enviados al miembro que se indique. Todos los mensajes serán revisados automáticamente mediante un filtro de palabras para asegurar que cumplan las CGC y las buenas costumbres. Los mensajes llamativos se revisarán y editarán de forma manual. En caso de que se modifique el contenido, se informará a las partes que el mensaje en cuestión ha sido editado por Textbroker. Textbroker se reserva el derecho a no transmitir determinados mensajes cuando estos infrinjan las presentes CGC o el derecho aplicable.
+
+ 
+17. Responsabilidad
+
+17.1 Con independencia de cuál sea el fundamento jurídico, Textbroker se responsabilizará exclusivamente de los casos de dolo y negligencia grave, de las acciones dolosas y de negligencia grave de sus representantes legales o auxiliares ejecutivos, excepto en los casos de daños que derivan de una lesión a la vida, a la integridad corporal o a la salud, en los casos de asunción de una garantía o en el caso de que se responda de acuerdo con la Ley alemana sobre productos defectuosos.
+
+17.2 La responsabilidad tampoco se limitará a los casos de dolo y negligencia grave cuando exista una obligación de resarcimiento por daños a causa de un incumplimiento de las obligaciones contractuales esenciales. Sin embargo, la pretensión de resarcimiento por daños debida a un incumplimiento de las obligaciones contractuales esenciales se limita a los daños típicos del contrato y previsibles, siempre que no exista dolo o negligencia grave o se responda por lesiones a la vida, a la integridad corporal o a la salud, por asunción de la garantía o de acuerdo con la Ley alemana sobre productos defectuosos. Contractualmente esenciales son aquellas obligaciones que hacen posible la ejecución del contrato y en cuyo cumplimiento confía y puede confiar por tanto la otra parte contratante.
+
+ 
+18. Copias de seguridad
+
+18.1 Textbroker realizará periódicamente copias de seguridad de los datos guardados en las respectivas cuentas de cliente. Si a pesar de ello se produjera una pérdida de datos, Textbroker procurará subsanar la pérdida de datos o, en su caso, restablecer el estado de la cuenta anterior a la pérdida de datos. Sin embargo, no existe la obligación de hacerlo.
+
+ 
+19. Protección de datos
+
+19.1 Tanto el autor como Textbroker tienen derecho a almacenar, procesar y utilizar los datos personales recibidos de la contraparte en el marco del procesamiento del contrato de conformidad con las disposiciones de la Ley Federal de Protección de Datos y la Ordenanza Básica de Protección de Datos. Esto incluye, en particular, que las personas autorizadas a tratar datos personales han sido obligadas a mantener la confidencialidad o están sujetas a una obligación legal apropiada de confidencialidad; que sin el consentimiento del autor, los datos personales del autor sólo pueden ser tratados dentro del ámbito de la DSGVO; los datos personales de conformidad con el Art. 32 DSGVO están adecuadamente protegidos por medidas técnicas y organizativas; la liberación de Textbroker de las reclamaciones de terceros y personas afectadas debido a una violación culpable de las disposiciones de la DSGVO por parte del autor, en virtud de la cual el autor tiene la carga de la prueba de que cumple con el cuidado necesario de conformidad con el artículo 5, párrafo 2, de la DSGVO; la transmisión de datos personales del autor a Textbroker sólo tiene lugar de conformidad con los requisitos de la DSGVO (en particular, la transmisión debido a la autoridad legal o el consentimiento, el cumplimiento de las obligaciones de transparencia y los derechos de las personas afectadas). En caso de que la ejecución del contrato requiera un tratamiento posterior de datos personales, las partes se comprometen a celebrar un contrato para el tratamiento de datos del pedido.
+
+19.2 Para prevenir el relleno automático de nuestro formulario, la página de ingreso a la plataforma, así como de registro cuenta con el servicio reCaptcha de Google Inc. (‘Google’). Esta herramienta es necesaria para distinguir las entradas realizadas por una persona y las hechas de un modo abusivo por un procesador. A petición, la dirección IP así como cualqueir otro dat onecesario requerido por el servicio reCaptcha será transferido a Google. Estos datos son tratados, bajo las excepciones de google, según la regulación de protección de datos. Para más información sobre la política de protección de datos establecida por Google, diríjase a: https://policies.google.com/privacy?hl=es
+
+19.3 Para las cuestiones relativas a protección de datos, consulte nuestras indicaciones en nuestra Declaración de Protección de Datos (véase https://www.textbroker.es/proteccion-de-datos).
+
+ 
+20. Resolución de disputas online
+
+20.1 La Comisión de la Unión Europea ha creado una plataforma online para la resolución de disputas en la red (‘plataforma-OS’) entre empresas y consumidores. Se puede cotnactar con la plataforma-OS en http://ec.europa.eu/consumers/odr/. Textbroker está obligado a tratar las disputas con el cliente antes de recurrir a la mesa de arbitraje. Los consumidores pueden dirigirse a las siguientes agencias de arbitraje:
+
+Agencia española de Consumo Seguridad Alimentaria y Nutrición (Aecosan) http://www.aecosan.msssi.gob.es/AECOSAN/web/consumo/seccion/resolucion_de_conflictos_de_consumo.htm:
+
+Junta Arbitral Nacional de Consumo
+
+Calle Príncipe de Vergara, 54 Madrid (28006)
+
+o seguir el siguiente link (alemán) https://www.verbraucher-schlichter.de: Allgemeine Verbraucherschlichtungsstelle des Zentrums für Schlichtung e.V.,
+
+Straßburger Str. 8, 77694 Kehl Alemania
+
+ 
+21. Modificaciones de las presentes Condiciones Generales de Contratación
+
+21.1Textbroker está legitimada para modificar estas CGC en cualquier momento. Al Autor se le notificarán las modificaciones en forma de texto por carta, por fax o por correo electrónico e introduciendo las CGC actualizadas en https://www.textbroker.es/tyc
+
+21.2 Si en el plazo de tres semanas el Autor no formula oposición o resuelve el contrato, se considerará que con su actuación aprueba las nuevas CGC, que entrarán en vigor en la fecha fijada por Textbroker. En el caso de oposición del Autor, Textbroker estará legitimada para resolver el contrato en el acto.
+
+ 
+22. Disposiciones finales
+
+22.1 El lugar de cumplimiento para todas las obligaciones resultantes de este contrato será el domicilio social de Textbroker.
+
+22.2 El derecho aplicable será el derecho de la República Federal de Alemania.
+
+22.3 Para cualquier litigio presente o futuro resultante de la relación contractual con comerciantes, el lugar exclusivo de jurisdicción será Maguncia. Textbroker también estará legitimada para presentar demanda en el domicilio social del Autor.
+
+22.4 Si una o varias disposiciones de estas CGC fueran ahora o en el futuro ineficaces o inejecutables, ello no afectará a la validez del resto del contrato.
+
+La disposición ineficaz o inejecutable se sustituirá por otra que sea eficaz y ejecutable y que se aproxime todo lo posible en lo económico a la disposición ineficaz o inejecutable. Lo mismo se aplicará para lagunas de regulación.

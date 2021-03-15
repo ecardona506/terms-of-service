@@ -1,0 +1,157 @@
+Definiciones generales de Tarjeta Cívica
+
+    Administrador: es la empresa encargada de realizar la operación, mantenimiento, gestión financiera y administrativa del Sistema de recaudo.
+
+    Barreras: son equipos denominados mecanismos de control de ingreso y salida del Sistema.
+
+    Carga: es la cantidad de dinero en efectivo que el Usuario transfiere a su Tarjeta Cívica, convirtiéndose en dinero electrónico e incrementando su saldo.
+
+    Destino: es la estación o parada que el Usuario encontrará al final de hacer el recorrido por el Sistema.
+
+    Empresa operadora: es la persona natural o jurídica que permite realizar el pago de los bienes y/o servicios provistos por ella a través de la Tarjeta Cívica.
+
+    Mecanismos de control de ingreso: son equipos denominados torniquetes, donde se validan los medios de pago para uso del Sistema.
+
+    Modo de transporte: se diferencia por el tipo de vehículos utilizados para la movilización de los Usuarios desde un origen hasta su destino (metro, cable, buses, entre otros.)
+
+    Origen: es la estación o parada donde el Usuario inicia su recorrido por el Sistema.
+
+    Punto de Atención al Cliente (PAC): espacio destinado en algunas estaciones del Sistema, para la atención de los requerimientos de los Usuarios.
+
+    Reglamento del Usuario: es el contrato entre el Usuario y LA EMPRESA, que establece los derechos, obligaciones y prohibiciones entre las partes.
+
+    Saldo: es el importe o cantidad de dinero electrónico que tiene disponible la Tarjeta Cívica para efectuar pagos de productos y/o servicios.
+
+    Sistema: es el conjunto de líneas de transporte público tipo metro, bus o cable aéreo, dentro de los que se moviliza el Usuario.
+
+    Tarifa diferencial: es el beneficio económico que se ofrece a los Usuarios frecuentes y preferenciales que poseen la Tarjeta Cívica Personal, previa verificación de los requisitos establecidos por LA EMPRESA y la ley.
+
+    Tarjeta Cívica:es una tarjeta inteligente sin contacto (TISC), que tiene la posibilidad de almacenar dinero electrónico, y permite realizar transacciones para acceder a los servicios de transporte y a otras aplicaciones comerciales.
+
+    Transferencia: es el paso de un modo de transporte a  otro en un tiempo establecido por la empresa operadora. Puede tener o no, según lo definido por la Autoridad de Transporte.
+
+    Transbordo: paso de un modo de transporte a otro que no implica pago, por ejemplo desde la Línea A hacia Línea K.
+
+    Uso: es la utilización de la Tarjeta Cívica por parte del Usuario en las empresas operadoras.
+
+    Usuario: es la persona que utiliza el Sistema.
+
+    Usuario frecuente: es la persona que utiliza la Tarjeta Cívica y que no reúne las condiciones para ser catalogado como Usuario preferencial.
+
+    Usuario preferencial: es la persona portadora de la Tarjeta Cívica Personal, a quien la ley, las autoridades competentes o el Administrador le reconocen una calidad especial como estudiante, adulto mayor y Persona en Situación de Discapacidad o con Movilidad Reducida (PMR), de acuerdo con las políticas previamente establecidas.
+
+Condiciones de tu Tarjeta Cívica Personal
+
+    La Tarjeta Cívica es de carácter personal e intransferible para los Usuarios con Perfil Preferencial. Quien la posea, podrá beneficiarse de las tarifas diferenciales establecidas y de los demás programas promocionales que implemente el Administrador.
+    Esta Tarjeta tendrá un número único específico.
+    Una vez la Tarjeta sea entregada al Usuario éste deberá realizar una carga de dinero con saldo suficiente que le permita acceder al Sistema.  En caso contrario, se considerará saldo insuficiente.
+    El Administrador puede determinar valores mínimos de carga y sus condiciones serán informadas a los Usuarios.
+    En caso de hurto, daño o pérdida se cobrará un valor definido por el Administrador para proceder a una nueva expedición, salvo en los siguientes casos:
+
+    Cuando se presente daño técnico de la Tarjeta durante los primeros seis (6) meses siguientes a su entrega, previa evaluación por parte del Administrador.
+    Cuando el Usuario cambie de documento de identidad por cumplimiento de la mayoría de edad.
+
+
+
+En todo caso, el Usuario deberá informar la situación al Administrador, quien deberá bloquear su saldo dentro de las veinticuatro (24) horas siguientes.El saldo existente en la Tarjeta desde que se haga efectivo el bloqueo, será reconocido una vez se expida la nueva Tarjeta, y se realice lectura de la misma.
+
+El Usuario asume total responsabilidad por el uso que haga de la Tarjeta hasta el momento en que se haya bloqueado. El Administrador no asume ninguna responsabilidad ante la pérdida o hurto de la Tarjeta.
+El Usuario puede solicitar al Administrador el resumen de las operaciones de su Tarjeta en los lugares que éste haya dispuesto para tal efecto.
+El Administrador no se hace responsable por recargas realizadas en sitios diferentes a los autorizados. En consecuencia, el Usuario perderá todo derecho de reclamación sobre éstas.
+La Tarjeta Cívica Personal es recargable en cualquier punto de venta del Sistema o punto de venta externo autorizado por el Administrador.
+Caducidad del saldo: el saldo cargado en la Tarjeta Cívica caduca después de transcurridos treinta y seis (36) meses a partir del último uso o carga, lo que primero se presente. No se reconocerán rendimientos financieros por los dineros acumulados en el saldo de la Tarjeta.
+En caso de deshabilitación de esta Tarjeta, el Usuario deberá acercarse a los Puntos de Atención al Cliente para proceder a su habilitación
+El Usuario deberá revisar la información impresa en la Tarjeta Cívica Personal antes de retirarse del punto de personalización para verificar que ésta se encuentra correcta. Si posteriormente el Usuario identifica que hubo un error en la impresión, se le cobrará un valor definido por el Administrador para proceder a una nueva expedición.
+Esta Tarjeta permite la transferencia entre modos y la integración tarifaria establecida.
+
+
+Perfiles de la Tarjeta Cívica Personal:
+
+    Perfiles Preferenciales: son aquellos definidos y autorizados por el Administrador y la ley que cuentan con condiciones, restricciones y modos de uso diferenciales. Estos serán difundidos por el Administrador, a través de los diferentes canales de divulgación con los que cuenta.
+    Los Perfiles Preferenciales por su condición, tienen control de tiempo para un segundo uso. Dicho tiempo es establecido por el Administrador y  difundido por los diferentes medios.
+    Perfil Frecuente: dirigido a aquellos Usuarios que utilizan el Sistema con regularidad y no cumplen con los requisitos establecidos para los Perfiles Preferenciales. Este perfil cuenta con una tarifa diferencial en relación con la tarifa plena establecida por la autoridad competente.
+
+Condiciones de uso para la Tarjeta Cívica Al Portador
+
+ 
+
+    El Usuario, previo suministro de un documento que acredite su identidad y el pago de una suma de dinero equivalente a un viaje, recibirá una Tarjeta Cívica. Dicho valor puede ser utilizado para ingresar al Sistema.
+    En aquellos casos en los que el Usuario haya obtenido su primera Tarjeta y por cualquier razón pretenda ingresar al Sistema sin ella, éste podrá solicitar, previo pago de una suma determinada por el Administrador, una nueva Tarjeta en los Puntos de Atención al Cliente, PAC.
+    En caso de robo, pérdida o daño se cobra un valor definido por el Administrador para proceder a una nueva expedición de esta Tarjeta.
+
+    Para poder ingresar y hacer uso del Sistema, el Usuario debe contar con saldo suficiente. De lo contrario, no podrá ingresar.
+    En caso de que el Usuario tenga la Tarjeta Cívica Personal y solicite la Tarjeta Al Portador, ésta tendrá un costo que determinará  la Empresa.
+    El Administrador puede determinar valores mínimos de carga y sus condiciones serán informadas a los Usuarios.
+    El Administrador no se hace responsable por recargas realizadas en sitios diferentes a los autorizados. En consecuencia, el Usuario perder todo derecho a reclamación.
+    La Tarjeta Cívica Al Portador es recargable en cualquier punto de venta del Sistema o punto de venta externo autorizado por el Administrador.
+    Caducidad del saldo: el saldo cargado en la Tarjeta Cívica caduca después de transcurridos treinta y seis (36) meses a partir del último uso o carga, lo que primero se presente. No se reconocerán rendimientos financieros por los dineros acumulados en el saldo de la Tarjeta.
+    En caso de deshabilitación de la Tarjeta, el Usuario deberá acercarse a los Puntos de Atención al Cliente (PAC) ubicados en el Sistema para proceder a su habilitación.
+    Esta Tarjeta permite la transferencia entre modos y la integración tarifaria establecida. 
+
+Derechos del usuario
+
+    Elegir entre los diferentes tipos de Tarjeta Cívica.
+
+    Acceder al Sistema.
+
+    Presentar las quejas y sugerencias haciendo uso de los medios diseñados para ello por el Administrador.
+
+    Recibir respuesta del Administrador a las reclamaciones y sugerencias presentadas en los términos de Ley.
+
+    Recargar su Tarjeta Cívica y consultar su saldo.
+
+    Recibir la devolución del saldo de acuerdo con las condiciones establecidas por el Administrador.
+
+Deberes del usuario de Tarjeta Cívica
+
+    No acercar más de una tarjeta inteligente sin contacto (TISC) a la vez, sobre el lector del equipo de recaudo.
+
+    No doblar, escribir, raspar o cortar la Tarjeta Cívica.
+
+    Si su Tarjeta Cívica se encuentra en su billetera, evite ubicarla contra cierres metálicos o monedas.
+
+    No ubicar la Tarjeta en el bolsillo trasero del pantalón sin la debida protección.
+
+    No plastificar la Tarjeta Cívica.
+
+    Acatar las normas del Reglamento del Usuario.
+
+Prohibiciones al usuario de Tarjeta Cívica
+
+ 
+
+ 
+
+    Recargar la Tarjeta Cívica en sitios diferentes a los autorizados por el Administrador.
+
+    El Usuario preferencial con Tarjeta Cívica Personal no puede prestarla o cederla para que otros Usuarios accedan al Sistema.
+
+    Los Usuarios que tengan los perfiles PMR (persona con movilidad reducida), Adulto Mayor y Estudiantes municipios no pueden, bajo ninguna circunstancia, ingresar al Sistema con otra persona utilizando los mecanismos dispuestos especialmente para ellos (ascensores, plataformas mecánicas).
+
+Sanciones para los usuarios de Tarjeta Cívica
+
+El incumplimiento de los deberes y prohibiciones contemplados en estas condiciones acarreará las siguientes sanciones:
+
+ 
+
+    Suspensión por un lapso de treinta (30) días calendario, del beneficio establecido para los Usuarios que se encuentren registrados en alguno de los Perfiles Preferenciales de la Tarjeta Cívica Personal. 
+
+    En caso de reincidencia el beneficio establecido se suspenderá, por espacio de tres (3) meses.
+
+    Si el Usuario reincide en la conducta anterior en tres (3) ocasiones ó más, los beneficios a los que tenía derecho serán suspendidos por un (1) año, al vencimiento del cual podrá solicitarlos nuevamente.
+
+ 
+
+Para acceder al Sistema durante el período de suspensión del beneficio, el Usuario debe pagar la tarifa que se encuentre vigente para el Perfil Frecuente.
+
+Para la aplicación de sanciones deberá respetarse el debido proceso para todos los casos.
+
+El procedimiento para aplicar las sanciones descritas anteriormente, se encuentra regulado en el Reglamento del Usuario.
+
+Disposiciones varias de tu Tarjeta Cívica
+
+Cualquier modificación al presente documento deberá ser debidamente comunicado y publicado haciendo uso de los diferentes medios con que cuenta el Administrador.
+
+ 
+
+Hace parte del presente Reglamento el formato de aceptación de las condiciones de uso de la Tarjeta Cívica Personal.

@@ -1,0 +1,219 @@
+Aviso de Privacidad de Google Chrome
+Última modificación: 15 de enero de 2021
+Consultar versiones archivadas:
+
+Obtenga información para controlar la información que se recopila, almacena y comparte cuando usa el Sistema operativo Chrome o el navegador Google Chrome en la computadora, dispositivos móviles o cuando habilita la Navegación segura. En esta política se describen funciones específicas de Chrome, pero recuerde que toda información personal proporcionada a Google o almacenada en su Cuenta se usará y protegerá conforme a la Política de Privacidad de Google (consulte los cambios ocasionales). En la política de retención de Google, se describe cómo y por qué conservamos datos.
+
+Si se habilitan apps de Google Play en su Chromebook, el uso y la protección de la información que recopila Google Play o el sistema operativo Android están regidos por las Condiciones del Servicio de Google Play y la Política de Privacidad de Google. En este Aviso, se proporcionan detalles específicos de Chrome en caso de ser necesario.
+Más información sobre el Aviso de Privacidad
+
+En este Aviso de privacidad, se utiliza el término "Chrome" para referirse a todos los productos de la familia de Chrome que se enumeran anteriormente. Si hay diferencias en nuestra política entre los diferentes productos, lo indicaremos. De forma periódica cambiamos este Aviso de privacidad.
+
+Las versiones "Beta", "Dev" o "Canary" de Chrome le permiten probar funciones nuevas que aún están en desarrollo. Este Aviso de Privacidad se aplica a todas las versiones de Chrome, pero es posible que aún no contemple las funciones en desarrollo.
+
+Para obtener una guía paso a paso y administrar sus preferencias de privacidad, consulte nuestra Descripción general de controles de privacidad de Chrome.
+Índice:
+
+    Modos de navegación
+    Administración de usuarios en Chrome
+    Prácticas de la Navegación segura
+    Prácticas de privacidad en el uso de apps, extensiones, temas, servicios y otros complementos
+    Más información
+
+Modos de navegación
+
+No es necesario proporcionar información personal para usar Chrome, pero recuerde que el navegador ofrece diferentes modos de uso que le permitirán cambiar o mejorar la experiencia de navegación. Las Prácticas de Privacidad serán diferentes en función del modo que seleccione.
+Modo de navegador básico
+
+El modo de navegador básico almacena información de forma local en el sistema. Esta información puede incluir lo siguiente:
+
+    Información sobre el historial de navegación; por ejemplo, Chrome almacena las URL de las páginas visitadas, el texto, las imágenes y otros recursos almacenados en caché de esas páginas y, si está activada la función de predicción de acciones de red, una lista de algunas direcciones IP vinculadas de esas páginas
+
+    Información personal y contraseñas para ayudarlo a completar formularios o acceder a los sitios que visita
+
+    Una lista de los permisos que les otorgó a los sitios web
+
+    Cookies o datos de los sitios web que visita
+
+    Datos guardados por complementos
+
+    Un registro de las descargas realizadas desde sitios web
+
+Puede administrar esta información de varias maneras:
+
+    Borrar la información del historial de navegación
+
+    Administrar o borrar los datos de navegación almacenados desde el cuadro de diálogo Datos de sitios y cookies
+
+    Hacer que Chrome deje de aceptar cookies. Más información
+
+    Revisar las contraseñas almacenadas en la configuración de Chrome. Más información
+
+    Ver y administrar la información almacenada de "Autocompletar". Más información
+
+La información personal que almacena Chrome no se enviará a Google a menos que usted decida almacenar esos datos en su Cuenta de Google activando la sincronización o, en el caso de las contraseñas, las tarjetas de pago y los datos de facturación, eligiendo credenciales o datos de facturación y de tarjetas de pago específicos para almacenar en su Cuenta de Google. Obtenga más Información.
+Cómo se administra la información del usuario en Chrome
+
+Información sobre los operadores de sitios web: Los sitios que visite con Chrome recibirán automáticamente información convencional de registro, como la dirección IP de su sistema y datos de cookies. En general, el uso de Chrome para acceder a los servicios de Google, como Gmail, no implica que recibamos información de identificación personal sobre usted. En los sitios web de Google y otros sitios web asociados, si Chrome detecta algún indicio de que otro usuario lo está atacando de forma activa en la red (un "ataque de intermediario"), es posible que Chrome envíe información sobre esa conexión a Google o al sitio web que visitó para determinar el alcance y funcionamiento del ataque. Los propietarios de los sitios web participantes reciben informes de Google sobre los ataques que se producen en sus sitios.
+
+Procesamiento previo: Para cargar más rápido las páginas web, Chrome tiene una opción de configuración que permite buscar las direcciones IP de los vínculos en una página web y conexiones de red abiertas. Los sitios y apps de Android también pueden solicitarle al navegador que haga una carga previa de las páginas que podría visitar más adelante. La configuración de las predicciones que hace Chrome también controla las solicitudes de carga previa de las apps de Android. No obstante, siempre se solicita la carga previa de los sitios, sin importar si está habilitada la función de predicción de red de Chrome. Si Chrome, un sitio o una app solicitan el procesamiento previo, el sitio cargado previamente puede establecer y leer sus propias cookies como si el usuario lo hubiera visitado (incluso si finalmente el usuario decide no visitar la página previamente procesada). Más información
+
+Ubicación: Para obtener más información geográficamente relevante, Chrome le da la opción de compartir su ubicación con un sitio. Chrome no permitirá que ningún sitio acceda a su ubicación sin su permiso. Sin embargo, en dispositivos móviles, Chrome compartirá de forma automática su ubicación con el motor de búsqueda predeterminado si usted le otorgó permiso a la app de Chrome para que accediera a la ubicación y si no bloqueó la ubicación geográfica para el sitio web asociado. Chrome utiliza los Servicios de ubicación de Google para calcular la ubicación. La información que Chrome les envía a los Servicios de ubicación de Google puede incluir lo siguiente:
+
+    Los routers Wi-Fi más cercanos
+    ID de las torres de telefonía móvil más cercanas
+    La intensidad de la señal Wi-Fi o de telefonía móvil
+    La dirección IP asignada actualmente a su dispositivo
+
+Google no controla los sitios web de terceros ni sus prácticas de privacidad, por lo que debe tener cuidado comparte su ubicación con un sitio web.
+
+Actualizaciones: Chrome le envía de forma periódica información a Google con el fin de verificar si hay actualizaciones disponibles, controlar el estado de conectividad, validar el tiempo actual y calcular la cantidad de usuarios activos.
+
+Funciones de búsqueda: Si accedió a su cuenta en un sitio de Google y Google es su motor de búsqueda predeterminado, las búsquedas que haga desde el cuadro multifunción o el cuadro de búsqueda en la página de una nueva pestaña en Chrome se almacenarán en su Cuenta de Google.
+
+Servicio de predicción de búsqueda: Para ayudarlo a encontrar información más rápido, Chrome usa el servicio de predicción que proporciona su motor de búsqueda predeterminado para ofrecer entradas probables del texto que empezó a escribir. Cuando realiza una búsqueda con el cuadro multifunción o el de búsqueda en la página Nueva pestaña de Chrome, se envían los caracteres que escriba (incluso si aún no presionó "Intro") a su motor de búsqueda predeterminado. Si Google es su motor de búsqueda predeterminado, las predicciones se basan en su propio historial de búsqueda, lo que buscan otras personas y los temas relacionados con lo que está escribiendo en el cuadro multifunción o el de búsqueda en la página Nueva pestaña de Chrome. Obtenga más información. Es posible que las predicciones también se basen en su historial de navegación. Obtenga más información.
+
+Asistencia en la navegación: Si no puede conectarse a una página web, obtendrá sugerencias de páginas alternativas similares a la que deseaba visitar. Para poder ofrecerle sugerencias, le Chrome envía a Google la URL de la página a la que deseaba acceder.
+
+Función Autocompletar, administración de contraseñas y pagos. A fin de mejorar los servicios de administración de contraseñas y la función Autocompletar de Chrome, Chrome envía a Google información anónima y limitada sobre los formularios web que se le presentan o que usted envía mientras está habilitada la función Autocompletar o la administración de contraseñas. Esta información incluye una URL con hash de la página web y detalles de la estructura del formulario. Obtenga más información.
+
+Cuando acceda a su Cuenta de Google en Chrome, es posible que Chrome le ofrezca guardar sus contraseñas, formas de pago y datos relacionados con su Cuenta de Google. Es posible que Chrome también le ofrezca completar formularios web con las contraseñas y las formas de pago de su Cuenta de Google. Si tiene contraseñas o formas de pago guardadas localmente en Chrome, es posible que Chrome le pregunte si desea guardarlas en su Cuenta de Google. Si utiliza una forma de pago de su Cuenta de Google o elige guardar la forma de pago allí para utilizarla más adelante, Chrome recopilará información sobre su computadora y la compartirá con Google Pay para protegerlo de actividades fraudulentas y proporcionarle el servicio. Chrome también le permitirá hacer pagos a través de Google Pay (si el comercio admite esa forma de pago).
+
+Idioma: Para personalizar la experiencia de navegación en función de los idiomas que prefiera leer, Chrome llevará un conteo de los idiomas más populares de los sitios que visita. Esas preferencias de idioma se enviarán a Google para personalizar su experiencia en Chrome. Si activó la Sincronización de Chrome, se asociará ese perfil de idioma con su Cuenta de Google y, si incluye el historial de Chrome en la configuración Actividad web y de aplicaciones, se podrá usar para personalizar su experiencia en otros productos de Google. Consulte los Controles de actividad.
+
+Aplicaciones web en Android: En dispositivos Android, si selecciona "Agregar a la pantalla principal" en un sitio web optimizado para ofrecer un rendimiento rápido y confiable en dispositivos móviles, Chrome usará un servidor de Google y creará un paquete de Android nativo para ese sitio web en su dispositivo. El paquete de Android le permitirá interactuar con la aplicación web de la misma manera que con una aplicación de Android. Por ejemplo, la aplicación web aparecerá en su lista de aplicaciones instaladas. Más información
+
+Informes de fallas y Estadísticas de uso: Los informes de fallas y las Estadísticas de uso se envían a Google de forma predeterminada para mejorar nuestros productos. Las Estadísticas de uso contienen información, como preferencias, clics de botones, estadísticas de rendimiento y uso de memoria. En general, las Estadísticas de uso no incluyen URL de páginas web ni información personal; sin embargo, si activó las opciones Mejorar las búsquedas y la navegación y Envía a Google las URL de las páginas que visitas, las Estadísticas de uso de Chrome incluirán información sobre las páginas web que haya visitado y su uso. Si habilitó la Sincronización de Chrome, Chrome podrá combinar cualquier información de género y edad declarada de su Cuenta de Google con nuestras estadísticas para que podamos desarrollar productos más aptos para todos los segmentos demográficos. Por ejemplo, es posible que recopilemos estadísticas para identificar las páginas web que se cargan de forma lenta. Usamos esta información para mejorar nuestros productos y servicios, y para brindarles información a los programadores web a fin de que mejoren sus páginas. Los informes de fallos contienen información del sistema en el momento del fallo y pueden incluir las URL de páginas web o información personal, en función de lo que haya sucedido en ese momento. Es posible que compartamos información global y anónima de forma pública y con nuestros socios, como editores, anunciantes y desarrolladores web. Puede dejar de enviar a Google las Estadísticas de uso y los informes de fallas en cualquier momento. Obtenga más información. Si hay apps de Google Play habilitadas en su Chromebook y están habilitadas las Estadísticas de uso de Chrome, también se enviarán a Google los datos de uso y diagnóstico de Android.
+
+Licencias de medios: Algunos sitios web encriptan los medios para protegerlos de la copia y el acceso sin autorización. Para los sitios HTML5, este intercambio de claves se realiza mediante la API de Encrypted Media Extensions. En el proceso de conceder acceso a este medio, se pueden almacenar de forma local las licencias y los identificadores de sesión. El usuario puede borrar estos identificadores en Chrome con la opción Borrar datos de navegación con la casilla "Cookies y otros datos de sitios" seleccionada. Para los sitios que usen Adobe Flash Access, Chrome proporcionará un identificador único para sitios web y socios de contenido. El identificador se almacenará en el sistema. Para rechazar el acceso, en la configuración de contenido, seleccione la opción de contenido protegido. Luego, restablezca el ID con la opción Borrar datos de navegación con la casilla "Cookies y otros datos de sitios" seleccionada. Si accede a contenido protegido en Chrome para Android o a contenido en alta definición o sin conexión en el Sistema operativo Chrome, es posible que el proveedor de contenido le solicite a Chrome un certificado para verificar si el dispositivo es apto. Su dispositivo compartirá un identificador específico del sitio con el sitio web para certificar que el hardware de Chrome proteja sus claves criptográficas. Más información
+
+Otros servicios de Google: En este aviso, se describen los servicios de Google habilitados de forma predeterminada en Chrome. Además, es posible que Chrome ofrezca otros servicios web de Google. Por ejemplo, si ingresa en una página en otro idioma, Chrome le ofrecerá enviar el texto a Google para traducirlo. La primera vez que use estos servicios, podrá ver las opciones de control. Consulte el Informe de privacidad de Chrome para obtener más información.
+Identificadores en Chrome
+
+Chrome incluye identificadores únicos y no únicos necesarios para que se puedan usar las funciones y los servicios. Por ejemplo, si usa mensajes push, se crea un identificador para proporcionarle avisos. Siempre que sea posible, utilizamos identificadores no únicos y los quitamos cuando ya no son necesario. Además, los siguientes identificadores nos ayudan a desarrollar, distribuir y promover Chrome, pero no están relacionados directamente con una función de Chrome.
+
+    Seguimiento de las instalaciones: Todas las copias de la versión de escritorio del navegador Chrome para Windows incluyen un número de instalación temporal que se genera de forma aleatoria. Cuando instala y usa el producto por primera vez, se le envía a Google ese identificador temporal para calcular la cantidad de navegadores instalados, y se borra la primera vez que se actualiza Chrome. La versión para dispositivos móviles de Chrome usa una variante del identificador del dispositivo de manera continua para realizar un seguimiento de la cantidad de instalaciones.
+
+    Seguimiento de las promociones: Para ayudarnos a hacer el seguimiento del éxito de las campañas promocionales, Chrome genera un token único que se envía a Google la primera vez que ejecuta y usa el navegador. Además, si recibió o reactivó su copia de la versión de escritorio del navegador Chrome como parte de una campaña promocional y Google es el motor de búsqueda predeterminado, las búsquedas desde el cuadro multifunción incluirán una etiqueta promocional no única. Todas las versiones móviles del navegador Chrome también incluyen una etiqueta promocional no única con las búsquedas desde el cuadro multifunción. El Sistema operativo Chrome también puede enviar una etiqueta promocional no única a Google periódicamente (incluso durante la configuración inicial) y cuando se realizan búsquedas con Google. Más información
+
+    Pruebas de campo: A veces realizamos pruebas limitadas de funciones nuevas. Chrome incluye un número de origen que se selecciona al azar en la primera ejecución para asignar navegadores a grupos experimentales. Los experimentos también se pueden limitar por país (según la dirección IP del usuario), sistema operativo, versión de Chrome y otros parámetros. En todas las solicitudes enviadas a Google, se incluye una lista de las pruebas de campo activas en su instalación de Chrome. Más información
+
+Modos de acceso y de sincronización de Chrome
+
+Además, puede usar el navegador Chrome (después de acceder a su Cuenta de Google) con o sin la sincronización habilitada.
+
+Acceso. En las versiones de Chrome para computadoras de escritorio, cuando usted accede a cualquiera de los servicios web de Google, como google.com, o sale de estos, también accede a Chrome o sale del navegador. Puede desactivar esta opción en la configuración. Obtenga más información. En Chrome para Android, cuando usted accede a cualquiera de los servicios web de Google, es posible que Chrome le ofrezca acceder con alguna de las Cuentas de Google con las que ya haya accedido en el dispositivo. Puede desactivar esta opción en la configuración. Obtenga más información. Si usted accedió a Chrome con su Cuenta de Google, es posible que Chrome le ofrezca guardar sus contraseñas, formas de pago y datos relacionados con su Cuenta de Google. Se usará y protegerá esta información personal conforme a la Política de Privacidad de Google.
+
+Sincronización: Cuando accede al navegador Chrome o una Chromebook y sincroniza su Cuenta de Google, su información personal se guarda en su Cuenta de Google, en los servidores de Google, para que pueda acceder a ella cuando ingresa en Chrome y lo sincroniza en otras computadoras y dispositivos. Esta información personal se usará y protegerá conforme a la Política de Privacidad de Google. Este tipo de información puede incluir lo siguiente:
+
+    Historial de navegación
+    Marcadores
+    Pestañas
+    Contraseñas e información para la función "Autocompletar"
+    Otras opciones de configuración del navegador, como extensiones instaladas
+
+Se habilitará la sincronización solo si usted decide hacerlo. Obtenga más información. Desde el menú "Configuración", podrá personalizar la información específica para la que habilitó la sincronización. Obtenga más información. Puede ver y administrar qué datos almacena Chrome para su Cuenta de Google en Datos de su cuenta en Chrome. En el Panel, excepto para las Cuentas de Google creadas a través de Family Link, también puede inhabilitar la sincronización y borrar todos los datos asociados desde los servidores de Google. Obtenga más información. En el caso de las Cuentas de Google creadas en Family Link, es necesario acceder a la cuenta y no se puede inhabilitar la sincronización, ya que proporciona funciones de administración parental, como restricciones de sitios web. Sin embargo, los niños que tengan cuentas de Family Link pueden borrar sus datos e inhabilitar la sincronización para la mayoría de los tipos de datos. Obtenga más información. El Aviso de Privacidad para Cuentas de Google creadas en Family Link se aplica a los datos de sincronización de Chrome almacenados en esas cuentas.
+Cómo se controla la información sincronizada en Chrome
+
+Cuando habilita la sincronización en su Cuenta de Google, usamos los datos de navegación para mejorar y personalizar su experiencia en Chrome. También puede personalizar la experiencia en otros productos de Google al permitir que su historial de Chrome se incluya en la "Actividad web y de aplicaciones" de Google. Obtenga más información.
+
+Puede cambiar esta configuración en la página Historial de la cuenta o administrar sus datos privados cuando lo desee. Si no usa los datos de Chrome para personalizar su experiencia de Google fuera de Chrome, Google solo usará los datos de Chrome después de borrar su identificación y combinarlos con datos de otros usuarios. Google usa estos datos para desarrollar funciones, productos y servicios nuevos, y mejorar la calidad general de los productos y servicios existentes. Si desea usar la nube de Google para almacenar y sincronizar los datos de Chrome, pero no desea que Google acceda a ellos, puede encriptar los datos sincronizados con su propia frase de contraseña de sincronización. Obtenga más información.
+Modo de navegación incógnito y modo de invitado
+
+Puede limitar la información que almacena Chrome en el sistema a través del modo de navegación incógnito o de invitado. En estos modos, Chrome no almacenará cierta información, como la siguiente:
+
+    Información básica sobre el historial de navegación, como URL, texto de páginas almacenadas en caché o direcciones IP de páginas vinculadas de los sitios web que visita
+    Instantáneas de las páginas que visita
+    Registros de descargas, aunque los archivos que descarga seguirán almacenándose en otra ubicación de la computadora o el dispositivo
+
+Cómo se administra la información del usuario en los modos incógnito o de invitado en Chrome
+
+Cookies: Chrome no compartirá las cookies existentes con los sitios que visite en los modos de navegación incógnito o invitado. Es posible que los sitios depositen cookies nuevas en su sistema cuando navegue en estos modos, pero solo se almacenarán y transmitirán hasta que cierre la última ventana de incógnito o invitado.
+
+Cambios en la configuración del navegador: Cuando hace cambios en la configuración del navegador, como agregar una página web a favoritos o cambiar las opciones, se guarda esta información. Esos cambios no se ven afectados por los modos de navegación incógnito o invitado.
+
+Permisos: Los permisos que conceda en el modo de navegación incógnito no se guardarán en el perfil existente.
+
+Información de perfil: Mientras navegue en el modo de navegación incógnito, seguirá teniendo acceso a la información de su perfil existente, como las sugerencias basadas en el historial de navegación y las contraseñas guardadas. En el modo de invitado, podrá navegar sin acceder a la información de los perfiles existentes.
+Administración de usuarios en Chrome
+Administración de usuarios para el uso personal de Chrome
+
+Puede configurar versiones personalizadas de Chrome para los usuarios que comparten un dispositivo o computadora. Tenga en cuenta que cualquier persona que tenga acceso a su dispositivo podrá ver toda la información en todos los perfiles. Si desea proteger realmente sus datos para que otras personas no los vean, utilice las cuentas de usuario integradas en su sistema operativo. Más información
+Administración de usuarios en Chrome para empresas
+
+En algunos casos, son las empresas o instituciones educativas las que administran los navegadores Chrome o las Chromebooks. En ese caso, el administrador puede aplicar políticas específicas. Chrome se contacta con Google para conocer estas políticas cuando el usuario comienza a navegar (excepto en el modo de invitado) y busca actualizaciones de las políticas periódicamente.
+
+Un administrador puede configurar una política para que se generen informes sobre el estado y la actividad de Chrome, incluida la información sobre la ubicación de dispositivos del Sistema operativo Chrome. Es posible que los administradores también puedan supervisar, usar o divulgar datos a los que se haya accedido desde el dispositivo administrado.
+Prácticas de la Navegación segura
+
+Google Chrome y determinados navegadores de terceros, como algunas versiones de Mozilla Firefox y Safari de Apple, incluyen la función de Navegación segura de Google. Con ella, se envía y recibe información sobre sitios web sospechosos entre el navegador en uso y los servidores de Google.
+Cómo funciona la Navegación segura
+
+Su navegador se comunica con los servidores de Google de forma periódica para descargar la lista más reciente de \Navegación segura\, que contiene sitios conocidos de suplantación de identidad (phishing) o software malicioso. La copia actualizada de la lista se almacena localmente en su sistema. Google no recopila información de la cuenta ni de identificación personal como parte de esta comunicación. Sin embargo, recibe información convencional de registro, incluidas la dirección IP y cookies.
+
+Cada uno de los sitios que visita se verifican en la lista de la Navegación segura alojada en su sistema. Si hay alguna coincidencia, el navegador le envía a Google una representación oculta de una copia parcial de la URL del sitio de modo que Google pueda enviarle más información al navegador. Con estos datos, Google no puede determinar la URL que está visitando. Más información
+
+Las siguientes funciones de la Navegación segura son exclusivas de Chrome:
+
+    Si activó el modo de Protección mejorada para la Navegación segura, Chrome brindará más medidas de protección y enviará datos adicionales a Google, conforme a lo descrito en la configuración de Chrome. Obtenga más información. Es posible que, cuando se habilita la Protección estándar, algunas de estas medidas de protección también estén disponibles como funciones independientes con controles específicos.
+
+    Si activó "Mejorar las búsquedas y la navegación" y "Envía a Google las URL de las páginas que visitas", y se habilitó la Navegación segura, Chrome enviará a Google la URL completa de cada sitio que visita para determinar si es seguro. Si además sincroniza su historial de navegación sin una frase de contraseña de sincronización, estas URL estarán asociadas temporalmente a su Cuenta de Google para proporcionar una protección más personalizada. Esta función está inhabilitada en los modos Incógnito y de invitado.
+
+    Algunas versiones de Chrome cuentan con la tecnología de Navegación segura que puede identificar sitios potencialmente dañinos y tipos de archivos potencialmente peligrosos que Google todavía no conozca. Es posible que también se le envíe a Google la URL completa del sitio o el archivo potencialmente peligrosos con el fin de determinar si el sitio o el archivo son dañinos.
+
+    Chrome usa la tecnología de Navegación segura para analizar la computadora de forma periódica y detectar software no deseado que no les permita a los usuarios cambiar configuraciones o que interfiera de alguna otra manera con la seguridad y la estabilidad del navegador. Más información. Si se detecta este tipo de software, es posible que Chrome le dé la opción de descargar la Herramienta para limpiar Chrome y eliminarlo.
+
+    Si accede a un sitio que podría contener software malicioso o si Chrome detecta software no deseado en su computadora, puede enviar datos adicionales para ayudar a mejorar la Navegación segura. Más información
+
+    Si usa el administrador de contraseñas de Chrome, la Navegación segura se comunicará con Google cuando usted ingrese una contraseña guardada en una página poco común a fin de protegerlo ante ataques de suplantación de identidad (phishing). Chrome no envía sus contraseñas a Google como parte de esta protección. Además, la función Navegación segura protege la contraseña de su Cuenta de Google. Si la ingresa en un sitio que posiblemente sea de suplantación de identidad (phishing), Chrome le pedirá que la cambie. Si sincroniza su historial de navegación, Chrome también le avisará que posiblemente su Cuenta de Google esté siendo víctima de suplantación de identidad (phishing).
+
+    Si accedió a su Cuenta de Google, Chrome le advertirá cuando use un nombre de usuario y una contraseña que posiblemente hayan quedado expuestos en una violación de la seguridad de los datos. A fin de revisarlos, cuando acceda a un sitio, Chrome enviará a Google un hash parcial con su nombre de usuario y otra información encriptada sobre su contraseña. Como respuesta, Google enviará una lista de coincidencias posibles de violaciones conocidas. Chrome usa esta lista para determinar si su nombre de usuario y contraseña quedaron expuestos. En este proceso, Google no registra su nombre de usuario ni su contraseña. Tampoco detecta si quedaron expuestas. En la configuración de Chrome, se puede inhabilitar esta función. Obtenga más información.
+
+    En las versiones de Chrome para Android y computadoras de escritorio, puede inhabilitar la función de Navegación segura en la configuración de Chrome, en cualquier momento. En las versiones de Chrome para iOS, Apple controla la tecnología de Navegación segura que usa su dispositivo y es posible que envíe datos a otros proveedores de esta tecnología, además de Google.
+
+Prácticas de privacidad de apps, extensiones, temas, servicios y otros complementos
+
+Puede usar apps, extensiones, temas, servicios y otros complementos con Chrome, como algunos instalados previamente o ya integrados. Los complementos desarrollados y proporcionados por Google pueden comunicarse con los servidores de Google y, a menos que se indique lo contrario, están sujetos a la Política de Privacidad de Google. Los complementos desarrollados y proporcionados por terceros son responsabilidad de los creadores de los complementos y pueden tener otras políticas de privacidad.
+Administración de complementos
+
+Antes de instalar un complemento, debe consultar los permisos solicitados. Los complementos pueden tener permiso para realizar acciones como las siguientes:
+
+    Almacenar y compartir los datos almacenados de forma local o en su cuenta de Google Drive, además de acceder a ellos
+    Ver el contenido y acceder a este en los sitios web que visita
+    Usar las notificaciones que se envían a través de los servidores de Google
+
+Chrome puede interactuar con los complementos de varias maneras:
+
+    Buscando actualizaciones
+    Cuando se descargan e instalan actualizaciones
+    Cuando se envían indicadores de uso a Google acerca de los complementos
+
+Es posible que algunos complementos requieran acceso a un identificador único para administrar derechos digitales o entregar mensajes de inserción. Para desactivar el uso de identificadores, quite el complemento de Chrome.
+
+A veces, es posible que Google descubra complementos que representen una amenaza a la seguridad, violen las condiciones para desarrolladores de Chrome Web Store u otros acuerdos legales, legislación, reglamentos o políticas vigentes. Chrome descarga periódicamente una lista de esos complementos peligrosos para inhabilitarlos de forma remota o quitarlos del sistema.
+Información de privacidad sobre el registro del servidor
+
+Como la mayoría de los sitios web, nuestros servidores registran de forma automática las solicitudes de páginas que realice cuando visita nuestros sitios. Estos "registros del servidor" generalmente incluyen su solicitud web, Dirección de Protocolo de Internet, tipo de navegador, idioma del navegador, fecha y hora de su solicitud, y una o más cookies que puedan identificar su navegador de manera exclusiva.
+
+Aquí se muestra un ejemplo de una entrada de registro típica donde la búsqueda es para "automóviles", seguido de un desglose de sus partes:
+
+123.45.67.89 - 25/Mar/2003 10:15:32 - https://www.google.com/search?q=cars - Firefox 1.0.7; Windows NT 5.1 - 740674ce2123e969
+
+    123.45.67.89 es la dirección de Protocolo de Internet asignada al usuario por el ISP del usuario. Según el servicio del usuario, el proveedor del servicio puede asignarle al usuario una dirección diferente cada vez que se conecta a Internet.
+    25/Mar/2003 10:15:32 es la fecha y hora de la consulta.
+    https://www.google.com/search?q=cars es la URL solicitada, que incluye la búsqueda.
+    Firefox 1.0.7; Windows NT 5.1 es el navegador y el sistema operativo en uso.
+    740674ce2123a969 es el ID de la cookie única que se asignó exclusivamente a esta computadora específica la primera vez que visitó Google. (Los usuarios pueden borrar las cookies. Si el usuario eliminó la cookie de la computadora después de la última vez que visitó Google, este será el ID de la cookie única asignada al dispositivo la próxima vez que visite Google desde ese dispositivo específico).
+
+Más información
+
+La información que recibe Google cuando utiliza Chrome se usa y protege a través de la Política de Privacidad de Google. La información que reciben otros operadores de sitios web y los desarrolladores de complementos, incluidas las cookies, está sujeta a las políticas de privacidad de esos sitios web.
+
+Las leyes de protección de datos varían según los países y algunas brindan más protección que otras. Independientemente de dónde se procesa su información, utilizamos los mismos mecanismos de protección que se describen en la Política de Privacidad de Google. También cumplimos con ciertos marcos legales relacionados con la transferencia de datos, incluidos los marcos europeos descritos en nuestra página de Marcos de Transferencia de Datos. Obtenga más información.
+Términos clave
+Cookies
+
+Una cookie es un archivo pequeño que contiene una cadena de caracteres que se envía a la computadora cuando visita un sitio web. Cuando vuelve a visitar el sitio, la cookie permite que ese sitio reconozca el navegador. Las cookies pueden almacenar las preferencias del usuario y otro tipo de información. Puede configurar la navegador para rechazar todas las cookies o para que se le indique cuando se envía una cookie. Sin embargo, es posible que ciertas características o algunos servicios de sitios web no funcionen adecuadamente sin las cookies. Más información sobre las cookies y los datos, cuando usa las apps o los sitios de nuestros socios.
+Cuenta de Google
+
+Para acceder a algunos de nuestros servicios, debe abrirse a una Cuenta de Google y proporcionar algunos datos personales (por lo general, su nombre, dirección de correo electrónico y una contraseña). Esta información se usará para autenticarlo cuando acceda a los servicios de Google y proteger la Cuenta cuando otras personas quieran acceder sin autorización. Puede modificar o borrar la Cuenta de Google en cualquier momento desde la configuración. 
