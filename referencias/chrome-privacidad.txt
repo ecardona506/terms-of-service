@@ -1,0 +1,34 @@
+No es necesario proporcionar información personal para usar Chrome, pero recuerde que el navegador ofrece diferentes modos de uso que le permitirán cambiar o mejorar la experiencia de navegación.
+
+El modo de navegador básico almacena información de forma local en el sistema. Esta información puede incluir lo siguiente:Información sobre el historial de navegación;
+Información personal y contraseñas para ayudarlo a completar formularios o acceder a los sitios que visita; Cookies o datos de los sitios web que visita; Datos guardados por complementos; Un registro de las descargas realizadas desde sitios web.
+
+La información personal que almacena Chrome no se enviará a Google a menos que usted decida almacenar esos datos en su Cuenta de Google activando la sincronización o eligiendo credenciales o datos de facturación y de tarjetas de pago específicos para almacenar en su Cuenta de Google.
+
+En general, el uso de Chrome para acceder a los servicios de Google, como Gmail, no implica que recibamos información de identificación personal sobre usted.
+
+Para obtener más información geográficamente relevante, Chrome le da la opción de compartir su ubicación con un sitio. Chrome no permitirá que ningún sitio acceda a su ubicación sin su permiso. Google no controla los sitios web de terceros ni sus prácticas de privacidad, por lo que debe tener cuidado comparte su ubicación con un sitio web.
+
+Si accedió a su cuenta en un sitio de Google y Google es su motor de búsqueda predeterminado, las búsquedas que haga desde el cuadro multifunción o el cuadro de búsqueda en la página de una nueva pestaña en Chrome se almacenarán en su Cuenta de Google.
+
+Chrome envía a Google información anónima y limitada sobre los formularios web que se le presentan o que usted envía mientras está habilitada la función Autocompletar o la administración de contraseñas.
+
+Si utiliza una forma de pago de su Cuenta de Google o elige guardar la forma de pago allí para utilizarla más adelante, Chrome recopilará información sobre su computadora y la compartirá con Google Pay para protegerlo de actividades fraudulentas y proporcionarle el servicio.
+
+Los informes de fallas y las Estadísticas de uso se envían a Google de forma predeterminada para mejorar nuestros productos. Si habilitó la Sincronización de Chrome, Chrome podrá combinar cualquier información de género y edad declarada de su Cuenta de Google con nuestras estadísticas para que podamos desarrollar productos más aptos para todos los segmentos demográficos. Es posible que compartamos información global y anónima de forma pública y con nuestros socios, como editores, anunciantes y desarrolladores web. Puede dejar de enviar a Google las Estadísticas de uso y los informes de fallas en cualquier momento.
+
+Cuando accede al navegador Chrome o una Chromebook y sincroniza su Cuenta de Google, su información personal se guarda en su Cuenta de Google, en los servidores de Google, para que pueda acceder a ella cuando ingresa en Chrome y lo sincroniza en otras computadoras y dispositivos.
+
+Si desea usar la nube de Google para almacenar y sincronizar los datos de Chrome, pero no desea que Google acceda a ellos, puede encriptar los datos sincronizados con su propia frase de contraseña de sincronización.
+
+Chrome no compartirá las cookies existentes con los sitios que visite en los modos de navegación incógnito o invitado.
+
+Los permisos que conceda en el modo de navegación incógnito no se guardarán en el perfil existente.
+
+Google Chrome y determinados navegadores de terceros, como algunas versiones de Mozilla Firefox y Safari de Apple, incluyen la función de Navegación segura de Google. Con ella, se envía y recibe información sobre sitios web sospechosos entre el navegador en uso y los servidores de Google.
+
+Si activó el modo de Protección mejorada para la Navegación segura, Chrome brindará más medidas de protección y enviará datos adicionales a Google, conforme a lo descrito en la configuración de Chrome.
+
+Si usa el administrador de contraseñas de Chrome, la Navegación segura se comunicará con Google cuando usted ingrese una contraseña guardada en una página poco común a fin de protegerlo ante ataques de suplantación de identidad (phishing).
+
+La información que recibe Google cuando utiliza Chrome se usa y protege a través de la Política de Privacidad de Google.
