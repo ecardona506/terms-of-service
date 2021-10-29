@@ -1,0 +1,11 @@
+La mayor parte de la actividad en Twitter es pública, lo que incluye su información de perfil2, su zona horaria e idioma, la fecha de creación de su cuenta y sus Tweets, así como cierta información de sus Tweets como la fecha, hora y la aplicación y versión de Twitter desde la que Twitteó.
+
+Usted es responsable de sus Tweets y otras informaciones que proporcione a través de nuestros servicios y debe pensar con detenimiento lo que hace público, especialmente si se trata de información sensible.
+
+Utilizamos su información de contacto, como su dirección de correo electrónico o número de teléfono, para autenticar y mantener la seguridad de su cuenta (y de nuestros servicios), así como para evitar el correo no deseado, el fraude y el abuso.
+
+Twitter también utiliza su información de contacto para mostrarle publicidad según permitan las leyes de su país y para ayudar a otros a encontrar su cuenta si su configuración lo permite, incluyendo a través de servicios y aplicaciones cliente de terceros.
+
+usted puede utilizar Mensajes directos para mantener conversaciones en Twitter que no sean públicas, proteger sus Tweets o realizar transmisiones privadas en Periscope. Cuando se comunique con otros enviando o recibiendo Mensajes directos, almacenaremos y procesaremos sus comunicaciones y la información relacionada con ellas. También utilizamos información sobre con quién se ha comunicado y cuándo (pero no el contenido de estas comunicaciones) para comprender mejor la utilización de nuestros servicios, proteger la seguridad e integridad de nuestra plataforma y mostrar un contenido más relevante.
+
+Usted puede proporcionarnos su información de pago6, incluyendo su número de tarjeta de crédito o débito, fecha de caducidad de su tarjeta, código CVV y dirección de facturación, para comprar publicidad u otros productos proporcionados como parte de nuestros servicios.

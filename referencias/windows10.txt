@@ -1,0 +1,35 @@
+Este contrato se aplica al software de Windows preinstalado en el dispositivo o comprado a un distribuidor y que usted haya instalado, el soporte físico en el que recibió el software (si lo hubiera), cualquier fuente, icono, imagen o archivo de sonido incluidos con el software, así como también cualquier actualización, complemento o servicio de Microsoft para el software, a menos que estos vayan acompañados de otros términos.
+
+Microsoft, el fabricante o el instalador puede incluir aplicaciones adicionales, que estarán sujetas a términos de licencia y directivas de privacidad independientes.
+
+El software puede incluir programas de terceros cuya licencia se le otorga en virtud del presente contrato o de sus propios términos.
+
+El software se cede bajo licencia y no es objeto de venta.
+
+El fabricante o el instalador y Microsoft se reservan todos los derechos (como los posibles derechos en virtud de determinadas leyes de propiedad intelectual e industrial) no concedidos expresamente en este contrato.
+
+Si al adquirir el software, se proporciona con varias versiones (por ejemplo, de 32 bits y 64 bits), solo puede instalar y activar una de estas versiones a la vez.
+
+Puede permitir que un máximo de 20 dispositivos accedan al software instalado en el dispositivo bajo licencia para utilizar las siguientes características del software: servicios de archivo, servicios de impresión, Internet Information Services y servicios de telefonía y conexión compartida a Internet en el dispositivo con licencia.
+
+Esta licencia le autoriza a instalar una sola instancia del software para su uso en un solo dispositivo, que puede ser físico o virtual.
+
+Puede crear una única copia del software para fines de copia de seguridad y también puede utilizar dicha copia de seguridad para transmitir el software si lo obtuvo como software independiente.
+
+Si adquirió el software preinstalado en un dispositivo (y también si realizó una actualización desde el software preinstalado en un dispositivo), puede transmitir directamente a otro usuario la licencia para utilizar el software, pero solo con el dispositivo licenciado.
+
+Si obtuvo el dispositivo de un fabricante o instalador con una versión Professional de Windows preinstalada, puede utilizar una versión Profesional de Windows 8.1 Pro o Windows 7, pero siempre y cuando Microsoft ofrezca soporte técnico para dicha versión anterior.
+
+Si el uso del software está restringido a una región geográfica específica, puede activar el software solo en esa región.
+
+Las leyes del estado, país o región en que reside (o si se trata de una empresa, donde se encuentre su domicilio comercial principal) regirán las reclamaciones y los conflictos relativos al software, su precio o este contrato, incluidas las reclamaciones por incumplimiento de contrato y las reclamaciones en virtud de las leyes de protección al consumidor, competencia desleal, garantía implícita, enriquecimiento sin causa y responsabilidad extracontractual, con independencia de conflictos de principios legales.
+
+Es posible que algunas características del software y los servicios a los que se accede a través de este requieran que su dispositivo acceda a Internet. El acceso y el uso (incluidos los cargos) pueden estar sujetos a los términos del contrato que tenga con su proveedor de Internet o telefonía móvil.
+
+El software activará la protección contra malware si el dispositivo no tiene instalada otra protección o si ha expirado.
+
+En el caso del uso académico, usted debe ser un estudiante, un docente o un empleado de una institución educativa en el momento de la compra.
+
+En el caso del uso con fines de evaluación (o prueba o demostración), no puede vender el software, utilizarlo en un entorno operativo activo, ni utilizarlo después del periodo de evaluación. Independientemente de cualquier estipulación en sentido contrario en este Contrato, el software se proporciona “TAL CUAL” y ninguna garantía, ni implícita ni expresa (incluyendo la Garantía Limitada), se aplica a estas versiones.
+
+Si el fabricante o instalador, o Microsoft, no cumple la garantía limitada, podrá, a su elección: (i) reparar o reemplazar el software sin coste alguno o (ii) aceptar la devolución del software (o, a su elección, el dispositivo en el que se preinstaló el software) a cambio del reembolso del importe pagado, si existió dicho pago.
